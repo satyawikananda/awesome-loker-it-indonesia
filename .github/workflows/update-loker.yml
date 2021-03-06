@@ -1,0 +1,48 @@
+name: Awesome loker IT CI
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "* * * * *"
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [10.x, 12.x, 14.x, 15.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setupjobs:
+  start_build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Install dependencies
+      run : npm install
+    - name: Start scrape data of couple
+      run : ts-node ./src/index.ts
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "satyawikananda"
+        git config user.email "${{ secrets.EMAIL }}"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "chore(loker): Update loker" || exit 0
+        git push-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm ci
+    - run: npm run build --if-present
+    - run: npm test
