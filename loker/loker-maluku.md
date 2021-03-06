@@ -7,6 +7,6 @@
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|PT Halmahera Jaya Feronikel|IT Staff (Penempatan Pulau Obi, Maluku Utara)|Penuh Waktu|---|Maluku|Provide technical support to the development of infrastructure systems and services Define, order and monitor installation and integration of hardware...|Jumat, 19 Februari 2021|https://www.jobstreet.co.id/id/job/it-staff-penempatan-pulau-obi-maluku-utara-3462767?token=0~e321a39e-6a71-4a12-9593-951cf170c6b6&sectionRank=1&jobId=jobstreet-id-job-3462767|
+  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|PT Halmahera Jaya Feronikel|IT Staff (Penempatan Pulau Obi, Maluku Utara)|Penuh Waktu|---|Maluku|Provide technical support to the development of infrastructure systems and services Define, order and monitor installation and integration of hardware...|Jumat, 19 Februari 2021|https://www.jobstreet.co.id/id/job/it-staff-penempatan-pulau-obi-maluku-utara-3462767?token=0~a31cdd28-3598-4eec-8e0e-154651767d6a&sectionRank=1&jobId=jobstreet-id-job-3462767|
 
   
