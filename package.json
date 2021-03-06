@@ -14,7 +14,7 @@
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
-    "fix": "gts fix",
+    "fix": "gts fix"
   },
   "devDependencies": {
     "@types/node": "^14.11.2",
