@@ -1,7 +1,7 @@
 {
   "name": "awesome-loker-it-indonesia",
   "version": "0.0.0",
-  "description": "",
+  "description": "Daftar lowongan kerja IT yang ada di indonesia",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
   "files": [
@@ -14,7 +14,8 @@
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
-    "fix": "gts fix"
+    "fix": "gts fix",
+    "update": "ts-node ./src/index.ts"
   },
   "devDependencies": {
     "@types/node": "^14.11.2",
