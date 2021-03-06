@@ -19,7 +19,7 @@ jobs:
     - name: Install dependencies
       run : npm install
     - name: Start update loker
-      run : ts-node ./src/index.ts
+      run : npm run update
     - name: Commit and push if it changed
       run: |-
         git config user.name "satyawikananda"
