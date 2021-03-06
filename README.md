@@ -20,11 +20,48 @@
 
 # Pendahuluan
 
-Awesome Loker IT Indonesia adalah hanya sebuah daftar daftar lowongan kerja IT yang ada di seluruh provinsi Indonesia. Data data loker yang ada di projek ini, diambil dari graphQl Jobstreet dan akan terus diperbarui setiap harinya dengan bantuan Github Actions.
+Awesome Loker IT Indonesia adalah hanya sebuah daftar daftar lowongan kerja IT yang ada di seluruh provinsi Indonesia. Data data loker yang ada di projek ini, diambil dari graphQL Jobstreet dan akan terus diperbarui setiap harinya dengan bantuan Github Actions.
 
 [Kembali ke konten ⬆](#konten)
 
 # Daftar lowongan kerja
+
+Berikut daftar lowongan kerja per provinsi yang ada di Indonesia
+
+* [Bali](./loker/loker-bali.md)
+* [Jakarta](./loker/loker-jakarta.md)
+* [Aceh](./loker/loker-aceh.md)
+* [Sumatera Utara](./loker/loker-sumatera-utara.md)
+* [Sumatera Barat](./loker/loker-sumatera-barat.md)
+* [Sumatera Selatan](./loker/loker-sumatera-selatan.md)
+* [Riau](./loker/loker-riau.md)
+* [Kepulauan Riau](./loker/loker-kepulauan-riau.md)
+* [Jambi](./loker/loker-jambi.md)
+* [Bangka Belitung](./loker/loker-bangka-belitung.md)
+* [Lampung](./loker/loker-lampung.md)
+* [Bengkulu](./loker/loker-bengkulu.md)
+* [Banten](./loker/loker-banten.md)
+* [Jawa Barat](./loker/loker-jawa-barat.md)
+* [Jawa Timur](./loker/loker-jawa-timur.md)
+* [Jawa Tengah](./loker/loker-jawa-tengah.md)
+* [Yogyakarta](./loker/loker-yogyakarta.md)
+* [Nusa Tenggara Barat](./loker/loker-nusa-tenggara-barat.md)
+* [Nusa Tenggara Timur](./loker/loker-nusa-tenggara-timur.md)
+* [Kalimantan Barat](./loker/loker-kalimantan-barat.md)
+* [Kalimantan Tengah](./loker/loker-kalimantan-tengah.md)
+* [Kalimantan Selatan](./loker/loker-kalimantan-selatan.md)
+* [Kalimantan Timur](./loker/loker-kalimantan-timur.md)
+* [Kalimantan Utara](./loker/loker-kalimantan-utara.md)
+* [Sulawesi Utara](./loker/loker-sulawesi-utara.md)
+* [Sulawesi Tengah](./loker/loker-sulawesi-tengah.md)
+* [Sulawesi Barat](./loker/loker-sulawesi-barat.md)
+* [Sulawesi Selatan](./loker/loker-sulawesi-selatan.md)
+* [Sulawesi Tenggara](./loker/loker-sulawesi-tenggara.md)
+* [Gorontalo](./loker/loker-gorontalo.md)
+* [Maluku](./loker/loker-maluku.md)
+* [Maluku Utara](./loker/loker-maluku-utara.md)
+* [Papua Barat](./loker/loker-papua-barat.md)
+* [Papua](./loker/loker-papua.md)
 
 [Kembali ke konten ⬆](#konten)
 
