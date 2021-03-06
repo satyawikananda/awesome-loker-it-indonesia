@@ -22,11 +22,13 @@
 
 Awesome Loker IT Indonesia adalah hanya sebuah daftar daftar lowongan kerja IT yang ada di seluruh provinsi Indonesia. Data data loker yang ada di projek ini, diambil dari graphQL Jobstreet dan akan terus diperbarui setiap harinya dengan bantuan Github Actions.
 
+> Jika kalian ingin mendapatkan pembaruan dari repositori ini, kalian bisa klik tombol `watch` di repositori ini.
+
 [Kembali ke konten ⬆](#konten)
 
 # Daftar lowongan kerja
 
-Berikut daftar lowongan kerja per provinsi yang ada di Indonesia
+Berikut daftar lowongan kerja per provinsi yang ada di Indonesia:
 
 * [Bali](./loker/loker-bali.md)
 * [Jakarta](./loker/loker-jakarta.md)
@@ -114,4 +116,4 @@ Ingin projek ini jadi lebih baik? Anda bisa kontribusi ke projek ini, saya sanga
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
 
-Dibuat menggunakan Typescipt. Kode berlisensi dibawah [MIT License](https://raw.githubusercontent.com/satyawikananda/awesome-loker-it-indonesia/main/LICENSE?token=AH44ZFF4GHAMNS4WIL4FCC3ADZ4F6).
+Dibuat menggunakan Typescript. Kode berlisensi dibawah [MIT License](https://raw.githubusercontent.com/satyawikananda/awesome-loker-it-indonesia/main/LICENSE?token=AH44ZFF4GHAMNS4WIL4FCC3ADZ4F6).
