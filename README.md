@@ -114,4 +114,4 @@ Ingin projek ini jadi lebih baik? Anda bisa kontribusi ke projek ini, saya sanga
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
 
-Dibuat menggunakan Typescipt. Kode berlisensi dibawah [MIT License](https://raw.githubusercontent.com/satyawikananda/awesome-loker-it-indonesia/main/LICENSE?token=AH44ZFF4GHAMNS4WIL4FCC3ADZ4F6).
+Dibuat menggunakan Typescipt. Kode berlisensi dibawah [MIT License](https://raw.githubusercontent.com/satyawikananda/awesome-loker-it-indonesia/main/LICENSE?token=AH44ZFAOHJSNG7ST6S557NDAJS6JG).
