@@ -1,0 +1,16 @@
+
+  # Lowongan kerja di Riau
+
+  ### Diperbarui pada tanggal Sabtu, 06 Maret 2021
+
+  Berikut merupakan daftar lowongan kerja yang ada di Riau
+
+  |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
+  | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/4f505c9b7ad9ede72f3b58f5a8e775785c9aea35/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Teknologi Media Medika|Front End (React) Developer|Penuh Waktu|---|Pekanbaru|Strong knowledge of Javascript Strong knowledge in ReactJS concepts along with its popular accompanying libraries such as Redux, thunk, Axios, etc...|Sabtu, 06 Maret 2021|https://www.jobstreet.co.id/id/job/front-end-react-developer-3466928?token=0~5c3fa43d-4f17-44ef-a149-820e57be1a1a&sectionRank=1&jobId=jobstreet-id-job-3466928|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/4f505c9b7ad9ede72f3b58f5a8e775785c9aea35/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Teknologi Media Medika|Back End Developer|Penuh Waktu|---|Pekanbaru|Strong knowledge of Javascript Strong knowledge in Node JS Strong knowledge in creating a robust REST API (JSON) Strong knowledge in MongoDB and...|Sabtu, 06 Maret 2021|https://www.jobstreet.co.id/id/job/back-end-developer-3466929?token=0~5c3fa43d-4f17-44ef-a149-820e57be1a1a&sectionRank=2&jobId=jobstreet-id-job-3466929|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/4f505c9b7ad9ede72f3b58f5a8e775785c9aea35/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Teknologi Media Medika|Mobile App Developer - React Native|Penuh Waktu|---|Pekanbaru|Experience building production applications using React Native Experience with state management libraries such as Flux and Redux Experience with...|Sabtu, 06 Maret 2021|https://www.jobstreet.co.id/id/job/mobile-app-developer-react-native-3466930?token=0~5c3fa43d-4f17-44ef-a149-820e57be1a1a&sectionRank=3&jobId=jobstreet-id-job-3466930|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/af1044de0b0368b965f00fbbea921becef8205bb/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Karya Solusi Prima Sejahtera|Engineer On Site (Area Bengkalis)|Penuh Waktu|---|Riau|Persyaratan: Pendidikan minimal D3/S1 Teknik Informatika/Teknik Telekomunikasi Memiliki pengalaman bekerja di bidang yang sama minimal 1 tahun...|Minggu, 28 Februari 2021|https://www.jobstreet.co.id/id/job/engineer-on-site-area-bengkalis-3461121?token=0~5c3fa43d-4f17-44ef-a149-820e57be1a1a&sectionRank=4&jobId=jobstreet-id-job-3461121|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/07808e0e0514b875ff9e370c520f3f76aeab9a82/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Berca Hardayaperkasa|Printer Engineer|Kontrak|---|Pekanbaru|Responsibilities : Analyzing, diagnosing, and installation to several areas including desktop hardware, operating systems, application software and...|Kamis, 25 Februari 2021|https://www.jobstreet.co.id/id/job/printer-engineer-3467307?token=0~5c3fa43d-4f17-44ef-a149-820e57be1a1a&sectionRank=5&jobId=jobstreet-id-job-3467307|
+
+  
