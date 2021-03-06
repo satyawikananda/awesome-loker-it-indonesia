@@ -57,6 +57,8 @@ const template = ({data, location}: TemplateInterface) => {
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
   ${table(data)}
+
+  [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
   `;
 
   return template;
