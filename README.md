@@ -3,7 +3,7 @@
 
 <p>Daftar-daftar lowongan kerja IT yang ada di Indonesia</p>
 
-![berita-indo-api](https://socialify.git.ci/satyawikananda/berita-indo-api/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F26%2F91%2Ff2%2F2691f2fa1a0f078f5f274edf7fea6763.png&owner=1&pulls=1&stargazers=1&theme=Light)
+![awesome-loker-it-indonesia](https://socialify.git.ci/satyawikananda/awesome-loker-it-indonesia/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fsatyawikanandaportfolio.appspot.com%2Fo%2Fprojects%252Fawesome.png%3Falt%3Dmedia%26token%3D04e7632b-1703-4acf-ae16-83313db35102&owner=1&pulls=1&stargazers=1&theme=Light)
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://https://github.com/satyawikananda/awesome-loker-it-indonesia#readme)
 
@@ -117,3 +117,5 @@ Ingin projek ini jadi lebih baik? Anda bisa kontribusi ke projek ini, saya sanga
 ![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
 
 Dibuat menggunakan Typescript. Kode berlisensi dibawah [MIT License](https://raw.githubusercontent.com/satyawikananda/awesome-loker-it-indonesia/main/LICENSE?token=AH44ZFF4GHAMNS4WIL4FCC3ADZ4F6).
+
+[Kembali ke konten ⬆](#konten)
