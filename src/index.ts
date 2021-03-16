@@ -10,15 +10,19 @@ import {locations} from './const';
 const table = data => {
   return Object.keys(data)
     .map(key => {
-      const logo =
+      const logo: string =
         data[key]['companyMeta']['logoUrl'] !== ''
           ? data[key]['companyMeta']['logoUrl']
           : 'https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6';
+      const companyName: string =
+        data[key]['companyMeta']['isPrivate'] !== true
+          ? data[key]['companyMeta']['name']
+          : 'Nama perusahaan dirahasiakan';
       return (
         '|![logo-perusahaan](' +
         logo +
         ')|' +
-        data[key]['companyMeta']['name'] +
+        companyName +
         '|' +
         data[key]['jobTitle'] +
         '|' +
