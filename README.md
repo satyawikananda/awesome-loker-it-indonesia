@@ -30,40 +30,73 @@ Awesome Loker IT Indonesia adalah hanya sebuah daftar daftar lowongan kerja IT y
 
 Berikut daftar lowongan kerja per provinsi yang ada di Indonesia:
 
-* [Bali](./loker/loker-bali.md)
-* [Jakarta](./loker/loker-jakarta.md)
+## A
 * [Aceh](./loker/loker-aceh.md)
-* [Sumatera Utara](./loker/loker-sumatera-utara.md)
-* [Sumatera Barat](./loker/loker-sumatera-barat.md)
-* [Sumatera Selatan](./loker/loker-sumatera-selatan.md)
-* [Riau](./loker/loker-riau.md)
-* [Kepulauan Riau](./loker/loker-kepulauan-riau.md)
-* [Jambi](./loker/loker-jambi.md)
+
+## B
+* [Bali](./loker/loker-bali.md)
 * [Bangka Belitung](./loker/loker-bangka-belitung.md)
-* [Lampung](./loker/loker-lampung.md)
-* [Bengkulu](./loker/loker-bengkulu.md)
 * [Banten](./loker/loker-banten.md)
+* [Bengkulu](./loker/loker-bengkulu.md)
+
+## G
+
+* [Gorontalo](./loker/loker-gorontalo.md)
+
+## J
+
+* [Jakarta](./loker/loker-jakarta.md)
+* [Jambi](./loker/loker-jambi.md)
 * [Jawa Barat](./loker/loker-jawa-barat.md)
-* [Jawa Timur](./loker/loker-jawa-timur.md)
 * [Jawa Tengah](./loker/loker-jawa-tengah.md)
-* [Yogyakarta](./loker/loker-yogyakarta.md)
-* [Nusa Tenggara Barat](./loker/loker-nusa-tenggara-barat.md)
-* [Nusa Tenggara Timur](./loker/loker-nusa-tenggara-timur.md)
+* [Jawa Timur](./loker/loker-jawa-timur.md)
+
+## K
+
 * [Kalimantan Barat](./loker/loker-kalimantan-barat.md)
-* [Kalimantan Tengah](./loker/loker-kalimantan-tengah.md)
 * [Kalimantan Selatan](./loker/loker-kalimantan-selatan.md)
+* [Kalimantan Tengah](./loker/loker-kalimantan-tengah.md)
 * [Kalimantan Timur](./loker/loker-kalimantan-timur.md)
 * [Kalimantan Utara](./loker/loker-kalimantan-utara.md)
-* [Sulawesi Utara](./loker/loker-sulawesi-utara.md)
-* [Sulawesi Tengah](./loker/loker-sulawesi-tengah.md)
-* [Sulawesi Barat](./loker/loker-sulawesi-barat.md)
-* [Sulawesi Selatan](./loker/loker-sulawesi-selatan.md)
-* [Sulawesi Tenggara](./loker/loker-sulawesi-tenggara.md)
-* [Gorontalo](./loker/loker-gorontalo.md)
+* [Kepulauan Riau](./loker/loker-kepulauan-riau.md)
+
+## L
+
+* [Lampung](./loker/loker-lampung.md)
+
+## M
+
 * [Maluku](./loker/loker-maluku.md)
 * [Maluku Utara](./loker/loker-maluku-utara.md)
-* [Papua Barat](./loker/loker-papua-barat.md)
+
+## N
+
+* [Nusa Tenggara Barat](./loker/loker-nusa-tenggara-barat.md)
+* [Nusa Tenggara Timur](./loker/loker-nusa-tenggara-timur.md)
+
+## P
+
 * [Papua](./loker/loker-papua.md)
+* [Papua Barat](./loker/loker-papua-barat.md)
+
+## R
+
+* [Riau](./loker/loker-riau.md)
+
+## S
+
+* [Sulawesi Barat](./loker/loker-sulawesi-barat.md)
+* [Sulawesi Selatan](./loker/loker-sulawesi-selatan.md)
+* [Sulawesi Tengah](./loker/loker-sulawesi-tengah.md)
+* [Sulawesi Tenggara](./loker/loker-sulawesi-tenggara.md)
+* [Sulawesi Utara](./loker/loker-sulawesi-utara.md)
+* [Sumatera Barat](./loker/loker-sumatera-barat.md)
+* [Sumatera Selatan](./loker/loker-sumatera-selatan.md)
+* [Sumatera Utara](./loker/loker-sumatera-utara.md)
+
+## Y
+
+* [Yogyakarta](./loker/loker-yogyakarta.md)
 
 [Kembali ke konten ⬆](#konten)
 
