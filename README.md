@@ -9,22 +9,11 @@
 
 </div>
 
-# Konten
-
-* [Pendahuluan](#pendahuluan)
-* [Daftar lowongan kerja](#daftar-lowongan-kerja)
-* [Instalasi](#instalasi)
-* [Teknologi yang dipakai](#teknologi-yang-dipakai)
-* [Dukung saya](#dukung-saya)
-* [Kontribusi](#kontribusi)
-
 # Pendahuluan
 
 Awesome Loker IT Indonesia adalah hanya sebuah daftar daftar lowongan kerja IT yang ada di seluruh provinsi Indonesia. Data data loker yang ada di projek ini, diambil dari graphQL Jobstreet dan akan terus diperbarui setiap harinya dengan bantuan Github Actions.
 
 > Jika kalian ingin mendapatkan pembaruan dari repositori ini, kalian bisa klik tombol `watch` di repositori ini.
-
-[Kembali ke konten ⬆](#konten)
 
 # Daftar lowongan kerja
 
@@ -98,8 +87,6 @@ Berikut daftar lowongan kerja per provinsi yang ada di Indonesia:
 
 * [Yogyakarta](./loker/loker-yogyakarta.md)
 
-[Kembali ke konten ⬆](#konten)
-
 # Instalasi
 
 Jika Anda ingin menambahkan projek ini di komputer Anda sendiri, Anda bisa melakukan instalasi dengan mengikuti cara dibawah ini
@@ -120,8 +107,6 @@ pnpm install
 
 > Untuk mengeksekusi program saya, Anda bisa menggunakan perintah `ts-node ./src/index.ts` di dalam terminal.
 
-[Kembali ke konten ⬆](#konten)
-
 # Teknologi yang dipakai
 
 Untuk teknologi-nya, projek ini menggunakan:
@@ -132,13 +117,9 @@ Untuk teknologi-nya, projek ini menggunakan:
 4. Day JS
 5. dan bantuan lainnya
 
-[Kembali ke konten ⬆](#konten)
-
 # Dukung saya
 
 Anda bisa mendukung saya di [Karya Karsa](https://karyakarsa.com/satyawikananda) dan [Saweria](https://saweria.co/satyawikananda/)
-
-[Kembali ke konten ⬆](#konten)
 
 # Kontribusi
 
@@ -150,5 +131,3 @@ Ingin projek ini jadi lebih baik? Anda bisa kontribusi ke projek ini, saya sanga
 ![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
 
 Dibuat menggunakan Typescript. Kode berlisensi dibawah [MIT License](https://raw.githubusercontent.com/satyawikananda/awesome-loker-it-indonesia/main/LICENSE).
-
-[Kembali ke konten ⬆](#konten)
