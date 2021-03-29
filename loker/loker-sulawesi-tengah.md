@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Sulawesi tengah
 
-  ### Diperbarui pada tanggal Minggu, 28 Maret 2021
+  ### Diperbarui pada tanggal Senin, 29 Maret 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi tengah
 
