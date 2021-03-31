@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku utara
 
-  ### Diperbarui pada tanggal Selasa, 30 Maret 2021
+  ### Diperbarui pada tanggal Rabu, 31 Maret 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|PT Halmahera Persada Lygend|IT Infrastructure & Networking Staff (Penempatan Pulau Obi, Maluku Utara)|Penuh Waktu|---|Maluku Utara|Job Description : Provide technical support to the development of the infrastructure systems and services Define, order, and monitor installation and...|Senin, 22 Maret 2021|https://www.jobstreet.co.id/id/job/it-infrastructure-networking-staff-penempatan-pulau-obi-maluku-utara-3487623?token=0~66d17045-de72-4dd7-950d-ee330b56d5dd&sectionRank=1&jobId=jobstreet-id-job-3487623|
+  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|PT Halmahera Persada Lygend|IT Infrastructure & Networking Staff (Penempatan Pulau Obi, Maluku Utara)|Penuh Waktu|---|Maluku Utara|Job Description : Provide technical support to the development of the infrastructure systems and services Define, order, and monitor installation and...|Senin, 22 Maret 2021|https://www.jobstreet.co.id/id/job/it-infrastructure-networking-staff-penempatan-pulau-obi-maluku-utara-3487623?token=0~3ef16ed6-234d-4f33-b548-d599625055e3&sectionRank=1&jobId=jobstreet-id-job-3487623|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
