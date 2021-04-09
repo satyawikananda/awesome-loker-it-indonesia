@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Sumatera barat
 
-  ### Diperbarui pada tanggal Kamis, 08 April 2021
+  ### Diperbarui pada tanggal Jumat, 09 April 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Sumatera barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|IT STAFF|Penuh Waktu|---|Sumatera Barat|Pendidikan minimal S1 segala jurusan Untuk posisi programmer harus memiliki pengetahuan mengenai PHP dan bahasa pemrograman lainnya Untuk posisi IT...|Rabu, 07 April 2021|https://www.jobstreet.co.id/id/job/it-staff-3501117?token=0~2808a90e-d053-4201-a3e4-53e3d4c65d7d&sectionRank=1&jobId=jobstreet-id-job-3501117|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/8adc79bf25f3030aaac1afdb0d571d1be51aabf7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Sannik Albana Indonesia|Admin IT|Penuh Waktu|---|Padang|Admin ITPT SANNIK ALBANA INDONESIA Persyaratan: Usia maksimal 27 tahun Pendidikan minimal D3 Teknologi Sistem Informasi, IPK minimal 3.00 Pengalaman...|Senin, 15 Maret 2021|https://www.jobstreet.co.id/id/job/admin-it-3481845?token=0~2808a90e-d053-4201-a3e4-53e3d4c65d7d&sectionRank=2&jobId=jobstreet-id-job-3481845|
+  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|IT STAFF|Penuh Waktu|---|Sumatera Barat|Pendidikan minimal S1 segala jurusan Untuk posisi programmer harus memiliki pengetahuan mengenai PHP dan bahasa pemrograman lainnya Untuk posisi IT...|Rabu, 07 April 2021|https://www.jobstreet.co.id/id/job/it-staff-3501117?token=0~5d58e442-3641-4b92-bf5a-e1fbfd380e28&sectionRank=1&jobId=jobstreet-id-job-3501117|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/ab33d9f2a3cc6c799013563240f353c8cfbd852f/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Sannik Albana Indonesia|Admin IT|Penuh Waktu|---|Padang|Admin ITPT SANNIK ALBANA INDONESIA Persyaratan: Usia maksimal 27 tahun Pendidikan minimal D3 Teknologi Sistem Informasi, IPK minimal 3.00 Pengalaman...|Senin, 15 Maret 2021|https://www.jobstreet.co.id/id/job/admin-it-3481845?token=0~5d58e442-3641-4b92-bf5a-e1fbfd380e28&sectionRank=2&jobId=jobstreet-id-job-3481845|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
