@@ -1,14 +1,13 @@
 
   # Lowongan kerja di Sumatera barat
 
-  ### Diperbarui pada tanggal Rabu, 14 April 2021
+  ### Diperbarui pada tanggal Kamis, 15 April 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Sumatera barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|IT STAFF|Penuh Waktu|---|Sumatera Barat|Pendidikan minimal S1 segala jurusan Untuk posisi programmer harus memiliki pengetahuan mengenai PHP dan bahasa pemrograman lainnya Untuk posisi IT...|Rabu, 07 April 2021|https://www.jobstreet.co.id/id/job/it-staff-3501117?token=0~2e520bd7-64b9-42ab-905c-1aee19045a71&sectionRank=1&jobId=jobstreet-id-job-3501117|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/8adc79bf25f3030aaac1afdb0d571d1be51aabf7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Sannik Albana Indonesia|Admin IT|Penuh Waktu|---|Padang|Admin ITPT SANNIK ALBANA INDONESIA Persyaratan: Usia maksimal 27 tahun Pendidikan minimal D3 Teknologi Sistem Informasi, IPK minimal 3.00 Pengalaman...|Senin, 15 Maret 2021|https://www.jobstreet.co.id/id/job/admin-it-3481845?token=0~2e520bd7-64b9-42ab-905c-1aee19045a71&sectionRank=2&jobId=jobstreet-id-job-3481845|
+  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|IT STAFF|Penuh Waktu|---|Sumatera Barat|Pendidikan minimal S1 segala jurusan Untuk posisi programmer harus memiliki pengetahuan mengenai PHP dan bahasa pemrograman lainnya Untuk posisi IT...|Rabu, 07 April 2021|https://www.jobstreet.co.id/id/job/it-staff-3501117?token=0~4a211a42-8bd0-4421-ba94-7ab395ab3843&sectionRank=1&jobId=jobstreet-id-job-3501117|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
