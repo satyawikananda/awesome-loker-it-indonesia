@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Papua
 
-  ### Diperbarui pada tanggal Senin, 19 April 2021
+  ### Diperbarui pada tanggal Selasa, 20 April 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/64b85e3aa2e588c81270eb30de69a6443b184393/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Ena Ena Indonesia (Jakarta)|FIELD APPLICATION ENGINEER|Penuh Waktu|---|Papua|ENA INDONESIA adalah perusahaan solusi IT di bidang kesehatan, pendidikan dan pemerintahan, mencari  FIELD APPLICATION ENGINEER Yang terbeban untuk...|Senin, 12 April 2021|https://www.jobstreet.co.id/id/job/field-application-engineer-3504960?token=0~c3d7469f-15ae-4dd6-9948-3a6d7b287ed1&sectionRank=1&jobId=jobstreet-id-job-3504960|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/64b85e3aa2e588c81270eb30de69a6443b184393/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Ena Ena Indonesia (Jakarta)|FIELD APPLICATION ENGINEER|Penuh Waktu|---|Papua|ENA INDONESIA adalah perusahaan solusi IT di bidang kesehatan, pendidikan dan pemerintahan, mencari  FIELD APPLICATION ENGINEER Yang terbeban untuk...|Senin, 12 April 2021|https://www.jobstreet.co.id/id/job/field-application-engineer-3504960?token=0~367e1905-1df5-47fd-a15a-cbeb818252a5&sectionRank=1&jobId=jobstreet-id-job-3504960|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
