@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Aceh
 
-  ### Diperbarui pada tanggal Sabtu, 24 April 2021
+  ### Diperbarui pada tanggal Minggu, 25 April 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Aceh
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3eac216066c62f91a428474b55e86479f21be1b1/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|mClinica Pte. Ltd (Jakarta)|Android Developer (Kotlin)|Penuh Waktu|---|Aceh|mClinica is hiring for a Senior Mobile Developer (Android) to serve our clients in Southeast Asia and support our growth regionally and globally. We...|Sabtu, 17 April 2021|https://www.jobstreet.co.id/id/job/android-developer-kotlin-3509865?token=0~eb447d14-653b-4980-80b4-d64cc4235a82&sectionRank=1&jobId=jobstreet-id-job-3509865|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3eac216066c62f91a428474b55e86479f21be1b1/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|mClinica Pte. Ltd (Jakarta)|Android Developer (Kotlin)|Penuh Waktu|---|Aceh|mClinica is hiring for a Senior Mobile Developer (Android) to serve our clients in Southeast Asia and support our growth regionally and globally. We...|Sabtu, 17 April 2021|https://www.jobstreet.co.id/id/job/android-developer-kotlin-3509865?token=0~7e1f944d-e64c-4992-97f5-1545847e3ddb&sectionRank=1&jobId=jobstreet-id-job-3509865|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
