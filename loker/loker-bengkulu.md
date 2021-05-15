@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Bengkulu
 
-  ### Diperbarui pada tanggal Jumat, 14 Mei 2021
+  ### Diperbarui pada tanggal Sabtu, 15 Mei 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Bengkulu
 
