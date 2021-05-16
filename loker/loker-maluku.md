@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Sabtu, 15 Mei 2021
+  ### Diperbarui pada tanggal Minggu, 16 Mei 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0c900ac2b5b1a2cf9bee651ce5d069e68ff14c92/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Berca Hardayaperkasa|Desktop Support Engineer area Ambon|Kontrak|Rp. 3.000.000-Rp. 4.200.000|Ambon|Delivery the implementation and provide PC, Printer, and Networking. Analyze and diagnose technical issues and give fast problem resolution Technical...|Kamis, 13 Mei 2021|https://www.jobstreet.co.id/id/job/desktop-support-engineer-area-ambon-3523416?token=0~1ab8f921-dbc7-4c28-8e4c-224cf3fb797f&sectionRank=1&jobId=jobstreet-id-job-3523416|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0c900ac2b5b1a2cf9bee651ce5d069e68ff14c92/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Berca Hardayaperkasa|Desktop Support Engineer area Ambon|Kontrak|Rp. 3.000.000-Rp. 4.200.000|Ambon|Delivery the implementation and provide PC, Printer, and Networking. Analyze and diagnose technical issues and give fast problem resolution Technical...|Kamis, 13 Mei 2021|https://www.jobstreet.co.id/id/job/desktop-support-engineer-area-ambon-3523416?token=0~6cf690d2-9875-41e9-b937-dc70c4cdce61&sectionRank=1&jobId=jobstreet-id-job-3523416|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
