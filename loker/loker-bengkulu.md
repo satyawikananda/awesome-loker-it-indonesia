@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Bengkulu
 
-  ### Diperbarui pada tanggal Sabtu, 29 Mei 2021
+  ### Diperbarui pada tanggal Minggu, 30 Mei 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Bengkulu
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/63373d162568ae23aa2bd2a36d347af5a9d4476e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Infomedia Solusi Humanika|IT Software Quality Assurance (Area Sumbagsel)|Penuh Waktu|---|Bengkulu|IT Software Quality Assurance Kualifikasi : Pendidikan minimal S1 Jurusan Teknik Informatika / Ilmu Komputer / Sistem Informasi / Sains &amp;...|Senin, 17 Mei 2021|https://www.jobstreet.co.id/id/job/it-software-quality-assurance-area-sumbagsel-3530949?token=0~65db8852-b8f9-43cb-a930-2a47d9b9c6b1&sectionRank=1&jobId=jobstreet-id-job-3530949|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/63373d162568ae23aa2bd2a36d347af5a9d4476e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Infomedia Solusi Humanika|IT Software Quality Assurance (Area Sumbagsel)|Penuh Waktu|---|Bengkulu|IT Software Quality Assurance Kualifikasi : Pendidikan minimal S1 Jurusan Teknik Informatika / Ilmu Komputer / Sistem Informasi / Sains &amp;...|Senin, 17 Mei 2021|https://www.jobstreet.co.id/id/job/it-software-quality-assurance-area-sumbagsel-3530949?token=0~23c90e29-9ab7-4f8d-80d8-31b0747ef12d&sectionRank=1&jobId=jobstreet-id-job-3530949|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
