@@ -1,14 +1,13 @@
 
   # Lowongan kerja di Bengkulu
 
-  ### Diperbarui pada tanggal Minggu, 06 Juni 2021
+  ### Diperbarui pada tanggal Senin, 07 Juni 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Bengkulu
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|BRANCH IT SUPPORT AREA|Penuh Waktu|---|Bengkulu|Menyelesaikan permasalahan peralatan, aplikasi dan jaringan komputer dan jaringan toko, serta memastikan hardware dan software di toko dapat berfungsi...|Jumat, 04 Juni 2021|https://www.jobstreet.co.id/id/job/branch-it-support-area-3547718?token=0~77f77ccb-4514-40df-b0c9-a9ec41ccfc16&sectionRank=1&jobId=jobstreet-id-job-3547718|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/63373d162568ae23aa2bd2a36d347af5a9d4476e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Infomedia Solusi Humanika|IT Software Quality Assurance (Area Sumbagsel)|Penuh Waktu|---|Bengkulu|IT Software Quality Assurance Kualifikasi : Pendidikan minimal S1 Jurusan Teknik Informatika / Ilmu Komputer / Sistem Informasi / Sains &amp;...|Senin, 17 Mei 2021|https://www.jobstreet.co.id/id/job/it-software-quality-assurance-area-sumbagsel-3530949?token=0~77f77ccb-4514-40df-b0c9-a9ec41ccfc16&sectionRank=2&jobId=jobstreet-id-job-3530949|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/63373d162568ae23aa2bd2a36d347af5a9d4476e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Infomedia Solusi Humanika|IT Software Quality Assurance (Area Sumbagsel)|Penuh Waktu|---|Bengkulu|IT Software Quality Assurance Kualifikasi : Pendidikan minimal S1 Jurusan Teknik Informatika / Ilmu Komputer / Sistem Informasi / Sains &amp;...|Senin, 17 Mei 2021|https://www.jobstreet.co.id/id/job/it-software-quality-assurance-area-sumbagsel-3530949?token=0~85295ee4-5c4c-4b3b-b486-b6f058c1e447&sectionRank=1&jobId=jobstreet-id-job-3530949|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
