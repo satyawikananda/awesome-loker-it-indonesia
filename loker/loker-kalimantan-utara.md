@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Kalimantan utara
 
-  ### Diperbarui pada tanggal Senin, 14 Juni 2021
+  ### Diperbarui pada tanggal Selasa, 15 Juni 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan utara
 
