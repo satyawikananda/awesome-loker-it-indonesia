@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Kalimantan tengah
 
-  ### Diperbarui pada tanggal Selasa, 15 Juni 2021
+  ### Diperbarui pada tanggal Rabu, 16 Juni 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan tengah
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|It Infrastructure Officer|Penuh Waktu|---|Kalimantan Tengah|Candidate must possess at least a Bachelor's Degree, Engineering (Computer/Telecommunication) or equivalent. At least 5 year(s) of working experience...|Senin, 07 Juni 2021|https://www.jobstreet.co.id/id/job/it-infrastructure-officer-3548633?token=0~e1e89879-45b8-4c38-ae95-ad62b15d5e0e&sectionRank=1&jobId=jobstreet-id-job-3548633|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/faf1379cb2f8ff5c87162dc20c60c0d2f63dba1c/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Nusantara Compnet Integrator|Service Point Engineer Palangkaraya|Penuh Waktu|---|Palangkaraya|D3/S1 Teknik Komputer, Ilmu Komputer, Teknik Informatika atau Ilmu Komputer lainnya. Memiliki pengalaman minimal 1 tahun, fresh graduate dipersilahkan...|Jumat, 04 Juni 2021|https://www.jobstreet.co.id/id/job/service-point-engineer-palangkaraya-3534062?token=0~e1e89879-45b8-4c38-ae95-ad62b15d5e0e&sectionRank=2&jobId=jobstreet-id-job-3534062|
+  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|It Infrastructure Officer|Penuh Waktu|---|Kalimantan Tengah|Candidate must possess at least a Bachelor's Degree, Engineering (Computer/Telecommunication) or equivalent. At least 5 year(s) of working experience...|Senin, 07 Juni 2021|https://www.jobstreet.co.id/id/job/it-infrastructure-officer-3548633?token=0~126ee962-a9fd-4717-84fd-e0548f78bbc9&sectionRank=1&jobId=jobstreet-id-job-3548633|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/faf1379cb2f8ff5c87162dc20c60c0d2f63dba1c/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Nusantara Compnet Integrator|Service Point Engineer Palangkaraya|Penuh Waktu|---|Palangkaraya|D3/S1 Teknik Komputer, Ilmu Komputer, Teknik Informatika atau Ilmu Komputer lainnya. Memiliki pengalaman minimal 1 tahun, fresh graduate dipersilahkan...|Jumat, 04 Juni 2021|https://www.jobstreet.co.id/id/job/service-point-engineer-palangkaraya-3534062?token=0~126ee962-a9fd-4717-84fd-e0548f78bbc9&sectionRank=2&jobId=jobstreet-id-job-3534062|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)

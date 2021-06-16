@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Selasa, 15 Juni 2021
+  ### Diperbarui pada tanggal Rabu, 16 Juni 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|PT Halmahera Persada Lygend|IT Manager|Penuh Waktu|---|Halmahera|Memimpin Team IT di Site dan berkoordinasi dengan IT Pusat Mensukseskan semua program kerja yang ada, sesuai dengan blueprint dari Pusat Memastikan...|Selasa, 25 Mei 2021|https://www.jobstreet.co.id/id/job/it-manager-3537883?token=0~1cd78985-c93b-4102-b6fd-4e3ec1d83fa5&sectionRank=1&jobId=jobstreet-id-job-3537883|
+  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|PT Halmahera Persada Lygend|IT Manager|Penuh Waktu|---|Halmahera|Memimpin Team IT di Site dan berkoordinasi dengan IT Pusat Mensukseskan semua program kerja yang ada, sesuai dengan blueprint dari Pusat Memastikan...|Selasa, 25 Mei 2021|https://www.jobstreet.co.id/id/job/it-manager-3537883?token=0~54e7b115-f7ab-48c3-94c2-56a9998e2bf5&sectionRank=1&jobId=jobstreet-id-job-3537883|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
