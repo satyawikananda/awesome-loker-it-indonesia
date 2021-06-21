@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Sumatera barat
 
-  ### Diperbarui pada tanggal Minggu, 20 Juni 2021
+  ### Diperbarui pada tanggal Senin, 21 Juni 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Sumatera barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|IT Manager|Penuh Waktu|---|Bali|Pendidikan minimal S1 segala jurusan Memiliki pengetahuan mengenai PHP dan bahasa pemrograman lainnya atau menguasai jaringan Gaji negotiable...|Selasa, 25 Mei 2021|https://www.jobstreet.co.id/id/job/it-manager-3537839?token=0~72fcc718-de28-4fa8-af31-ea69ed39e6b9&sectionRank=1&jobId=jobstreet-id-job-3537839|
+  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|IT Manager|Penuh Waktu|---|Bali|Pendidikan minimal S1 segala jurusan Memiliki pengetahuan mengenai PHP dan bahasa pemrograman lainnya atau menguasai jaringan Gaji negotiable...|Selasa, 25 Mei 2021|https://www.jobstreet.co.id/id/job/it-manager-3537839?token=0~0424d757-cf02-4425-b010-693286a8401f&sectionRank=1&jobId=jobstreet-id-job-3537839|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
