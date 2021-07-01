@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Sumatera barat
 
-  ### Diperbarui pada tanggal Rabu, 30 Juni 2021
+  ### Diperbarui pada tanggal Kamis, 01 Juli 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Sumatera barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/c9726dd48637f2122e69fa4f05bdeddb6166e3b5/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|Software Engineer|Kontrak|---|Jakarta Timur|Back End Developer Memahami konsep pengembangan aplikasi Memahami konsep Microservices Architeccture Memiliki skill Java Spring Boot, Net Core, Go,...|Selasa, 22 Juni 2021|https://www.jobstreet.co.id/id/job/software-engineer-3563022?token=0~a143fd5e-69cb-4d40-8af3-ff05a6d2bc91&sectionRank=1&jobId=jobstreet-id-job-3563022|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/c9726dd48637f2122e69fa4f05bdeddb6166e3b5/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|Software Engineer|Kontrak|---|Jakarta Timur|Back End Developer Memahami konsep pengembangan aplikasi Memahami konsep Microservices Architeccture Memiliki skill Java Spring Boot, Net Core, Go,...|Selasa, 22 Juni 2021|https://www.jobstreet.co.id/id/job/software-engineer-3563022?token=0~a02c32f4-8b26-4785-8a00-a65a1112a1c4&sectionRank=1&jobId=jobstreet-id-job-3563022|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
