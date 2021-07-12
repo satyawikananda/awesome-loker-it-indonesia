@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Papua
 
-  ### Diperbarui pada tanggal Minggu, 11 Juli 2021
+  ### Diperbarui pada tanggal Senin, 12 Juli 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua
 
