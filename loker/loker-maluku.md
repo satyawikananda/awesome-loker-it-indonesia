@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Kamis, 15 Juli 2021
+  ### Diperbarui pada tanggal Sabtu, 17 Juli 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
