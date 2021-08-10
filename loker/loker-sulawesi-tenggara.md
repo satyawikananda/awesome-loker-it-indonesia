@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Sulawesi tenggara
 
-  ### Diperbarui pada tanggal Senin, 09 Agustus 2021
+  ### Diperbarui pada tanggal Selasa, 10 Agustus 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi tenggara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0c900ac2b5b1a2cf9bee651ce5d069e68ff14c92/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Berca Hardayaperkasa|Desktop Support Engineer area Sulawesi|Kontrak|---|Makassar|Delivery the implementation and provide PC, Printer, and Networking. Analyze and diagnose technical issues and give fast problem resolution Technical...|Rabu, 04 Agustus 2021|https://www.jobstreet.co.id/id/job/desktop-support-engineer-area-sulawesi-3592654?token=0~d498e974-b7d7-4789-a78b-af9f68082ef8&sectionRank=1&jobId=jobstreet-id-job-3592654|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0c900ac2b5b1a2cf9bee651ce5d069e68ff14c92/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Berca Hardayaperkasa|Desktop Support Engineer area Sulawesi|Kontrak|---|Makassar|Delivery the implementation and provide PC, Printer, and Networking. Analyze and diagnose technical issues and give fast problem resolution Technical...|Rabu, 04 Agustus 2021|https://www.jobstreet.co.id/id/job/desktop-support-engineer-area-sulawesi-3592654?token=0~74196d4f-f6ca-44be-8a46-b47d5ab2328b&sectionRank=1&jobId=jobstreet-id-job-3592654|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)

@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Papua
 
-  ### Diperbarui pada tanggal Senin, 09 Agustus 2021
+  ### Diperbarui pada tanggal Selasa, 10 Agustus 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/2f13fa8d9665580b44c4bdc2276de5ec364a7ab7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Master Sistem Infotama|WEB PROGRAMMER DI PAPUA|Penuh Waktu|Rp. 6.000.000-Rp. 8.000.000|Papua|Membuat Program berbasis Web Aplikasi dengan Bahasa pemrograman dan pendukung Bahasa pemrograman sebagai berikut:1.    Bahasa pemrograman PHP,...|Selasa, 03 Agustus 2021|https://www.jobstreet.co.id/id/job/web-programmer-di-papua-3591487?token=0~b54b61df-705f-4c7a-aa70-9bb218f9933f&sectionRank=1&jobId=jobstreet-id-job-3591487|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/2f13fa8d9665580b44c4bdc2276de5ec364a7ab7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Master Sistem Infotama|WEB PROGRAMMER DI PAPUA|Penuh Waktu|Rp. 6.000.000-Rp. 8.000.000|Papua|Membuat Program berbasis Web Aplikasi dengan Bahasa pemrograman dan pendukung Bahasa pemrograman sebagai berikut:1.    Bahasa pemrograman PHP,...|Selasa, 03 Agustus 2021|https://www.jobstreet.co.id/id/job/web-programmer-di-papua-3591487?token=0~99273706-aa42-47f2-b4eb-62b4e5c399c7&sectionRank=1&jobId=jobstreet-id-job-3591487|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
