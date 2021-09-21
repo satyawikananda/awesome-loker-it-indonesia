@@ -17,9 +17,9 @@ jobs:
       with:
         fetch-depth: 0
     - name: Install dependencies
-      run : npm install
+      run : npm i -g pnpm && pnpm i
     - name: Start update loker
-      run : npm run update
+      run : pnpm update
     - name: Commit and push if it changed
       run: |-
         git config user.name "satyawikananda"
