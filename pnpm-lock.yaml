@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@types/node': ^14.17.17
+  '@types/node': ^14.17.18
   axios: ^0.21.4
   dayjs: ^1.10.7
   dotenv: ^8.6.0
@@ -14,7 +14,7 @@ dependencies:
   dayjs: 1.10.7
 
 devDependencies:
-  '@types/node': 14.17.17
+  '@types/node': 14.17.18
   dotenv: 8.6.0
   gts: 3.1.0_typescript@4.4.3
   ts-node: 9.1.1_typescript@4.4.3
@@ -122,8 +122,8 @@ packages:
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
     dev: true
 
-  /@types/node/14.17.17:
-    resolution: {integrity: sha512-niAjcewgEYvSPCZm3OaM9y6YQrL2SEPH9PymtE6fuZAvFiP6ereCcvApGl2jKTq7copTIguX3PBvfP08LN4LvQ==}
+  /@types/node/14.17.18:
+    resolution: {integrity: sha512-haYyibw4pbteEhkSg0xdDLAI3679L75EJ799ymVrPxOA922bPx3ML59SoDsQ//rHlvqpu+e36kcbR3XRQtFblA==}
     dev: true
 
   /@types/normalize-package-data/2.4.1:

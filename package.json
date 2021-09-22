@@ -18,7 +18,7 @@
     "update": "ts-node ./src/index.ts"
   },
   "devDependencies": {
-    "@types/node": "^14.17.17",
+    "@types/node": "^14.17.18",
     "dotenv": "^8.6.0",
     "gts": "^3.1.0",
     "ts-node": "^9.1.1",
