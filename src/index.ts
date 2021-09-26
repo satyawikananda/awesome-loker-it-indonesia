@@ -26,7 +26,6 @@ const table = data => {
         '|' +
         data[key]['jobTitle'] +
         '|' +
-        '|' +
         salaryFormat(data[key]['salaryRange']['min']) +
         '-' +
         salaryFormat(data[key]['salaryRange']['max']) +
