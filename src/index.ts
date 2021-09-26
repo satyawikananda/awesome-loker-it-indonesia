@@ -4,7 +4,7 @@ import dayjs from 'dayjs';
 import 'dayjs/locale/id';
 import {fetchData} from './utils/fetch';
 import {salaryFormat} from './utils/salaryFormat';
-import {TemplateInterface} from './types/common';
+import {TemplateInterface} from './types/';
 import {locations} from './const';
 
 const table = data => {
@@ -26,7 +26,6 @@ const table = data => {
         '|' +
         data[key]['jobTitle'] +
         '|' +
-        data[key]['employmentTypes'][0]['name'] +
         '|' +
         salaryFormat(data[key]['salaryRange']['min']) +
         '-' +
@@ -58,8 +57,8 @@ const template = ({data, location}: TemplateInterface) => {
 
   Berikut merupakan daftar lowongan kerja yang ada di ${region}
 
-  |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Jenis Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
-  | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- | ----------- |
+  |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
+  | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
   ${table(data)}
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
