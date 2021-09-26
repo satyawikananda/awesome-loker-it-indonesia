@@ -19,7 +19,7 @@ jobs:
     - name: Install dependencies
       run : npm i -g pnpm && pnpm i
     - name: Start update loker
-      run : pnpm update
+      run : pnpm start
     - name: Commit and push if it changed
       run: |-
         git config user.name "satyawikananda"
