@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Minggu, 03 Oktober 2021
+  ### Diperbarui pada tanggal Senin, 04 Oktober 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/ae749315d066dfdca09d144f833a6de1a94ea7fb/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Spice Island Maluku|Oracle NetSuite Administrator|Rp. 8.000.000-Rp. 12.000.000|Jakarta Selatan|Oracle NetSuite AdministratorDeskripsi PekerjaanPT. Spice Islands Maluku (PT. SIM), sebuah perusahaan perkebunan pisang abaka di Maluku membutuhkan...|Rabu, 29 September 2021|https://www.jobstreet.co.id/id/job/oracle-netsuite-administrator-3642423?token=0~da74674f-b60a-4206-8055-b17928e5cc89&sectionRank=1&jobId=jobstreet-id-job-3642423|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/ae749315d066dfdca09d144f833a6de1a94ea7fb/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Spice Island Maluku|Oracle NetSuite Administrator|Rp. 8.000.000-Rp. 12.000.000|Jakarta Selatan|Oracle NetSuite AdministratorDeskripsi PekerjaanPT. Spice Islands Maluku (PT. SIM), sebuah perusahaan perkebunan pisang abaka di Maluku membutuhkan...|Rabu, 29 September 2021|https://www.jobstreet.co.id/id/job/oracle-netsuite-administrator-3642423?token=0~e0695199-2518-4075-8ab5-c7ff201f14d7&sectionRank=1&jobId=jobstreet-id-job-3642423|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
