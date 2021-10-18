@@ -1,13 +1,14 @@
 
   # Lowongan kerja di Kalimantan utara
 
-  ### Diperbarui pada tanggal Minggu, 17 Oktober 2021
+  ### Diperbarui pada tanggal Senin, 18 Oktober 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/eeb66a83615e77e2f0658052312ccd3a7381bee7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Central Cipta Murdaya|IT Specialist (Mining-Kalimantan Utara)|---|Kalimantan Utara|•            Candidate must posses at least bachelor’s degree in Computer Science / Information Technology or equivalent with minimum GPA 3.00 of...|Selasa, 24 Agustus 2021|https://www.jobstreet.co.id/id/job/it-specialist-mining-kalimantan-utara-3608390?token=0~c7e2f97c-26d1-4c86-ac8f-34ebd133d6e1&sectionRank=1&jobId=jobstreet-id-job-3608390|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/314ed38ba58cf54b5555f434a5bf338661292eb7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Experis Indonesia|Web Developer|Rp. 10.000.000-Rp. 20.000.000|Aceh|On behalf of our client, we are looking for a Web Developer with these following details: Responsibilities: Website and software application...|Rabu, 06 Oktober 2021|https://www.jobstreet.co.id/id/job/web-developer-3649693?token=0~c21450f0-70c9-4821-a597-790cca60cc48&sectionRank=1&jobId=jobstreet-id-job-3649693|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/f38d66abbf6a069c9b35070c98982855c49152cc/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Pacific Fiber Indonesia|IT Staff|---|Tarakan|​Job DescriptionYou are on a journey to join an exciting team and be part of our success story. In this role that you are about to embark on, you are...|Jumat, 01 Oktober 2021|https://www.jobstreet.co.id/id/job/it-staff-3635351?token=0~c21450f0-70c9-4821-a597-790cca60cc48&sectionRank=2&jobId=jobstreet-id-job-3635351|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
