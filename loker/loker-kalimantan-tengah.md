@@ -1,15 +1,14 @@
 
   # Lowongan kerja di Kalimantan tengah
 
-  ### Diperbarui pada tanggal Jumat, 12 November 2021
+  ### Diperbarui pada tanggal Sabtu, 13 November 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan tengah
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/e2722a7d60cff64e9e9506c1f420ace83cf07984/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Bumitama Gunajaya Agro|IT Assistant (Penempatan Kalimantan)|---|Jakarta Raya|Membantu dan bertanggung jawab kepada Regional Head dan IT Group Dept terkait dengan pemanfaatan sistem teknologi informasi terutama di area kebun....|Selasa, 09 November 2021|https://www.jobstreet.co.id/id/job/it-assistant-penempatan-kalimantan-3683968?token=0~3180097b-1dfe-4bd7-b0f7-01fb6bf86f59&sectionRank=1&jobId=jobstreet-id-job-3683968|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/a56ce2dca9345c94adf13690cac44c5d6164027e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Marunda Grahamineral|IT Senior Officer (Site Area)|---|Murung Raya|Responsibilities: Provide technical assistance with computer hardware and software. Coordinate, monitor and analyze the use of company’s network,...|Selasa, 02 November 2021|https://www.jobstreet.co.id/id/job/it-senior-officer-site-area-3676009?token=0~3180097b-1dfe-4bd7-b0f7-01fb6bf86f59&sectionRank=2&jobId=jobstreet-id-job-3676009|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/7eee59ea5934120f389dd02961ddcb6b62946481/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Ruang Raya Indonesia (Jakarta)|Fasilitator ITF Kubu Raya|---|Kalimantan Tengah|Ruangguru is a tech-enabled education company that provides a one-stop learning experience for students to have better access to quality content and...|Jumat, 15 Oktober 2021|https://www.jobstreet.co.id/id/job/fasilitator-itf-kubu-raya-1029276100?token=0~3180097b-1dfe-4bd7-b0f7-01fb6bf86f59&sectionRank=3&jobId=jobstreet-id-job-1029276100|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/e2722a7d60cff64e9e9506c1f420ace83cf07984/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Bumitama Gunajaya Agro|IT Assistant (Penempatan Kalimantan)|---|Jakarta Raya|Membantu dan bertanggung jawab kepada Regional Head dan IT Group Dept terkait dengan pemanfaatan sistem teknologi informasi terutama di area kebun....|Selasa, 09 November 2021|https://www.jobstreet.co.id/id/job/it-assistant-penempatan-kalimantan-3683968?token=0~7bc5cb67-a06f-47c9-8d29-835c8fdb5a1f&sectionRank=1&jobId=jobstreet-id-job-3683968|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/a56ce2dca9345c94adf13690cac44c5d6164027e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Marunda Grahamineral|IT Senior Officer (Site Area)|---|Murung Raya|Responsibilities: Provide technical assistance with computer hardware and software. Coordinate, monitor and analyze the use of company’s network,...|Selasa, 02 November 2021|https://www.jobstreet.co.id/id/job/it-senior-officer-site-area-3676009?token=0~7bc5cb67-a06f-47c9-8d29-835c8fdb5a1f&sectionRank=2&jobId=jobstreet-id-job-3676009|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
