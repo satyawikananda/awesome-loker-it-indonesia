@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Gorontalo
 
-  ### Diperbarui pada tanggal Sabtu, 20 November 2021
+  ### Diperbarui pada tanggal Minggu, 21 November 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Gorontalo
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/1d07caed8ee17b4d1569e40ea38fe02686695921/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Trijaya Tangguh|IT Network manager Teknisi Computer|---|Surabaya|IT Infrastructure Management (Database &amp; Network: Microtic /LAN /WAN /Firewall /VPN /Ip Sec), RDBMS (MYSQL, SQL, NOSQL) Mengerti mikrotik...|Rabu, 10 November 2021|https://www.jobstreet.co.id/id/job/it-network-manager-teknisi-computer-3685080?token=0~e627fba6-e253-46e6-86af-0e0620b2b63c&sectionRank=1&jobId=jobstreet-id-job-3685080|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/1d07caed8ee17b4d1569e40ea38fe02686695921/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Trijaya Tangguh|IT Network manager Teknisi Computer|---|Surabaya|IT Infrastructure Management (Database &amp; Network: Microtic /LAN /WAN /Firewall /VPN /Ip Sec), RDBMS (MYSQL, SQL, NOSQL) Mengerti mikrotik...|Rabu, 10 November 2021|https://www.jobstreet.co.id/id/job/it-network-manager-teknisi-computer-3685080?token=0~2ce09056-c022-42bf-8a29-aa65b95ee3bf&sectionRank=1&jobId=jobstreet-id-job-3685080|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
