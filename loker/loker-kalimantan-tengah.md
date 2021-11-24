@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Kalimantan tengah
 
-  ### Diperbarui pada tanggal Selasa, 23 November 2021
+  ### Diperbarui pada tanggal Rabu, 24 November 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan tengah
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/e2722a7d60cff64e9e9506c1f420ace83cf07984/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Bumitama Gunajaya Agro|IT Assistant (Penempatan Kalimantan)|---|Jakarta Raya|Membantu dan bertanggung jawab kepada Regional Head dan IT Group Dept terkait dengan pemanfaatan sistem teknologi informasi terutama di area kebun....|Selasa, 09 November 2021|https://www.jobstreet.co.id/id/job/it-assistant-penempatan-kalimantan-3683968?token=0~bbc6fdcb-abc0-4518-9ccc-da3915da258e&sectionRank=1&jobId=jobstreet-id-job-3683968|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/a56ce2dca9345c94adf13690cac44c5d6164027e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Marunda Grahamineral|IT Senior Officer (Site Area)|---|Murung Raya|Responsibilities: Provide technical assistance with computer hardware and software. Coordinate, monitor and analyze the use of company’s network,...|Selasa, 02 November 2021|https://www.jobstreet.co.id/id/job/it-senior-officer-site-area-3676009?token=0~bbc6fdcb-abc0-4518-9ccc-da3915da258e&sectionRank=2&jobId=jobstreet-id-job-3676009|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/e2722a7d60cff64e9e9506c1f420ace83cf07984/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Bumitama Gunajaya Agro|IT Assistant (Penempatan Kalimantan)|---|Jakarta Raya|Membantu dan bertanggung jawab kepada Regional Head dan IT Group Dept terkait dengan pemanfaatan sistem teknologi informasi terutama di area kebun....|Selasa, 09 November 2021|https://www.jobstreet.co.id/id/job/it-assistant-penempatan-kalimantan-3683968?token=0~ceab0d77-576d-4a42-8547-1cc7baa910d9&sectionRank=1&jobId=jobstreet-id-job-3683968|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/a56ce2dca9345c94adf13690cac44c5d6164027e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Marunda Grahamineral|IT Senior Officer (Site Area)|---|Murung Raya|Responsibilities: Provide technical assistance with computer hardware and software. Coordinate, monitor and analyze the use of company’s network,...|Selasa, 02 November 2021|https://www.jobstreet.co.id/id/job/it-senior-officer-site-area-3676009?token=0~ceab0d77-576d-4a42-8547-1cc7baa910d9&sectionRank=2&jobId=jobstreet-id-job-3676009|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
