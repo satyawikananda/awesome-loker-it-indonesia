@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Bengkulu
 
-  ### Diperbarui pada tanggal Sabtu, 27 November 2021
+  ### Diperbarui pada tanggal Minggu, 28 November 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Bengkulu
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/f239709d655cb2106929c841dd2b71edd206015d/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Mitra Buana Koorporindo|Technical Support|---|Bandung|Maksimal 35 tahun Pendidikan Minimal SMK / D3 / S1 Teknik Informatika/ Jaringan / Elektro Memiliki pengetahuan tentang Hardware &amp; Software system,...|Selasa, 02 November 2021|https://www.jobstreet.co.id/id/job/technical-support-3676226?token=0~da166e6b-1b75-4c4b-8451-63c75cc3bdfd&sectionRank=1&jobId=jobstreet-id-job-3676226|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/f239709d655cb2106929c841dd2b71edd206015d/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Mitra Buana Koorporindo|Technical Support|---|Bandung|Maksimal 35 tahun Pendidikan Minimal SMK / D3 / S1 Teknik Informatika/ Jaringan / Elektro Memiliki pengetahuan tentang Hardware &amp; Software system,...|Selasa, 02 November 2021|https://www.jobstreet.co.id/id/job/technical-support-3676226?token=0~f244e924-f00c-4c29-9979-5651a16e57a7&sectionRank=1&jobId=jobstreet-id-job-3676226|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
