@@ -1,15 +1,15 @@
 
   # Lowongan kerja di Lampung
 
-  ### Diperbarui pada tanggal Rabu, 08 Desember 2021
+  ### Diperbarui pada tanggal Kamis, 09 Desember 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Lampung
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/7db9ae711c4d51b5f3a283b3c8d704bd9502124a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Gink Technology|Full Stack Web Developer|Rp. 4.000.000-Rp. 8.000.000|Bandar Lampung|Candidate must possess at least Bachelor's Degree in Engineering (Computer/Telecommunication), Computer Science/Information Technology, Computer...|Jumat, 26 November 2021|https://www.jobstreet.co.id/id/job/full-stack-web-developer-3686871?token=0~22272d0d-4e7d-4e17-9c85-8a961b2bc8ae&sectionRank=1&jobId=jobstreet-id-job-3686871|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/1033d36f751f076cfdd637ed0acbcbf8508866ec/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Supra Primatama Nusantara(Biznet)|Networks Assurance|---|Kupang|Tanggung Jawab:  Melakukan Audit &amp; Commissioning jaringan Fiber Optic (FTTx GPON, and Metro Ethernet) Memastikan pembangunan jaringan fiber optik...|Kamis, 25 November 2021|https://www.jobstreet.co.id/id/job/networks-assurance-3701687?token=0~22272d0d-4e7d-4e17-9c85-8a961b2bc8ae&sectionRank=2&jobId=jobstreet-id-job-3701687|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/fa10d5eab972dbf0d65f5798aa4ea213f3543394/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Great Giant Pineapple|HR System Specialist|---|Lampung|Requirement: Bachelor's Degree in Engineering (Computer / Telecommunication / Industrial), Computer Science / Information Technology, or equivalent 1...|Kamis, 18 November 2021|https://www.jobstreet.co.id/id/job/hr-system-specialist-3693766?token=0~22272d0d-4e7d-4e17-9c85-8a961b2bc8ae&sectionRank=3&jobId=jobstreet-id-job-3693766|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/7db9ae711c4d51b5f3a283b3c8d704bd9502124a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Gink Technology|Full Stack Web Developer|Rp. 4.000.000-Rp. 8.000.000|Bandar Lampung|Candidate must possess at least Bachelor's Degree in Engineering (Computer/Telecommunication), Computer Science/Information Technology, Computer...|Jumat, 26 November 2021|https://www.jobstreet.co.id/id/job/full-stack-web-developer-3686871?token=0~e66a9711-91a3-44e4-824c-b2b0004565b0&sectionRank=1&jobId=jobstreet-id-job-3686871|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/1033d36f751f076cfdd637ed0acbcbf8508866ec/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Supra Primatama Nusantara(Biznet)|Networks Assurance|---|Kupang|Tanggung Jawab:  Melakukan Audit &amp; Commissioning jaringan Fiber Optic (FTTx GPON, and Metro Ethernet) Memastikan pembangunan jaringan fiber optik...|Kamis, 25 November 2021|https://www.jobstreet.co.id/id/job/networks-assurance-3701687?token=0~e66a9711-91a3-44e4-824c-b2b0004565b0&sectionRank=2&jobId=jobstreet-id-job-3701687|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/fa10d5eab972dbf0d65f5798aa4ea213f3543394/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Great Giant Pineapple|HR System Specialist|---|Lampung|Requirement: Bachelor's Degree in Engineering (Computer / Telecommunication / Industrial), Computer Science / Information Technology, or equivalent 1...|Kamis, 18 November 2021|https://www.jobstreet.co.id/id/job/hr-system-specialist-3693766?token=0~e66a9711-91a3-44e4-824c-b2b0004565b0&sectionRank=3&jobId=jobstreet-id-job-3693766|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
