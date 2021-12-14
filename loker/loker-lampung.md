@@ -1,15 +1,15 @@
 
   # Lowongan kerja di Lampung
 
-  ### Diperbarui pada tanggal Senin, 13 Desember 2021
+  ### Diperbarui pada tanggal Selasa, 14 Desember 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Lampung
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/c6ffa5edc62c5e84c146cb3d55132fad595f8cd0/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Ketrosden Triasmitra|Area Supervisor|---|Bengkulu|Bekerja sama dengan manajemen dan institusi lainnya (projek pemerintah dan pihak ketiga lainnya) Memfasilitasi technical support untuk keseluruhan tim...|Kamis, 09 Desember 2021|https://www.jobstreet.co.id/id/job/area-supervisor-3716881?token=0~79e47e45-3d24-444d-8c94-5355b0a72392&sectionRank=1&jobId=jobstreet-id-job-3716881|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/1033d36f751f076cfdd637ed0acbcbf8508866ec/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Supra Primatama Nusantara(Biznet)|Networks Assurance|---|Kupang|Tanggung Jawab:  Melakukan Audit &amp; Commissioning jaringan Fiber Optic (FTTx GPON, and Metro Ethernet) Memastikan pembangunan jaringan fiber optik...|Kamis, 25 November 2021|https://www.jobstreet.co.id/id/job/networks-assurance-3701687?token=0~79e47e45-3d24-444d-8c94-5355b0a72392&sectionRank=2&jobId=jobstreet-id-job-3701687|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/fa10d5eab972dbf0d65f5798aa4ea213f3543394/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Great Giant Pineapple|HR System Specialist|---|Lampung|Requirement: Bachelor's Degree in Engineering (Computer / Telecommunication / Industrial), Computer Science / Information Technology, or equivalent 1...|Kamis, 18 November 2021|https://www.jobstreet.co.id/id/job/hr-system-specialist-3693766?token=0~79e47e45-3d24-444d-8c94-5355b0a72392&sectionRank=3&jobId=jobstreet-id-job-3693766|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/c6ffa5edc62c5e84c146cb3d55132fad595f8cd0/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Ketrosden Triasmitra|Area Supervisor|---|Bengkulu|Bekerja sama dengan manajemen dan institusi lainnya (projek pemerintah dan pihak ketiga lainnya) Memfasilitasi technical support untuk keseluruhan tim...|Kamis, 09 Desember 2021|https://www.jobstreet.co.id/id/job/area-supervisor-3716881?token=0~b4f18925-fd36-4522-b6a8-552ec7a672bd&sectionRank=1&jobId=jobstreet-id-job-3716881|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/1033d36f751f076cfdd637ed0acbcbf8508866ec/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Supra Primatama Nusantara(Biznet)|Networks Assurance|---|Kupang|Tanggung Jawab:  Melakukan Audit &amp; Commissioning jaringan Fiber Optic (FTTx GPON, and Metro Ethernet) Memastikan pembangunan jaringan fiber optik...|Kamis, 25 November 2021|https://www.jobstreet.co.id/id/job/networks-assurance-3701687?token=0~b4f18925-fd36-4522-b6a8-552ec7a672bd&sectionRank=2&jobId=jobstreet-id-job-3701687|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/fa10d5eab972dbf0d65f5798aa4ea213f3543394/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Great Giant Pineapple|HR System Specialist|---|Lampung|Requirement: Bachelor's Degree in Engineering (Computer / Telecommunication / Industrial), Computer Science / Information Technology, or equivalent 1...|Kamis, 18 November 2021|https://www.jobstreet.co.id/id/job/hr-system-specialist-3693766?token=0~b4f18925-fd36-4522-b6a8-552ec7a672bd&sectionRank=3&jobId=jobstreet-id-job-3693766|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
