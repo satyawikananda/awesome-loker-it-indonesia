@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Bangka belitung
 
-  ### Diperbarui pada tanggal Selasa, 14 Desember 2021
+  ### Diperbarui pada tanggal Rabu, 15 Desember 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Bangka belitung
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/faf1379cb2f8ff5c87162dc20c60c0d2f63dba1c/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Nusantara Compnet Integrator|Service Point Engineer Pangkal Pinang|---|Pangkal Pinang|Kualifikasi: Pendidikan minimal S1 Teknik Komputer, Ilmu Komputer, Teknik Informatika atau Ilmu Komputer lainnya. Memiliki pengalaman minimal 1 tahun,...|Selasa, 07 Desember 2021|https://www.jobstreet.co.id/id/job/service-point-engineer-pangkal-pinang-3713919?token=0~dee4b6f9-9a99-41b4-a9b8-eb59d58e689b&sectionRank=1&jobId=jobstreet-id-job-3713919|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/faf1379cb2f8ff5c87162dc20c60c0d2f63dba1c/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Nusantara Compnet Integrator|Service Point Engineer Pangkal Pinang|---|Pangkal Pinang|Kualifikasi: Pendidikan minimal S1 Teknik Komputer, Ilmu Komputer, Teknik Informatika atau Ilmu Komputer lainnya. Memiliki pengalaman minimal 1 tahun,...|Selasa, 07 Desember 2021|https://www.jobstreet.co.id/id/job/service-point-engineer-pangkal-pinang-3713919?token=0~1f67b41e-75ac-45f2-9068-4abf6c98b8fd&sectionRank=1&jobId=jobstreet-id-job-3713919|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
