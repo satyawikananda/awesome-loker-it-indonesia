@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Minggu, 19 Desember 2021
+  ### Diperbarui pada tanggal Senin, 20 Desember 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/4cc5b4edd8a09fb41741a122f57ee79a81b9a89e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Lintas Media Danawa|TEKNISI JARINGAN (PAPUA & AMBON)|Rp. 2.654.960-Rp. 3.566.700|Jayapura|Kualifikasi: Usia maksimum saat melamar adalah 26 tahun Lulusan SMK/D3/S1 (Teknik elektro, informatika, ilmu computer) dan sejenisnya Minimal memiliki...|Selasa, 14 Desember 2021|https://www.jobstreet.co.id/id/job/teknisi-jaringan-papua-ambon-3705083?token=0~15d6cb35-e123-4032-aa6b-48a5dbe05c9c&sectionRank=1&jobId=jobstreet-id-job-3705083|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/4cc5b4edd8a09fb41741a122f57ee79a81b9a89e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Lintas Media Danawa|TEKNISI JARINGAN (PAPUA & AMBON)|Rp. 2.654.960-Rp. 3.566.700|Jayapura|Kualifikasi: Usia maksimum saat melamar adalah 26 tahun Lulusan SMK/D3/S1 (Teknik elektro, informatika, ilmu computer) dan sejenisnya Minimal memiliki...|Selasa, 14 Desember 2021|https://www.jobstreet.co.id/id/job/teknisi-jaringan-papua-ambon-3705083?token=0~bf4850b3-ebe7-4d07-b7ce-5a88bc40a0fa&sectionRank=1&jobId=jobstreet-id-job-3705083|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
