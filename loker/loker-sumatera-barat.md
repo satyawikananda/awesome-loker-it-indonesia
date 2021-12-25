@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Sumatera barat
 
-  ### Diperbarui pada tanggal Jumat, 24 Desember 2021
+  ### Diperbarui pada tanggal Sabtu, 25 Desember 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Sumatera barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/c768f0670f8f8212da7de609b6af9d0b2e5134cc/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Seluruh Indonesia Online|Frontend Programer Developer|Rp. 4.000.000-Rp. 7.000.000|Aceh|# Paham php dan web development# Memiliki Team work effort# Kami memberikan benefit saham (esop) di perusahaan kami untuk kandidat yang tepat#...|Selasa, 21 Desember 2021|https://www.jobstreet.co.id/id/job/frontend-programer-developer-3728127?token=0~abd1db4a-ed4b-43f8-959e-f73ad4d27c0b&sectionRank=1&jobId=jobstreet-id-job-3728127|
-|![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|IT Manager|---|Bali|Pendidikan minimal S1 segala jurusan Memiliki pengetahuan mengenai PHP dan bahasa pemrograman lainnya atau menguasai jaringan Gaji negotiable...|Selasa, 30 November 2021|https://www.jobstreet.co.id/id/job/it-manager-3704071?token=0~abd1db4a-ed4b-43f8-959e-f73ad4d27c0b&sectionRank=2&jobId=jobstreet-id-job-3704071|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/c768f0670f8f8212da7de609b6af9d0b2e5134cc/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Seluruh Indonesia Online|Frontend Programer Developer|Rp. 4.000.000-Rp. 7.000.000|Aceh|# Paham php dan web development# Memiliki Team work effort# Kami memberikan benefit saham (esop) di perusahaan kami untuk kandidat yang tepat#...|Selasa, 21 Desember 2021|https://www.jobstreet.co.id/id/job/frontend-programer-developer-3728127?token=0~ce783c36-5784-4e80-ae28-51b64104fe12&sectionRank=1&jobId=jobstreet-id-job-3728127|
+|![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|IT Manager|---|Bali|Pendidikan minimal S1 segala jurusan Memiliki pengetahuan mengenai PHP dan bahasa pemrograman lainnya atau menguasai jaringan Gaji negotiable...|Selasa, 30 November 2021|https://www.jobstreet.co.id/id/job/it-manager-3704071?token=0~ce783c36-5784-4e80-ae28-51b64104fe12&sectionRank=2&jobId=jobstreet-id-job-3704071|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
