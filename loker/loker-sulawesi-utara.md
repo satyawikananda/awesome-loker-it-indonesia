@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Sulawesi utara
 
-  ### Diperbarui pada tanggal Minggu, 26 Desember 2021
+  ### Diperbarui pada tanggal Senin, 27 Desember 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/a0bb372251f3200733a3d47ff2480ae6bf58bbc6/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Tera Data Indonusa|Customer Service & Technician Staff|Rp. 2.000.000-Rp. 3.500.000|Palembang|Deskripsi Pekerjaan: Fast respon dalam menerima keluhan pelanggan. Menerima dan menjawab telepon masuk. Mampu bekerjasama dengan divisi lain termasuk...|Rabu, 15 Desember 2021|https://www.jobstreet.co.id/id/job/customer-service-technician-staff-3721949?token=0~fe458faa-52e4-48c1-98d2-31babd349568&sectionRank=1&jobId=jobstreet-id-job-3721949|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/a0bb372251f3200733a3d47ff2480ae6bf58bbc6/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Tera Data Indonusa|Customer Service & Technician Staff|Rp. 2.000.000-Rp. 3.500.000|Palembang|Deskripsi Pekerjaan: Fast respon dalam menerima keluhan pelanggan. Menerima dan menjawab telepon masuk. Mampu bekerjasama dengan divisi lain termasuk...|Rabu, 15 Desember 2021|https://www.jobstreet.co.id/id/job/customer-service-technician-staff-3721949?token=0~f7f65ae4-802d-4794-ba39-0d91b28af8b4&sectionRank=1&jobId=jobstreet-id-job-3721949|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)

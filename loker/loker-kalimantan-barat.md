@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Kalimantan barat
 
-  ### Diperbarui pada tanggal Minggu, 26 Desember 2021
+  ### Diperbarui pada tanggal Senin, 27 Desember 2021
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|IT Manager|---|Bali|Pendidikan minimal S1 segala jurusan Memiliki pengetahuan mengenai PHP dan bahasa pemrograman lainnya atau menguasai jaringan Gaji negotiable...|Selasa, 30 November 2021|https://www.jobstreet.co.id/id/job/it-manager-3704071?token=0~909d3978-38df-49c5-937d-7e568d419552&sectionRank=1&jobId=jobstreet-id-job-3704071|
+  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|Nama perusahaan dirahasiakan|IT Manager|---|Bali|Pendidikan minimal S1 segala jurusan Memiliki pengetahuan mengenai PHP dan bahasa pemrograman lainnya atau menguasai jaringan Gaji negotiable...|Selasa, 30 November 2021|https://www.jobstreet.co.id/id/job/it-manager-3704071?token=0~14ed2389-d4a5-422d-9790-d12659d03929&sectionRank=1&jobId=jobstreet-id-job-3704071|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
