@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Maluku utara
 
-  ### Diperbarui pada tanggal Jumat, 31 Desember 2021
+  ### Diperbarui pada tanggal Sabtu, 01 Januari 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku utara
 
