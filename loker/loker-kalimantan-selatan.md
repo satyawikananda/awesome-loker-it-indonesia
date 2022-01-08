@@ -1,15 +1,14 @@
 
   # Lowongan kerja di Kalimantan selatan
 
-  ### Diperbarui pada tanggal Jumat, 07 Januari 2022
+  ### Diperbarui pada tanggal Sabtu, 08 Januari 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan selatan
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/e9c4c1a94bdd5ce55d1e73ff2c4a3b969c0878a7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Astrindo Senayasa|Teknisi Staff - Based in Banjarmasin|---|Banjarmasin|Requirements : Candidate must possess at least a SMK, Diploma, Bachelor's Degree, Computer Science/Information Technology or equivalent. Maximum age...|Kamis, 06 Januari 2022|https://www.jobstreet.co.id/id/job/teknisi-staff-based-in-banjarmasin-3744640?token=0~23221649-902d-458d-90ec-a49ab88d1191&sectionRank=1&jobId=jobstreet-id-job-3744640|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/ce6f66b5ddea48c0961eddc201a535616844de99/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Hasnur Jaya Utama (Hasnur Group)|Programmer (Kalimantan Selatan)|---|Kalimantan Selatan|Job Descriptions: Develops code and creates customized applications to enhance product based on business needs Investigates and resolves matters of...|Kamis, 09 Desember 2021|https://www.jobstreet.co.id/id/job/programmer-kalimantan-selatan-3699693?token=0~23221649-902d-458d-90ec-a49ab88d1191&sectionRank=2&jobId=jobstreet-id-job-3699693|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/0c900ac2b5b1a2cf9bee651ce5d069e68ff14c92/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Berca Hardayaperkasa|Desktop Support Engineer area Banjarmasin|Rp. 3.000.000-Rp. 4.200.000|Banjarmasin|Delivery the implementation and provide PC, Printer, and Networking. Analyze and diagnose technical issues and give fast problem resolution Technical...|Rabu, 08 Desember 2021|https://www.jobstreet.co.id/id/job/desktop-support-engineer-area-banjarmasin-3704178?token=0~23221649-902d-458d-90ec-a49ab88d1191&sectionRank=3&jobId=jobstreet-id-job-3704178|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/e9c4c1a94bdd5ce55d1e73ff2c4a3b969c0878a7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Astrindo Senayasa|Teknisi Staff - Based in Banjarmasin|---|Banjarmasin|Requirements : Candidate must possess at least a SMK, Diploma, Bachelor's Degree, Computer Science/Information Technology or equivalent. Maximum age...|Kamis, 06 Januari 2022|https://www.jobstreet.co.id/id/job/teknisi-staff-based-in-banjarmasin-3744640?token=0~81a72427-63f2-495c-9677-0438f60ceb76&sectionRank=1&jobId=jobstreet-id-job-3744640|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/9df6b5cb2fe487a9feef54e5d6b60ed590c67471/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Adaro Mining|Hardware, Networking & TS Supervisor|---|Balangan|Follow up on any complaints and questions related to IT quickly to ensure any IT-related problems experienced by users can be identified quickly and...|Selasa, 28 Desember 2021|https://www.jobstreet.co.id/id/job/hardware-networking-ts-supervisor-3734792?token=0~81a72427-63f2-495c-9677-0438f60ceb76&sectionRank=2&jobId=jobstreet-id-job-3734792|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
