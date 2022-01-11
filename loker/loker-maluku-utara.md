@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku utara
 
-  ### Diperbarui pada tanggal Senin, 10 Januari 2022
+  ### Diperbarui pada tanggal Selasa, 11 Januari 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|PT Halmahera Persada Lygend|IT Infrastructure & Networking Staff (Penempatan Pulau Obi, Maluku Utara)|---|Maluku Utara|Job Description : Provide technical support to the development of the infrastructure systems and services Define, order, and monitor installation and...|Kamis, 06 Januari 2022|https://www.jobstreet.co.id/id/job/it-infrastructure-networking-staff-penempatan-pulau-obi-maluku-utara-3745942?token=0~87e662ff-a9b0-4bcc-8e4c-fe5cd3be223d&sectionRank=1&jobId=jobstreet-id-job-3745942|
+  |![logo-perusahaan](https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6)|PT Halmahera Persada Lygend|IT Infrastructure & Networking Staff (Penempatan Pulau Obi, Maluku Utara)|---|Maluku Utara|Job Description : Provide technical support to the development of the infrastructure systems and services Define, order, and monitor installation and...|Kamis, 06 Januari 2022|https://www.jobstreet.co.id/id/job/it-infrastructure-networking-staff-penempatan-pulau-obi-maluku-utara-3745942?token=0~9ee15f54-ed55-4fd0-b310-e0f0493a0dee&sectionRank=1&jobId=jobstreet-id-job-3745942|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
