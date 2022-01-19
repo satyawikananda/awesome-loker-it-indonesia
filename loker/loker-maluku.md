@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Selasa, 18 Januari 2022
+  ### Diperbarui pada tanggal Rabu, 19 Januari 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
