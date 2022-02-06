@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Sulawesi barat
 
-  ### Diperbarui pada tanggal Sabtu, 05 Februari 2022
+  ### Diperbarui pada tanggal Minggu, 06 Februari 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi barat
 
