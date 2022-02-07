@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Sulawesi utara
 
-  ### Diperbarui pada tanggal Minggu, 06 Februari 2022
+  ### Diperbarui pada tanggal Senin, 07 Februari 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi utara
 
