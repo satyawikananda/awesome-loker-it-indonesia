@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Bangka belitung
 
-  ### Diperbarui pada tanggal Sabtu, 12 Februari 2022
+  ### Diperbarui pada tanggal Minggu, 13 Februari 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Bangka belitung
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3c4d4663233573dadfd47054904af30a6a87e617/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Global Inti Corporatama|NETWORK OPERATION CENTER (NOC)|---|Jakarta Raya|Responsibilities: Understand and understand well (setup, maintenance and troubleshoot): Opensource RedHat, CentOS, Ubuntu MRTG Server CACTI under...|Kamis, 10 Februari 2022|https://www.jobstreet.co.id/id/job/network-operation-center-noc-3785871?token=0~b0f2dc76-dad0-4ec2-80c4-c50f3e83537c&sectionRank=1&jobId=jobstreet-id-job-3785871|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/4cc5b4edd8a09fb41741a122f57ee79a81b9a89e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Lintas Media Danawa|TEKNISI JARINGAN|Rp. 3.049.675-Rp. 3.420.645|Papua|Kualifikasi: Usia maksimum saat melamar adalah 26 tahun Lulusan SMK/D3/S1 (Teknik elektro, informatika, ilmu computer) dan sejenisnya Minimal memiliki...|Selasa, 25 Januari 2022|https://www.jobstreet.co.id/id/job/teknisi-jaringan-3768878?token=0~b0f2dc76-dad0-4ec2-80c4-c50f3e83537c&sectionRank=2&jobId=jobstreet-id-job-3768878|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3c4d4663233573dadfd47054904af30a6a87e617/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Global Inti Corporatama|NETWORK OPERATION CENTER (NOC)|---|Jakarta Raya|Responsibilities: Understand and understand well (setup, maintenance and troubleshoot): Opensource RedHat, CentOS, Ubuntu MRTG Server CACTI under...|Kamis, 10 Februari 2022|https://www.jobstreet.co.id/id/job/network-operation-center-noc-3785871?token=0~5f2a6be5-f026-4f47-8c46-0a53db76d993&sectionRank=1&jobId=jobstreet-id-job-3785871|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/4cc5b4edd8a09fb41741a122f57ee79a81b9a89e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Lintas Media Danawa|TEKNISI JARINGAN|Rp. 3.049.675-Rp. 3.420.645|Papua|Kualifikasi: Usia maksimum saat melamar adalah 26 tahun Lulusan SMK/D3/S1 (Teknik elektro, informatika, ilmu computer) dan sejenisnya Minimal memiliki...|Selasa, 25 Januari 2022|https://www.jobstreet.co.id/id/job/teknisi-jaringan-3768878?token=0~5f2a6be5-f026-4f47-8c46-0a53db76d993&sectionRank=2&jobId=jobstreet-id-job-3768878|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
