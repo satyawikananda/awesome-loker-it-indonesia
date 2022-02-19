@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Papua
 
-  ### Diperbarui pada tanggal Jumat, 18 Februari 2022
+  ### Diperbarui pada tanggal Sabtu, 19 Februari 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/e9ec6fb2c34674038ef0a05ec8d4cd1e22347834/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT MITRA INFOSYS UTAMA|Teknisi printer Kyocera & Teknisi Komputer|---|Papua|Teknisi Printer Kyocera Melakukan maintenance printer Melakukan Service Printer  Install &amp; Setting Printer mengerti tentang printer Teknisi...|Rabu, 26 Januari 2022|https://www.jobstreet.co.id/id/job/teknisi-printer-kyocera-teknisi-komputer-3769305?token=0~75682754-4ddd-4cf4-8a1b-270f22f5d9c1&sectionRank=1&jobId=jobstreet-id-job-3769305|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/4cc5b4edd8a09fb41741a122f57ee79a81b9a89e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Lintas Media Danawa|TEKNISI JARINGAN|Rp. 3.049.675-Rp. 3.420.645|Papua|Kualifikasi: Usia maksimum saat melamar adalah 26 tahun Lulusan SMK/D3/S1 (Teknik elektro, informatika, ilmu computer) dan sejenisnya Minimal memiliki...|Selasa, 25 Januari 2022|https://www.jobstreet.co.id/id/job/teknisi-jaringan-3768878?token=0~75682754-4ddd-4cf4-8a1b-270f22f5d9c1&sectionRank=2&jobId=jobstreet-id-job-3768878|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/c9726dd48637f2122e69fa4f05bdeddb6166e3b5/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|(CCNA) Technical Support|---|Jakarta Raya|Kualifikasi : D3- S1 bidang Teknik Informatika, Ilmu Komputer Usia 20 - 30 tahun Pengalaman di bidang IT Network 1 - 2 Tahun Menguasai bidang IT...|Jumat, 18 Februari 2022|https://www.jobstreet.co.id/id/job/ccna-technical-support-3795046?token=0~c5115331-27e2-4935-9d55-7694f95b8498&sectionRank=1&jobId=jobstreet-id-job-3795046|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/e9ec6fb2c34674038ef0a05ec8d4cd1e22347834/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT MITRA INFOSYS UTAMA|Teknisi printer Kyocera & Teknisi Komputer|---|Papua|Teknisi Printer Kyocera Melakukan maintenance printer Melakukan Service Printer  Install &amp; Setting Printer mengerti tentang printer Teknisi...|Rabu, 26 Januari 2022|https://www.jobstreet.co.id/id/job/teknisi-printer-kyocera-teknisi-komputer-3769305?token=0~c5115331-27e2-4935-9d55-7694f95b8498&sectionRank=2&jobId=jobstreet-id-job-3769305|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
