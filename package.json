@@ -12,7 +12,7 @@
     "prepare": "husky install"
   },
   "lint-staged": {
-    "**/*": "pretter --write --ignore-unknown"
+    "**/*": "prettier --write --ignore-unknown"
   },
   "devDependencies": {
     "@satyawikananda/prettier-config": "^0.0.3",
