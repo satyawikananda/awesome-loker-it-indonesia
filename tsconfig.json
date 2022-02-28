@@ -1,23 +1,11 @@
 {
-  "extends": "./node_modules/gts/tsconfig-google.json",
   "compilerOptions": {
-    "rootDir": ".",
-    "outDir": "build",
     "strict": false,
     "esModuleInterop": true,
-    "lib": [
-      "esnext",
-      "DOM"
-    ],
+    "lib": ["esnext", "DOM"],
     "target": "ES2018",
     "module": "commonjs",
     "sourceMap": false,
-    "declaration": true,
-    "allowSyntheticDefaultImports": true,
-    "noImplicitReturns": false,
-  },
-  "include": [
-    "src/**/*.ts",
-    "test/**/*.ts"
-  ]
+    "declaration": true
+  }
 }
