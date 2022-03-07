@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Kalimantan utara
 
-  ### Diperbarui pada tanggal Minggu, 06 Maret 2022
+  ### Diperbarui pada tanggal Senin, 07 Maret 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/881f8a805ccbdb20d3631a09cbe7ad3921934941/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Bangun Karya Persada Nusantara|IT Supervisor, IT Officer, IT Staff|---|Nunukan|Bertanggungjawab dalam menganalisa kebutuhan dan solusi Jaringan Komunikasi (Voice maupun Data) untuk menyelesaikan masalah konektivitas antar Head...|Senin, 14 Februari 2022|https://www.jobstreet.co.id/id/job/it-supervisor-it-officer-it-staff-3790378?token=0~2a967409-ba21-4f9b-bcb4-0dcebfd1d95b&sectionRank=1&jobId=jobstreet-id-job-3790378|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/881f8a805ccbdb20d3631a09cbe7ad3921934941/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Bangun Karya Persada Nusantara|IT Supervisor, IT Officer, IT Staff|---|Nunukan|Bertanggungjawab dalam menganalisa kebutuhan dan solusi Jaringan Komunikasi (Voice maupun Data) untuk menyelesaikan masalah konektivitas antar Head...|Senin, 14 Februari 2022|https://www.jobstreet.co.id/id/job/it-supervisor-it-officer-it-staff-3790378?token=0~7b130d86-0201-4ece-b9b7-9effd44c3437&sectionRank=1&jobId=jobstreet-id-job-3790378|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
