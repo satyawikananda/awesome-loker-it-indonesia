@@ -1,15 +1,14 @@
 
   # Lowongan kerja di Sulawesi utara
 
-  ### Diperbarui pada tanggal Selasa, 08 Maret 2022
+  ### Diperbarui pada tanggal Rabu, 09 Maret 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/2a2c8a948d223cf92abbc34c9b4e6cee325386db/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Majoo Teknologi Indonesia|IT Field Staff (Manado)|Rp. 3.000.000-Rp. 4.000.000|Manado|Deskripsi Pekerjaan: Melakukan instalasi beserta pengaturan software dan hardware majoo. Memberikan edukasi (training) kepada staff / manager/ owner...|Rabu, 16 Februari 2022|https://www.jobstreet.co.id/id/job/it-field-staff-manado-3782397?token=0~3af65b1d-e7ab-421a-be9f-be193e6d6912&sectionRank=1&jobId=jobstreet-id-job-3782397|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/7eee59ea5934120f389dd02961ddcb6b62946481/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Ruang Raya Indonesia (Jakarta)|Field Education Consultant Coach Kotamobagu|---|Kotamobagu|Ruangguru is a tech-enabled education company that provides a one-stop learning experience for students to have better access to quality content and...|Jumat, 25 Februari 2022|https://www.jobstreet.co.id/id/job/field-education-consultant-coach-kotamobagu-1030728151?token=0~3af65b1d-e7ab-421a-be9f-be193e6d6912&sectionRank=2&jobId=jobstreet-id-job-1030728151|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/7eee59ea5934120f389dd02961ddcb6b62946481/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Ruang Raya Indonesia (Jakarta)|Field Education Consultant Coach Manado|---|Manado|Ruangguru is a tech-enabled education company that provides a one-stop learning experience for students to have better access to quality content and...|Jumat, 25 Februari 2022|https://www.jobstreet.co.id/id/job/field-education-consultant-coach-manado-1030728085?token=0~3af65b1d-e7ab-421a-be9f-be193e6d6912&sectionRank=3&jobId=jobstreet-id-job-1030728085|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/7eee59ea5934120f389dd02961ddcb6b62946481/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Ruang Raya Indonesia (Jakarta)|Field Education Consultant Coach Kotamobagu|---|Kotamobagu|Ruangguru is a tech-enabled education company that provides a one-stop learning experience for students to have better access to quality content and...|Jumat, 25 Februari 2022|https://www.jobstreet.co.id/id/job/field-education-consultant-coach-kotamobagu-1030728151?token=0~12f61ac8-4837-4ade-8e85-7a0999fc49d3&sectionRank=1&jobId=jobstreet-id-job-1030728151|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/7eee59ea5934120f389dd02961ddcb6b62946481/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Ruang Raya Indonesia (Jakarta)|Field Education Consultant Coach Manado|---|Manado|Ruangguru is a tech-enabled education company that provides a one-stop learning experience for students to have better access to quality content and...|Jumat, 25 Februari 2022|https://www.jobstreet.co.id/id/job/field-education-consultant-coach-manado-1030728085?token=0~12f61ac8-4837-4ade-8e85-7a0999fc49d3&sectionRank=2&jobId=jobstreet-id-job-1030728085|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
