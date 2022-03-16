@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Kalimantan utara
 
-  ### Diperbarui pada tanggal Selasa, 15 Maret 2022
+  ### Diperbarui pada tanggal Rabu, 16 Maret 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/881f8a805ccbdb20d3631a09cbe7ad3921934941/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Bangun Karya Persada Nusantara|IT Supervisor, IT Officer, IT Staff|---|Nunukan|Bertanggungjawab dalam menganalisa kebutuhan dan solusi Jaringan Komunikasi (Voice maupun Data) untuk menyelesaikan masalah konektivitas antar Head...|Senin, 14 Februari 2022|https://www.jobstreet.co.id/id/job/it-supervisor-it-officer-it-staff-3790378?token=0~1dcaf9d2-69ea-4d24-a5cf-cdcdf486c441&sectionRank=1&jobId=jobstreet-id-job-3790378|
+  |![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|PT. Primabahagia Permai|IT Supervisor (Penempatan Kebun Kutai Timur)|Rp. 5.000.000-Rp. 7.000.000|Bulungan|Pendidikan: Min SMK TI (TKJ) atau S1 Teknik InformatikaKeahlian yang dibutuhkan:1. Memahami instalasi dan perawatan perangkat TI (Komputer, Laptop,...|Selasa, 15 Maret 2022|https://www.jobstreet.co.id/id/job/it-supervisor-penempatan-kebun-kutai-timur-3820818?token=0~668bade4-52ff-4c19-b000-4fe7539e89d0&sectionRank=1&jobId=jobstreet-id-job-3820818|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
