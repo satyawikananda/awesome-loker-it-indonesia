@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Maluku utara
 
-  ### Diperbarui pada tanggal Minggu, 10 April 2022
+  ### Diperbarui pada tanggal Senin, 11 April 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3646a0338f1a3d0c1d046d8b6398450c92c5b4cf/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. DHL Supply Chain Indonesia|IT Infrastructure Executive (Gosowong, North Maluku Based)|---|Maluku Utara|Requirements: At least 3 (three) years of working experience in similar position preferably in Mining sector Understanding of warehouse and...|Jumat, 01 April 2022|https://www.jobstreet.co.id/id/job/it-infrastructure-executive-gosowong-north-maluku-based-3830941?token=0~4b90c152-8880-45a4-a1da-84b0031310b0&sectionRank=1&jobId=jobstreet-id-job-3830941|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/e55e3708620a7ff5e7da329d1725ee01ed113417/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|Network Engineer CCNA|---|Jakarta Raya|Kualifikasi : D3- S1 bidang Teknik Informatika, Ilmu Komputer Usia 20 - 30 tahun Pengalaman di bidang IT Network 1 - 2 Tahun Menguasai bidang IT...|Kamis, 24 Maret 2022|https://www.jobstreet.co.id/id/job/network-engineer-ccna-3831920?token=0~4b90c152-8880-45a4-a1da-84b0031310b0&sectionRank=2&jobId=jobstreet-id-job-3831920|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3646a0338f1a3d0c1d046d8b6398450c92c5b4cf/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. DHL Supply Chain Indonesia|IT Infrastructure Executive (Gosowong, North Maluku Based)|---|Maluku Utara|Requirements: At least 3 (three) years of working experience in similar position preferably in Mining sector Understanding of warehouse and...|Jumat, 01 April 2022|https://www.jobstreet.co.id/id/job/it-infrastructure-executive-gosowong-north-maluku-based-3830941?token=0~134cdf16-a903-41fd-b5ad-12a9c145f9c5&sectionRank=1&jobId=jobstreet-id-job-3830941|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/e55e3708620a7ff5e7da329d1725ee01ed113417/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|Network Engineer CCNA|---|Jakarta Raya|Kualifikasi : D3- S1 bidang Teknik Informatika, Ilmu Komputer Usia 20 - 30 tahun Pengalaman di bidang IT Network 1 - 2 Tahun Menguasai bidang IT...|Kamis, 24 Maret 2022|https://www.jobstreet.co.id/id/job/network-engineer-ccna-3831920?token=0~134cdf16-a903-41fd-b5ad-12a9c145f9c5&sectionRank=2&jobId=jobstreet-id-job-3831920|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
