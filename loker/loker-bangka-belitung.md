@@ -1,15 +1,14 @@
 
   # Lowongan kerja di Bangka belitung
 
-  ### Diperbarui pada tanggal Rabu, 20 April 2022
+  ### Diperbarui pada tanggal Kamis, 21 April 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Bangka belitung
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3c4d4663233573dadfd47054904af30a6a87e617/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Global Inti Corporatama|NETWORK OPERATION CENTER (NOC)|---|Jakarta Raya|Responsibilities: Understand and understand well (setup, maintenance and troubleshoot): Opensource RedHat, CentOS, Ubuntu MRTG Server CACTI under...|Selasa, 19 April 2022|https://www.jobstreet.co.id/id/job/network-operation-center-noc-3859343?token=0~3bdf1177-0c00-4d49-b28a-34d510704d97&sectionRank=1&jobId=jobstreet-id-job-3859343|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/2d1ea8ff0455564725ee461e7649b26b6f031a13/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Murni Solusindo Nusantara|Teknisi Service Point|Rp. 2.500.000-Rp. 5.000.000|Magelang|DESKRIPSI PEKERJAAN: Melakukan PM (Preventive Maintenance) dan CM (Corrective Maintenance) ke customer sesuai dengan SLA yang sudah ditetapkan....|Selasa, 29 Maret 2022|https://www.jobstreet.co.id/id/job/teknisi-service-point-3836340?token=0~3bdf1177-0c00-4d49-b28a-34d510704d97&sectionRank=2&jobId=jobstreet-id-job-3836340|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/3c4d4663233573dadfd47054904af30a6a87e617/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Global Inti Corporatama|NETWORK OPERATION CENTER (NOC)|---|Jakarta Raya|Responsibilities: Understand and understand well (setup, maintenance and troubleshoot): Opensource RedHat, CentOS, Ubuntu MRTG Server CACTI under...|Selasa, 22 Maret 2022|https://www.jobstreet.co.id/id/job/network-operation-center-noc-3829911?token=0~3bdf1177-0c00-4d49-b28a-34d510704d97&sectionRank=3&jobId=jobstreet-id-job-3829911|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3c4d4663233573dadfd47054904af30a6a87e617/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Global Inti Corporatama|NETWORK OPERATION CENTER (NOC)|---|Jakarta Raya|Responsibilities: Understand and understand well (setup, maintenance and troubleshoot): Opensource RedHat, CentOS, Ubuntu MRTG Server CACTI under...|Selasa, 19 April 2022|https://www.jobstreet.co.id/id/job/network-operation-center-noc-3859343?token=0~bd88ee3c-fc1f-4b95-8aff-017478159296&sectionRank=1&jobId=jobstreet-id-job-3859343|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/2d1ea8ff0455564725ee461e7649b26b6f031a13/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Murni Solusindo Nusantara|Teknisi Service Point|Rp. 2.500.000-Rp. 5.000.000|Magelang|DESKRIPSI PEKERJAAN: Melakukan PM (Preventive Maintenance) dan CM (Corrective Maintenance) ke customer sesuai dengan SLA yang sudah ditetapkan....|Selasa, 29 Maret 2022|https://www.jobstreet.co.id/id/job/teknisi-service-point-3836340?token=0~bd88ee3c-fc1f-4b95-8aff-017478159296&sectionRank=2&jobId=jobstreet-id-job-3836340|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
