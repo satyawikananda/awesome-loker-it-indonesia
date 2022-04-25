@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Sulawesi utara
 
-  ### Diperbarui pada tanggal Minggu, 24 April 2022
+  ### Diperbarui pada tanggal Senin, 25 April 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/30246fe28cf2b050960410af49550c4c5d056668/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Yayasan Esatu Sarana Abadi|Analis IT|Rp. 4.000.000-Rp. 5.600.000|Jakarta Utara|RingkasanKesempatan untuk menunjukan keahlian anda atau menggali pengalaman di bermacam project IT (process automation, e-commerce site, scripting)....|Jumat, 15 April 2022|https://www.jobstreet.co.id/id/job/analis-it-3856977?token=0~2b02fa9f-ca51-4e46-b5db-fd9c0b1f5f2f&sectionRank=1&jobId=jobstreet-id-job-3856977|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/c45dc3fabf723b715b801c2eb542d55319eb67ae/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Yayasan Esatu Sarana Abadi|Analis IT|Rp. 4.000.000-Rp. 5.600.000|Jakarta Utara|RingkasanKesempatan untuk menunjukan keahlian anda atau menggali pengalaman di bermacam project IT (process automation, e-commerce site, scripting)....|Jumat, 15 April 2022|https://www.jobstreet.co.id/id/job/analis-it-3856977?token=0~7327b79e-7e19-4d2a-9e66-24501e506d54&sectionRank=1&jobId=jobstreet-id-job-3856977|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
