@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Sulawesi barat
 
-  ### Diperbarui pada tanggal Kamis, 28 April 2022
+  ### Diperbarui pada tanggal Jumat, 29 April 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/e55e3708620a7ff5e7da329d1725ee01ed113417/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|Network Security Engineer|Rp. 5.000.000-Rp. 9.000.000|Jakarta Raya|S1 Teknik (Komputer/Informatika). Waktu kerja Shift (sesuai dengan jadwal yang ditentukan) Bersedia ditempatkan di Jakarta dan luar kota (Palembang)...|Senin, 18 April 2022|https://www.jobstreet.co.id/id/job/network-security-engineer-3857440?token=0~bd836b9d-1911-4b20-a3e8-b39401144520&sectionRank=1&jobId=jobstreet-id-job-3857440|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/d44e24ea8df7f01da15345a414795777e59f4e7a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|Network Security Engineer|Rp. 5.000.000-Rp. 9.000.000|Jakarta Raya|S1 Teknik (Komputer/Informatika). Waktu kerja Shift (sesuai dengan jadwal yang ditentukan) Bersedia ditempatkan di Jakarta dan luar kota (Palembang)...|Senin, 18 April 2022|https://www.jobstreet.co.id/id/job/network-security-engineer-3857440?token=0~5fc45cf3-c7e7-4664-a548-a5d5647a8d68&sectionRank=1&jobId=jobstreet-id-job-3857440|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
