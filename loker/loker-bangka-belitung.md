@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Bangka belitung
 
-  ### Diperbarui pada tanggal Selasa, 10 Mei 2022
+  ### Diperbarui pada tanggal Rabu, 11 Mei 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Bangka belitung
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3c4d4663233573dadfd47054904af30a6a87e617/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Global Inti Corporatama|NETWORK OPERATION CENTER (NOC)|---|Jakarta Raya|Responsibilities: Understand and understand well (setup, maintenance and troubleshoot): Opensource RedHat, CentOS, Ubuntu MRTG Server CACTI under...|Selasa, 19 April 2022|https://www.jobstreet.co.id/id/job/network-operation-center-noc-3859343?token=0~83d84c92-960e-4b33-81b9-693a7e023216&sectionRank=1&jobId=jobstreet-id-job-3859343|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3c4d4663233573dadfd47054904af30a6a87e617/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Global Inti Corporatama|NETWORK OPERATION CENTER (NOC)|---|Jakarta Raya|Responsibilities: Understand and understand well (setup, maintenance and troubleshoot): Opensource RedHat, CentOS, Ubuntu MRTG Server CACTI under...|Selasa, 19 April 2022|https://www.jobstreet.co.id/id/job/network-operation-center-noc-3859343?token=0~559ece06-4640-4424-916c-7ad0838b0447&sectionRank=1&jobId=jobstreet-id-job-3859343|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
