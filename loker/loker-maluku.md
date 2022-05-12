@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Rabu, 11 Mei 2022
+  ### Diperbarui pada tanggal Kamis, 12 Mei 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/75a0e137cbbbb6119c508c6dc1464d0ff9ef547b/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Fiberhome Technologies Indonesia|Wireless Network Optimization Engineer|---|Maluku|Job Responsibility:1. Responsible for SSV test.2. Responsible  for outputting SSV report.3. Coordinate with wireless problem analysis and test.Job...|Selasa, 10 Mei 2022|https://www.jobstreet.co.id/id/job/wireless-network-optimization-engineer-3876910?token=0~88b30503-a4e9-46c0-a0a8-2c3c93c298ce&sectionRank=1&jobId=jobstreet-id-job-3876910|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/75a0e137cbbbb6119c508c6dc1464d0ff9ef547b/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Fiberhome Technologies Indonesia|Wireless Network Optimization Engineer|---|Maluku|Job Responsibility:1. Responsible for SSV test.2. Responsible  for outputting SSV report.3. Coordinate with wireless problem analysis and test.Job...|Selasa, 10 Mei 2022|https://www.jobstreet.co.id/id/job/wireless-network-optimization-engineer-3876910?token=0~68e7990f-fe05-41a4-8aa2-e2a1ce51b90a&sectionRank=1&jobId=jobstreet-id-job-3876910|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
