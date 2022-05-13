@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Kalimantan utara
 
-  ### Diperbarui pada tanggal Kamis, 12 Mei 2022
+  ### Diperbarui pada tanggal Jumat, 13 Mei 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/77efe85242dc7b3db5af7eecdaf1823d06bdc189/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Pesona Khatulistiwa Nusantara|IT Tecnician Supervisor|---|Bulungan|Usia Maksimal 35 tahun Pendidikan S1 (Teknik Informatika, Ilmu Komputer) Pengalaman Minimal 3 tahun diposisi yang sama Mengerti dan menguasai...|Rabu, 27 April 2022|https://www.jobstreet.co.id/id/job/it-tecnician-supervisor-3868623?token=0~478d29a8-3765-4fe3-956c-83c62d315ac7&sectionRank=1&jobId=jobstreet-id-job-3868623|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/77efe85242dc7b3db5af7eecdaf1823d06bdc189/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Pesona Khatulistiwa Nusantara|IT Tecnician Supervisor|---|Bulungan|Usia Maksimal 35 tahun Pendidikan S1 (Teknik Informatika, Ilmu Komputer) Pengalaman Minimal 3 tahun diposisi yang sama Mengerti dan menguasai...|Rabu, 27 April 2022|https://www.jobstreet.co.id/id/job/it-tecnician-supervisor-3868623?token=0~8e1f61d0-1897-47dc-8a83-16f88455c492&sectionRank=1&jobId=jobstreet-id-job-3868623|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
