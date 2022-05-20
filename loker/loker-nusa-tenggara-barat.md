@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Nusa tenggara-barat
 
-  ### Diperbarui pada tanggal Kamis, 19 Mei 2022
+  ### Diperbarui pada tanggal Jumat, 20 Mei 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Nusa tenggara-barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0d75518309b56a3cff39daa569b0ba02cc7a22f2/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Metrodata Electronics, Tbk|Network Engineer (Nusa Tenggara Barat)|---|Nusa Tenggara Barat|Personal Qualification: Minimum of Diplome-3 Degree in computer science or related field Minimum 3 (three) years relevant experience will be required...|Jumat, 06 Mei 2022|https://www.jobstreet.co.id/id/job/network-engineer-nusa-tenggara-barat-3863231?token=0~22c6a4a3-740e-465b-b8f3-9c4ac8ee6665&sectionRank=1&jobId=jobstreet-id-job-3863231|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0d75518309b56a3cff39daa569b0ba02cc7a22f2/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Metrodata Electronics, Tbk|Network Engineer (Nusa Tenggara Barat)|---|Nusa Tenggara Barat|Personal Qualification: Minimum of Diplome-3 Degree in computer science or related field Minimum 3 (three) years relevant experience will be required...|Jumat, 06 Mei 2022|https://www.jobstreet.co.id/id/job/network-engineer-nusa-tenggara-barat-3863231?token=0~8a4be873-9b39-40c6-a066-4dee509c441b&sectionRank=1&jobId=jobstreet-id-job-3863231|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
