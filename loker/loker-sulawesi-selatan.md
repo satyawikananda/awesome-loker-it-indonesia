@@ -1,15 +1,15 @@
 
   # Lowongan kerja di Sulawesi selatan
 
-  ### Diperbarui pada tanggal Minggu, 29 Mei 2022
+  ### Diperbarui pada tanggal Senin, 30 Mei 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi selatan
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/fed256614e30f8ce105096f2f56e6c8e4e36b945/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Altech Omega Andalan|Software Engineer|Rp. 5.000.000-Rp. 10.000.000|Makassar|Tanggung Jawab Kerja: Menganalisa, desain, develop dan implementasi teknologi pada beberapa platform sesuai dengan keinginan pelanggan Menjamin...|Rabu, 25 Mei 2022|https://www.jobstreet.co.id/id/job/software-engineer-3875629?token=0~d04bf5d2-731f-40d6-95a1-4cc57e88bde6&sectionRank=1&jobId=jobstreet-id-job-3875629|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/7668f8ba6f215857c6b491a199a2476689c52d6a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Olam Indonesia|IT Support Staff (Makassar Placement)|---|Sulawesi Selatan|About JIVAJIVA Indonesia is a group of Olam International, one of the largest agribusiness in the world. At Jiva Indonesia, we’re focused on solving...|Senin, 09 Mei 2022|https://www.jobstreet.co.id/id/job/it-support-staff-makassar-placement-3875166?token=0~d04bf5d2-731f-40d6-95a1-4cc57e88bde6&sectionRank=2&jobId=jobstreet-id-job-3875166|
-|![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|Nama perusahaan dirahasiakan|IT Manager|---|Bali|Pendidikan minimal S1 segala jurusan Minimal memiliki 1 tahun pengalaman kerja di bidang yang sama Memiliki pengetahuan mengenai PHP dan bahasa...|Selasa, 03 Mei 2022|https://www.jobstreet.co.id/id/job/it-manager-3871361?token=0~d04bf5d2-731f-40d6-95a1-4cc57e88bde6&sectionRank=3&jobId=jobstreet-id-job-3871361|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/fed256614e30f8ce105096f2f56e6c8e4e36b945/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Altech Omega Andalan|Software Engineer|Rp. 5.000.000-Rp. 10.000.000|Makassar|Tanggung Jawab Kerja: Menganalisa, desain, develop dan implementasi teknologi pada beberapa platform sesuai dengan keinginan pelanggan Menjamin...|Rabu, 25 Mei 2022|https://www.jobstreet.co.id/id/job/software-engineer-3875629?token=0~da02ed58-1ffe-4b72-9712-b5439a0f3347&sectionRank=1&jobId=jobstreet-id-job-3875629|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/c4779c5de75e49ba849baace0c57f7352e76767f/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Olam Indonesia|IT Support Staff (Makassar Placement)|---|Sulawesi Selatan|About JIVAJIVA Indonesia is a group of Olam International, one of the largest agribusiness in the world. At Jiva Indonesia, we’re focused on solving...|Senin, 09 Mei 2022|https://www.jobstreet.co.id/id/job/it-support-staff-makassar-placement-3875166?token=0~da02ed58-1ffe-4b72-9712-b5439a0f3347&sectionRank=2&jobId=jobstreet-id-job-3875166|
+|![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|Nama perusahaan dirahasiakan|IT Manager|---|Bali|Pendidikan minimal S1 segala jurusan Minimal memiliki 1 tahun pengalaman kerja di bidang yang sama Memiliki pengetahuan mengenai PHP dan bahasa...|Selasa, 03 Mei 2022|https://www.jobstreet.co.id/id/job/it-manager-3871361?token=0~da02ed58-1ffe-4b72-9712-b5439a0f3347&sectionRank=3&jobId=jobstreet-id-job-3871361|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)

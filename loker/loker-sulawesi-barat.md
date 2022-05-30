@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Sulawesi barat
 
-  ### Diperbarui pada tanggal Minggu, 29 Mei 2022
+  ### Diperbarui pada tanggal Senin, 30 Mei 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|PT Amber Solusi Internasional|WFH Data Analyst|---|Jawa Barat|Benefits: Fully Working from Home Opportunity to work with foreign customers Attractive compensation benefit Duties and Responsibilities: Maintain...|Selasa, 10 Mei 2022|https://www.jobstreet.co.id/id/job/wfh-data-analyst-3876560?token=0~19a23205-372d-4221-917c-deb342a6af41&sectionRank=1&jobId=jobstreet-id-job-3876560|
+  |![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|PT Amber Solusi Internasional|WFH Data Analyst|---|Jawa Barat|Benefits: Fully Working from Home Opportunity to work with foreign customers Attractive compensation benefit Duties and Responsibilities: Maintain...|Selasa, 10 Mei 2022|https://www.jobstreet.co.id/id/job/wfh-data-analyst-3876560?token=0~af1b3b9f-def4-4eba-aead-8fc0a5767ad8&sectionRank=1&jobId=jobstreet-id-job-3876560|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
