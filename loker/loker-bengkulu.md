@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Bengkulu
 
-  ### Diperbarui pada tanggal Jumat, 03 Juni 2022
+  ### Diperbarui pada tanggal Sabtu, 04 Juni 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Bengkulu
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/950062a1033401c61f75a166fce36f9781cc9e86/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|CITANUSA GROUP|Freelance IT Support|Rp. 2.400.000-Rp. 2.500.000|Bengkulu|Kualifikasi Pekerjaan Pendidikan minimal S1 Jurusan Teknik Informatika/Sistem Informasi Usia maksimal 38 tahun Memiliki pengalaman bekerja minimal 2...|Minggu, 29 Mei 2022|https://www.jobstreet.co.id/id/job/freelance-it-support-3890008?token=0~c206aa2a-f963-48ff-85f2-88ea80e7a306&sectionRank=1&jobId=jobstreet-id-job-3890008|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/950062a1033401c61f75a166fce36f9781cc9e86/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|CITANUSA GROUP|Freelance IT Support|Rp. 2.400.000-Rp. 2.500.000|Bengkulu|Kualifikasi Pekerjaan Pendidikan minimal S1 Jurusan Teknik Informatika/Sistem Informasi Usia maksimal 38 tahun Memiliki pengalaman bekerja minimal 2...|Minggu, 29 Mei 2022|https://www.jobstreet.co.id/id/job/freelance-it-support-3890008?token=0~e3aaffaf-3bc8-4419-ae3f-106ccb1dfe83&sectionRank=1&jobId=jobstreet-id-job-3890008|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
