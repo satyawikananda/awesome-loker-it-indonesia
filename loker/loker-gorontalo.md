@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Gorontalo
 
-  ### Diperbarui pada tanggal Sabtu, 09 Juli 2022
+  ### Diperbarui pada tanggal Minggu, 10 Juli 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Gorontalo
 
