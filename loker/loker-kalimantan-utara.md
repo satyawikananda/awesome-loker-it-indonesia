@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Kalimantan utara
 
-  ### Diperbarui pada tanggal Rabu, 13 Juli 2022
+  ### Diperbarui pada tanggal Kamis, 14 Juli 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/6a76252207cfed561e664c874d4631f4aefd8409/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Berca Hardayaperkasa|Desktop Support Engineer area Kalimantan Timur|---|Kalimantan Timur|Responsibilities : Analyzing, diagnosing, and installation to several areas including desktop hardware, operating systems, application software and...|Senin, 11 Juli 2022|https://www.jobstreet.co.id/id/job/desktop-support-engineer-area-kalimantan-timur-3951681?token=0~b3ed3a08-7ad1-4a4f-8f9f-f4f7fcae10d8&sectionRank=1&jobId=jobstreet-id-job-3951681|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/6a76252207cfed561e664c874d4631f4aefd8409/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Berca Hardayaperkasa|Desktop Support Engineer area Kalimantan Timur|---|Kalimantan Timur|Responsibilities : Analyzing, diagnosing, and installation to several areas including desktop hardware, operating systems, application software and...|Senin, 11 Juli 2022|https://www.jobstreet.co.id/id/job/desktop-support-engineer-area-kalimantan-timur-3951681?token=0~eb8c017b-53da-45c4-8357-0b5697aaa309&sectionRank=1&jobId=jobstreet-id-job-3951681|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
