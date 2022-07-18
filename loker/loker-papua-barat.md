@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Papua barat
 
-  ### Diperbarui pada tanggal Minggu, 17 Juli 2022
+  ### Diperbarui pada tanggal Senin, 18 Juli 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/2d1ea8ff0455564725ee461e7649b26b6f031a13/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Murni Solusindo Nusantara|Teknisi Service Point|---|Manokwari|DESKRIPSI PEKERJAAN: Melakukan PM (Preventive Maintenance) dan CM (Corrective Maintenance) ke customer sesuai dengan SLA yang sudah ditetapkan....|Rabu, 29 Juni 2022|https://www.jobstreet.co.id/id/job/teknisi-service-point-3937585?token=0~ca887b7d-487e-4d7d-a7b3-dc1501db1fff&sectionRank=1&jobId=jobstreet-id-job-3937585|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/2d1ea8ff0455564725ee461e7649b26b6f031a13/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Murni Solusindo Nusantara|Teknisi Service Point|---|Manokwari|DESKRIPSI PEKERJAAN: Melakukan PM (Preventive Maintenance) dan CM (Corrective Maintenance) ke customer sesuai dengan SLA yang sudah ditetapkan....|Rabu, 29 Juni 2022|https://www.jobstreet.co.id/id/job/teknisi-service-point-3937585?token=0~f48ea287-8f38-4d14-b6b3-c77594b18255&sectionRank=1&jobId=jobstreet-id-job-3937585|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
