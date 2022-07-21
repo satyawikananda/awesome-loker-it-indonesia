@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Rabu, 20 Juli 2022
+  ### Diperbarui pada tanggal Kamis, 21 Juli 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/5a3996bee985ef8e0d596ac246962f1a36c33f80/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT AKR Corporindo Tbk.|Discipline Expert|---|Maluku|Job Profile SummaryOur purpose is reimagining energy for people and our planet. We want to help the world reach net zero and improve people’s lives....|Selasa, 19 Juli 2022|https://www.jobstreet.co.id/id/job/discipline-expert-1032332263?token=0~9e794710-f104-48bc-8cb4-207e090c467e&sectionRank=1&jobId=jobstreet-id-job-1032332263|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/5a3996bee985ef8e0d596ac246962f1a36c33f80/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT AKR Corporindo Tbk.|Discipline Expert|---|Maluku|Job Profile SummaryOur purpose is reimagining energy for people and our planet. We want to help the world reach net zero and improve people’s lives....|Rabu, 20 Juli 2022|https://www.jobstreet.co.id/id/job/discipline-expert-1032332263?token=0~d1fd25d5-33f0-48c9-955c-1329043bf096&sectionRank=1&jobId=jobstreet-id-job-1032332263|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
