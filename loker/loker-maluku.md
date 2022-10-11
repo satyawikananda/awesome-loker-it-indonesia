@@ -1,13 +1,14 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Senin, 25 Juli 2022
+  ### Diperbarui pada tanggal Selasa, 11 Oktober 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/bb48f11a596a058a69554fe5556d81d016e8e80d/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT AKR Corporindo Tbk.|Discipline Expert|---|Maluku|Job Profile SummaryOur purpose is reimagining energy for people and our planet. We want to help the world reach net zero and improve people’s lives....|Minggu, 24 Juli 2022|https://www.jobstreet.co.id/id/job/discipline-expert-1032332263?token=0~a92a36ee-fff7-4fa1-abbe-538500df91cb&sectionRank=1&jobId=jobstreet-id-job-1032332263|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/75a0e137cbbbb6119c508c6dc1464d0ff9ef547b/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Fiberhome Technologies Indonesia|Data Communication Engineer|---|Maluku|Job Requirements:1.Familiar with transmission device commissioning, operation and maintenance of transmission network equipment, optimization, and...|Kamis, 06 Oktober 2022|https://www.jobstreet.co.id/id/job/data-communication-engineer-4044224?token=0~e4289b00-faec-4609-b188-a0547a4ccd33&sectionRank=1&jobId=jobstreet-id-job-4044224|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/65ac88dbdfb1f4056a6e96d1d96fb2fc637747ff/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Tangara Mitrakom (EMTEK Group)|Teknisi VSAT Jakarta Selatan, Jakarta Pusat, Medan, Makassar|---|Jakarta Raya|LOWONGAN INI UNTUK TEKNISI VSAT AREA: TEKNISI VSAT JAKARTA PUSAT TEKNISI VSAT JAKARTA SELATAN TEKNISI VSAT MAKASSAR TEKNISI VSAT MEDAN Deskripsi...|Selasa, 20 September 2022|https://www.jobstreet.co.id/id/job/teknisi-vsat-jakarta-selatan-jakarta-pusat-medan-makassar-4038531?token=0~e4289b00-faec-4609-b188-a0547a4ccd33&sectionRank=2&jobId=jobstreet-id-job-4038531|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)

@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Papua
 
-  ### Diperbarui pada tanggal Senin, 25 Juli 2022
+  ### Diperbarui pada tanggal Selasa, 11 Oktober 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/d44e24ea8df7f01da15345a414795777e59f4e7a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|Technical Support|---|Jakarta Raya|Kualifikasi : D3- S1 bidang Teknik Informatika, Ilmu Komputer Usia 20 - 30 tahun Pengalaman di bidang IT Network 1 - 2 Tahun Menguasai bidang IT...|Jumat, 08 Juli 2022|https://www.jobstreet.co.id/id/job/technical-support-3949835?token=0~853f0685-56ce-4fd1-9ce7-969020d81edb&sectionRank=1&jobId=jobstreet-id-job-3949835|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/42c86a8b105a4a61207d17e926339b1f85f7baa5/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Murni Solusindo Nusantara|Teknisi Service Point|---|Manokwari|DESKRIPSI PEKERJAAN: Melakukan PM (Preventive Maintenance) dan CM (Corrective Maintenance) ke customer sesuai dengan SLA yang sudah ditetapkan....|Rabu, 29 Juni 2022|https://www.jobstreet.co.id/id/job/teknisi-service-point-3937585?token=0~853f0685-56ce-4fd1-9ce7-969020d81edb&sectionRank=2&jobId=jobstreet-id-job-3937585|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/cf504cf0fd63cff79d8947c0ec301d1bfb683f57/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Agro Harapan Lestari|IT Assistant - Placement in PAPUA Site (Nabire)|---|Papua|Job Descriptions: Microsoft Windows Server (2003, 2008R2) administration, installation, disaster recovery planning, backups, performance analysis, and...|Minggu, 02 Oktober 2022|https://www.jobstreet.co.id/id/job/it-assistant-placement-in-papua-site-nabire-4043199?token=0~60c9065c-8248-491f-8614-1b99fdd163b1&sectionRank=1&jobId=jobstreet-id-job-4043199|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/2a510a4fa1de2e48c929795640f6178dab75b6ef/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Accenture|SAP PM Consultant (Papua)|---|Papua|Accenture is a leading global professional services company, providing a broad range of services in strategy and consulting, interactive, technology...|Rabu, 05 Oktober 2022|https://www.jobstreet.co.id/id/job/sap-pm-consultant-papua-4037481?token=0~60c9065c-8248-491f-8614-1b99fdd163b1&sectionRank=2&jobId=jobstreet-id-job-4037481|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)

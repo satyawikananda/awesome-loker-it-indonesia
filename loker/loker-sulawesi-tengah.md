@@ -1,16 +1,14 @@
 
   # Lowongan kerja di Sulawesi tengah
 
-  ### Diperbarui pada tanggal Senin, 25 Juli 2022
+  ### Diperbarui pada tanggal Selasa, 11 Oktober 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi tengah
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/2cef4c70ccef686838435eb41d231e64e523d237/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Baoshuo Taman Industry Investment Group|IT Support|---|Jakarta Selatan|Requirements: Hold Bachelor Degree (S1) in Management Information Systems, Information Technology , Computer Science or Engineering with minimum GPA...|Jumat, 22 Juli 2022|https://www.jobstreet.co.id/id/job/it-support-3966236?token=0~6f32eb5d-c75b-416f-9899-7d72c8b8ec3e&sectionRank=1&jobId=jobstreet-id-job-3966236|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/b5064dcc65945b6a538802803c5c7964bea2108f/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Gunbuster Nickel Industry|IT Staff|---|Sulawesi Tengah|Qualifications : Minimun D3 Information Technology/ Information Systems / related field ; Minimum 2 years experience in mining industry ; Minimum...|Senin, 04 Juli 2022|https://www.jobstreet.co.id/id/job/it-staff-3943586?token=0~6f32eb5d-c75b-416f-9899-7d72c8b8ec3e&sectionRank=2&jobId=jobstreet-id-job-3943586|
-|![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|PT Langit Metal Industry|IT Engineer|Rp. 7.000.000-Rp. 12.000.000|Sulawesi Tengah|Job Responsibilities: Memahami Troubleshooting dan konfigurasi Hardware PC / Laptop, Printer, scanner Memahami instalasi dan pemeliharaan jaringan,...|Kamis, 30 Juni 2022|https://www.jobstreet.co.id/id/job/it-engineer-3939909?token=0~6f32eb5d-c75b-416f-9899-7d72c8b8ec3e&sectionRank=3&jobId=jobstreet-id-job-3939909|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/42c86a8b105a4a61207d17e926339b1f85f7baa5/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Murni Solusindo Nusantara|Teknisi Service Point|---|Manokwari|DESKRIPSI PEKERJAAN: Melakukan PM (Preventive Maintenance) dan CM (Corrective Maintenance) ke customer sesuai dengan SLA yang sudah ditetapkan....|Rabu, 29 Juni 2022|https://www.jobstreet.co.id/id/job/teknisi-service-point-3937585?token=0~6f32eb5d-c75b-416f-9899-7d72c8b8ec3e&sectionRank=4&jobId=jobstreet-id-job-3937585|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/ccc9351bdb2230a6a680c29475ae1d118c709938/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Nuansa Cerah Informasi|Implementor|---|Bandung|Pendidikan D3 / S1 Sistem Informasi/ Manajemen Informatika/ Teknik Komputer/ Teknik Informatika / Komputer Akuntansi/Akuntansi Komunikatif, dapat...|Jumat, 07 Oktober 2022|https://www.jobstreet.co.id/id/job/implementor-4058754?token=0~45b62b44-17a3-4391-8576-92d1d7167669&sectionRank=1&jobId=jobstreet-id-job-4058754|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/c9ea1c15540adb1bb3ee5d9034c0b2b344562e4e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Bintang Komunikasi Utama|Marketing (Area Sulawesi)|---|Sulawesi Tengah|Usia maksimal 40 tahun Pendidikan minimal S1 Teknik Elektro/ Jaringan/ Telekomunikasi Memiliki pengalaman di bidang marketing teknis minimal 1 tahun...|Senin, 03 Oktober 2022|https://www.jobstreet.co.id/id/job/marketing-area-sulawesi-4052479?token=0~45b62b44-17a3-4391-8576-92d1d7167669&sectionRank=2&jobId=jobstreet-id-job-4052479|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
