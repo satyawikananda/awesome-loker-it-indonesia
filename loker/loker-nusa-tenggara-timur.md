@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Nusa tenggara-timur
 
-  ### Diperbarui pada tanggal Selasa, 11 Oktober 2022
+  ### Diperbarui pada tanggal Rabu, 12 Oktober 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Nusa tenggara-timur
 
