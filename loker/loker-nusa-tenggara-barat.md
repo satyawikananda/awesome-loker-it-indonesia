@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Nusa tenggara-barat
 
-  ### Diperbarui pada tanggal Rabu, 19 Oktober 2022
+  ### Diperbarui pada tanggal Kamis, 20 Oktober 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Nusa tenggara-barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/11734fe8de933fd37bfa0a4549820ec3bb465d79/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Citec Engineering Indonesia|Insinyur Logistik|Rp. 4.700.000-Rp. 7.500.000|Sumbawa|Tugas &amp; Tanggung Jawab: Menentukan persyaratan untuk keperluan dukungan logistik, seperti jumlah staff yang diperlukan, detail fasilitas, rencana...|Minggu, 02 Oktober 2022|https://www.jobstreet.co.id/id/job/insinyur-logistik-4052124?token=0~18d4d94e-c9e0-4834-a6ae-cbbe5c40e9ae&sectionRank=1&jobId=jobstreet-id-job-4052124|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/11734fe8de933fd37bfa0a4549820ec3bb465d79/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Citec Engineering Indonesia|Insinyur Logistik|Rp. 4.700.000-Rp. 7.500.000|Sumbawa|Tugas &amp; Tanggung Jawab: Menentukan persyaratan untuk keperluan dukungan logistik, seperti jumlah staff yang diperlukan, detail fasilitas, rencana...|Minggu, 02 Oktober 2022|https://www.jobstreet.co.id/id/job/insinyur-logistik-4052124?token=0~1c031c11-ae87-4cfa-aa5a-268d6e82cb4d&sectionRank=1&jobId=jobstreet-id-job-4052124|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
