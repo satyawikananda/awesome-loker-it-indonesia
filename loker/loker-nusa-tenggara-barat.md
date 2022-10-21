@@ -1,13 +1,14 @@
 
   # Lowongan kerja di Nusa tenggara-barat
 
-  ### Diperbarui pada tanggal Kamis, 20 Oktober 2022
+  ### Diperbarui pada tanggal Jumat, 21 Oktober 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Nusa tenggara-barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/11734fe8de933fd37bfa0a4549820ec3bb465d79/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Citec Engineering Indonesia|Insinyur Logistik|Rp. 4.700.000-Rp. 7.500.000|Sumbawa|Tugas &amp; Tanggung Jawab: Menentukan persyaratan untuk keperluan dukungan logistik, seperti jumlah staff yang diperlukan, detail fasilitas, rencana...|Minggu, 02 Oktober 2022|https://www.jobstreet.co.id/id/job/insinyur-logistik-4052124?token=0~1c031c11-ae87-4cfa-aa5a-268d6e82cb4d&sectionRank=1&jobId=jobstreet-id-job-4052124|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/8b9d71fb6ac98baedac4bbcffd1f107000b99cbc/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Murni Solusindo Nusantara|Teknisi Service Point|---|Ternate|DESKRIPSI PEKERJAAN: Melakukan PM (Preventive Maintenance) dan CM (Corrective Maintenance) ke customer sesuai dengan SLA yang sudah ditetapkan....|Kamis, 20 Oktober 2022|https://www.jobstreet.co.id/id/job/teknisi-service-point-4075526?token=0~3904cc47-6a2b-464c-855c-6ebd85fe1043&sectionRank=1&jobId=jobstreet-id-job-4075526|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/11734fe8de933fd37bfa0a4549820ec3bb465d79/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Citec Engineering Indonesia|Insinyur Logistik|Rp. 4.700.000-Rp. 7.500.000|Sumbawa|Tugas &amp; Tanggung Jawab: Menentukan persyaratan untuk keperluan dukungan logistik, seperti jumlah staff yang diperlukan, detail fasilitas, rencana...|Minggu, 02 Oktober 2022|https://www.jobstreet.co.id/id/job/insinyur-logistik-4052124?token=0~3904cc47-6a2b-464c-855c-6ebd85fe1043&sectionRank=2&jobId=jobstreet-id-job-4052124|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
