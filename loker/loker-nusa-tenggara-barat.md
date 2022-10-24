@@ -1,15 +1,15 @@
 
   # Lowongan kerja di Nusa tenggara-barat
 
-  ### Diperbarui pada tanggal Minggu, 23 Oktober 2022
+  ### Diperbarui pada tanggal Senin, 24 Oktober 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Nusa tenggara-barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3ac12665b5372c84ef4fd7270e02f2c5e3066d0c/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Jayanthi Kartha Solusindo (Denpasar)|Technical Support|Rp. 3.500.000-Rp. 4.000.000|Denpasar|Skills Needed : Network (Wired &amp; Wireless) Troubleshooting Job Description: Perform network troubleshooting fttx / ftth and make an improvement...|Jumat, 21 Oktober 2022|https://www.jobstreet.co.id/id/job/technical-support-4075808?token=0~294039e4-25e6-4b41-9228-74bf7bca218e&sectionRank=1&jobId=jobstreet-id-job-4075808|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/8b9d71fb6ac98baedac4bbcffd1f107000b99cbc/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Murni Solusindo Nusantara|Teknisi Service Point|---|Ternate|DESKRIPSI PEKERJAAN: Melakukan PM (Preventive Maintenance) dan CM (Corrective Maintenance) ke customer sesuai dengan SLA yang sudah ditetapkan....|Kamis, 20 Oktober 2022|https://www.jobstreet.co.id/id/job/teknisi-service-point-4075526?token=0~294039e4-25e6-4b41-9228-74bf7bca218e&sectionRank=2&jobId=jobstreet-id-job-4075526|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/11734fe8de933fd37bfa0a4549820ec3bb465d79/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Citec Engineering Indonesia|Insinyur Logistik|Rp. 4.700.000-Rp. 7.500.000|Sumbawa|Tugas &amp; Tanggung Jawab: Menentukan persyaratan untuk keperluan dukungan logistik, seperti jumlah staff yang diperlukan, detail fasilitas, rencana...|Minggu, 02 Oktober 2022|https://www.jobstreet.co.id/id/job/insinyur-logistik-4052124?token=0~294039e4-25e6-4b41-9228-74bf7bca218e&sectionRank=3&jobId=jobstreet-id-job-4052124|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/3ac12665b5372c84ef4fd7270e02f2c5e3066d0c/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Jayanthi Kartha Solusindo (Denpasar)|Technical Support|Rp. 3.500.000-Rp. 4.000.000|Denpasar|Skills Needed : Network (Wired &amp; Wireless) Troubleshooting Job Description: Perform network troubleshooting fttx / ftth and make an improvement...|Jumat, 21 Oktober 2022|https://www.jobstreet.co.id/id/job/technical-support-4075808?token=0~f82d45c9-0a76-4bd9-a81f-47797692bda6&sectionRank=1&jobId=jobstreet-id-job-4075808|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/8b9d71fb6ac98baedac4bbcffd1f107000b99cbc/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Murni Solusindo Nusantara|Teknisi Service Point|---|Ternate|DESKRIPSI PEKERJAAN: Melakukan PM (Preventive Maintenance) dan CM (Corrective Maintenance) ke customer sesuai dengan SLA yang sudah ditetapkan....|Kamis, 20 Oktober 2022|https://www.jobstreet.co.id/id/job/teknisi-service-point-4075526?token=0~f82d45c9-0a76-4bd9-a81f-47797692bda6&sectionRank=2&jobId=jobstreet-id-job-4075526|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/11734fe8de933fd37bfa0a4549820ec3bb465d79/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Citec Engineering Indonesia|Insinyur Logistik|Rp. 4.700.000-Rp. 7.500.000|Sumbawa|Tugas &amp; Tanggung Jawab: Menentukan persyaratan untuk keperluan dukungan logistik, seperti jumlah staff yang diperlukan, detail fasilitas, rencana...|Minggu, 02 Oktober 2022|https://www.jobstreet.co.id/id/job/insinyur-logistik-4052124?token=0~f82d45c9-0a76-4bd9-a81f-47797692bda6&sectionRank=3&jobId=jobstreet-id-job-4052124|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
