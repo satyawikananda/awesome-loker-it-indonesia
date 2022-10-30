@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Sulawesi tenggara
 
-  ### Diperbarui pada tanggal Sabtu, 29 Oktober 2022
+  ### Diperbarui pada tanggal Minggu, 30 Oktober 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi tenggara
 
