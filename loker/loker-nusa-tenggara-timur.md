@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Nusa tenggara-timur
 
-  ### Diperbarui pada tanggal Rabu, 02 November 2022
+  ### Diperbarui pada tanggal Kamis, 03 November 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Nusa tenggara-timur
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/a778cc2d537d275f0abc3d64068f14c4c640057e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. PERSOLKELLY Recruitment Indonesia|Field Data Collection (Driver - Indonesia area)|Rp. 3.000.000-Rp. 4.000.000|Bali|Job Description: Kumpulkan (peta) imajiner di area sesuai instruksi pemimpin. Memenuhi target pemetaan harian/bulanan &amp; mengoperasikan, menangani...|Rabu, 26 Oktober 2022|https://www.jobstreet.co.id/id/job/field-data-collection-driver-indonesia-area-4081173?token=0~6f6bfdf4-bcd5-44dc-93cd-462c09cebde9&sectionRank=1&jobId=jobstreet-id-job-4081173|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/a778cc2d537d275f0abc3d64068f14c4c640057e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. PERSOLKELLY Recruitment Indonesia|Field Data Collection (Driver - Indonesia area)|Rp. 3.000.000-Rp. 4.000.000|Bali|Job Description: Kumpulkan (peta) imajiner di area sesuai instruksi pemimpin. Memenuhi target pemetaan harian/bulanan &amp; mengoperasikan, menangani...|Rabu, 26 Oktober 2022|https://www.jobstreet.co.id/id/job/field-data-collection-driver-indonesia-area-4081173?token=0~f4bc9d7b-0083-446b-996c-59ba629c74d7&sectionRank=1&jobId=jobstreet-id-job-4081173|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
