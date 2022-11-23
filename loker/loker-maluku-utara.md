@@ -1,13 +1,14 @@
 
   # Lowongan kerja di Maluku utara
 
-  ### Diperbarui pada tanggal Selasa, 22 November 2022
+  ### Diperbarui pada tanggal Rabu, 23 November 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/5582002035ae62ec1974f28a6c0ebc18f930b553/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Halmahera Jaya Feronikel|IT Infrastructure and Networking Staff (Penempatan di Pulau Obi, Maluku Utara)|---|Maluku Utara|Job Description : Provide technical support to the development of the infrastructure systems and services Define, order, and monitor installation and...|Rabu, 16 November 2022|https://www.jobstreet.co.id/id/job/it-infrastructure-and-networking-staff-penempatan-di-pulau-obi-maluku-utara-4108552?token=0~98024c3f-0d40-4470-8334-94536b104f8c&sectionRank=1&jobId=jobstreet-id-job-4108552|
+  |![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|PT Halmahera Persada Lygend|IT Infrastructure & Networking Staff (Penempatan Pulau Obi, Maluku Utara)|---|Maluku Utara|Job Description : Provide technical support to the development of the infrastructure systems and services Define, order, and monitor installation and...|Selasa, 22 November 2022|https://www.jobstreet.co.id/id/job/it-infrastructure-networking-staff-penempatan-pulau-obi-maluku-utara-4116419?token=0~5eb1be6d-728d-4e93-b588-6505faa8322a&sectionRank=1&jobId=jobstreet-id-job-4116419|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/5582002035ae62ec1974f28a6c0ebc18f930b553/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Halmahera Jaya Feronikel|IT Infrastructure and Networking Staff (Penempatan di Pulau Obi, Maluku Utara)|---|Maluku Utara|Job Description : Provide technical support to the development of the infrastructure systems and services Define, order, and monitor installation and...|Rabu, 16 November 2022|https://www.jobstreet.co.id/id/job/it-infrastructure-and-networking-staff-penempatan-di-pulau-obi-maluku-utara-4108552?token=0~5eb1be6d-728d-4e93-b588-6505faa8322a&sectionRank=2&jobId=jobstreet-id-job-4108552|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
