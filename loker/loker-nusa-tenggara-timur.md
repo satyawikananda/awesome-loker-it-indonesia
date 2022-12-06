@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Nusa tenggara-timur
 
-  ### Diperbarui pada tanggal Senin, 05 Desember 2022
+  ### Diperbarui pada tanggal Selasa, 06 Desember 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Nusa tenggara-timur
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/8b751692970fe3027183d7723522b9a255a2863c/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Pranala Ragam Karya|Javascript Developer|Rp. 7.000.000-Rp. 10.000.000|Jawa Barat|Dibutuhkan segera Javascript Developer dengan kriteria sebagai berikut: Bisa bekerja pada jam malam mengikuti zona waktu klien kami di Amerika....|Selasa, 22 November 2022|https://www.jobstreet.co.id/id/job/javascript-developer-4115091?token=0~bdb54d9c-ac71-4797-81f1-6b8527397463&sectionRank=1&jobId=jobstreet-id-job-4115091|
-|![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|Nuyew Tech Academy|Trainee Data and Business Intelligence Analyst|---|Nusa Tenggara Timur|Start an exciting new and lucrative career as a Trainee Data and Business Intelligence AnalystWhat will be required of you to become a Trainee Data...|Minggu, 04 Desember 2022|https://www.jobstreet.co.id/id/job/trainee-data-and-business-intelligence-analyst-1033973294?token=0~bdb54d9c-ac71-4797-81f1-6b8527397463&sectionRank=2&jobId=jobstreet-id-job-1033973294|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/8b751692970fe3027183d7723522b9a255a2863c/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Pranala Ragam Karya|Javascript Developer|Rp. 7.000.000-Rp. 10.000.000|Jawa Barat|Dibutuhkan segera Javascript Developer dengan kriteria sebagai berikut: Bisa bekerja pada jam malam mengikuti zona waktu klien kami di Amerika....|Selasa, 22 November 2022|https://www.jobstreet.co.id/id/job/javascript-developer-4115091?token=0~68c0dd28-a31a-44fa-9e06-9e79b690e1fd&sectionRank=1&jobId=jobstreet-id-job-4115091|
+|![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|Nuyew Tech Academy|Trainee Data and Business Intelligence Analyst|---|Nusa Tenggara Timur|Start an exciting new and lucrative career as a Trainee Data and Business Intelligence AnalystWhat will be required of you to become a Trainee Data...|Senin, 05 Desember 2022|https://www.jobstreet.co.id/id/job/trainee-data-and-business-intelligence-analyst-1033973294?token=0~68c0dd28-a31a-44fa-9e06-9e79b690e1fd&sectionRank=2&jobId=jobstreet-id-job-1033973294|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
