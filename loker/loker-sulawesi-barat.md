@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Sulawesi barat
 
-  ### Diperbarui pada tanggal Senin, 12 Desember 2022
+  ### Diperbarui pada tanggal Selasa, 13 Desember 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0f683dc67275bb803453d1e92fb7cd7b12b824b6/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|Technical Support|---|Jakarta Raya|Pendidikan minimum D3/S1 Jurusan IT IPK Minimum 2.75 Memiliki pengalaman minimal 1 tahun (diutamakan) telah berhasil menyelesaikan ujian sertifikasi...|Rabu, 16 November 2022|https://www.jobstreet.co.id/id/job/technical-support-4108019?token=0~d77706de-abac-4518-b186-8feda50e63dc&sectionRank=1&jobId=jobstreet-id-job-4108019|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0dc8e99010397b52d23c25a2b9dad3a300cd0580/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|Technical Support|---|Jakarta Raya|Pendidikan minimum D3/S1 Jurusan IT IPK Minimum 2.75 Memiliki pengalaman minimal 1 tahun (diutamakan) telah berhasil menyelesaikan ujian sertifikasi...|Rabu, 16 November 2022|https://www.jobstreet.co.id/id/job/technical-support-4108019?token=0~675e92e2-3ee8-4db4-8b4b-2d3108aea0b7&sectionRank=1&jobId=jobstreet-id-job-4108019|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
