@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Nusa tenggara-barat
 
-  ### Diperbarui pada tanggal Senin, 26 Desember 2022
+  ### Diperbarui pada tanggal Selasa, 27 Desember 2022
 
   Berikut merupakan daftar lowongan kerja yang ada di Nusa tenggara-barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/f3e505b4d9da682a6f4f311bd59ccfe97c6d80cd/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Impact360 Solutions Sdn Bhd|Game Developer ( Mobile HTML5 / Web / Multiplayer / Programmer )|Rp. 4.000.000-Rp. 8.000.000|Aceh|We are hiring remote HTML5 game developers from all parts of Indonesia. If you have real experience building HTML5 games or applications, you're...|Senin, 19 Desember 2022|https://www.jobstreet.co.id/id/job/game-developer-mobile-html5-web-multiplayer-programmer-5217617/origin/my?token=0~9f09ec63-017e-41b6-990b-51129cff30d2&sectionRank=1&jobId=jobstreet-my-job-5217617|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/f3e505b4d9da682a6f4f311bd59ccfe97c6d80cd/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Impact360 Solutions Sdn Bhd|Game Developer ( Mobile HTML5 / Web / Multiplayer / Programmer )|Rp. 4.000.000-Rp. 8.000.000|Aceh|We are hiring remote HTML5 game developers from all parts of Indonesia. If you have real experience building HTML5 games or applications, you're...|Senin, 19 Desember 2022|https://www.jobstreet.co.id/id/job/game-developer-mobile-html5-web-multiplayer-programmer-5217617/origin/my?token=0~36ddd0af-67b4-434a-bc79-4257088aba8d&sectionRank=1&jobId=jobstreet-my-job-5217617|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
