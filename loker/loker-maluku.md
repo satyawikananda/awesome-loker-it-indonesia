@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Minggu, 01 Januari 2023
+  ### Diperbarui pada tanggal Senin, 02 Januari 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/5540e9b59290cebacfff7858722d5ede593231d9/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Salam Pacific Indonesia Lines|SPARTAN 2023 (SPIL ACCELERATION TRAINEE PROGRAM) - IT MANAGEMENT TRAINEE|---|Pontianak|Calling for high achiever fresh graduates to join our trainee program. Enhance yourself by learning in the real world working environment. In this...|Sabtu, 17 Desember 2022|https://www.jobstreet.co.id/id/job/spartan-2023-spil-acceleration-trainee-program-it-management-trainee-4147984?token=0~3741bd8c-311a-4462-8f54-842dc343268f&sectionRank=1&jobId=jobstreet-id-job-4147984|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/5540e9b59290cebacfff7858722d5ede593231d9/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Salam Pacific Indonesia Lines|SPARTAN 2023 (SPIL ACCELERATION TRAINEE PROGRAM) - IT MANAGEMENT TRAINEE|---|Pontianak|Calling for high achiever fresh graduates to join our trainee program. Enhance yourself by learning in the real world working environment. In this...|Sabtu, 17 Desember 2022|https://www.jobstreet.co.id/id/job/spartan-2023-spil-acceleration-trainee-program-it-management-trainee-4147984?token=0~0872162b-be48-4e0c-ba19-38cd90eb61cd&sectionRank=1&jobId=jobstreet-id-job-4147984|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
