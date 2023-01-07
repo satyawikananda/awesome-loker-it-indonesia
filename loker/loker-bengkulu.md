@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Bengkulu
 
-  ### Diperbarui pada tanggal Jumat, 06 Januari 2023
+  ### Diperbarui pada tanggal Sabtu, 07 Januari 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Bengkulu
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/7683c13df98531e06c6746a4aaa4a41636e7bb3a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Binayasa Karya Pratama|TEKNISI KOMPUTER|Rp. 3.000.000-Rp. 4.200.000|Bengkulu|Tanggung Jawab Pekerjaan: Melakukan pemantauan terhadap perangkat serta maintenance yang bersifat preventif seperti update patch Operating System dan...|Jumat, 23 Desember 2022|https://www.jobstreet.co.id/id/job/teknisi-komputer-4154664?token=0~66e1a4e8-caac-4256-9d72-b2fc2a2b4d64&sectionRank=1&jobId=jobstreet-id-job-4154664|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/7683c13df98531e06c6746a4aaa4a41636e7bb3a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Binayasa Karya Pratama|TEKNISI KOMPUTER|Rp. 3.000.000-Rp. 4.200.000|Bengkulu|Tanggung Jawab Pekerjaan: Melakukan pemantauan terhadap perangkat serta maintenance yang bersifat preventif seperti update patch Operating System dan...|Jumat, 23 Desember 2022|https://www.jobstreet.co.id/id/job/teknisi-komputer-4154664?token=0~670ff034-9a07-48d9-9480-cf2dcdffd273&sectionRank=1&jobId=jobstreet-id-job-4154664|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
