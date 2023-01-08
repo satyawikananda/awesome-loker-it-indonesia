@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku utara
 
-  ### Diperbarui pada tanggal Sabtu, 07 Januari 2023
+  ### Diperbarui pada tanggal Minggu, 08 Januari 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/626e62939ffee97fdd75cf76b1148134fb26d11f/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|SAMPOERNA KAYOE|Area Head Technical Support IT - Maluku|---|Maluku Utara|Responsibility : Installing and configuring computer hardware, software, systems, networks, printers, and scanners Installing and configuring computer...|Jumat, 23 Desember 2022|https://www.jobstreet.co.id/id/job/area-head-technical-support-it-maluku-4155589?token=0~4492d02a-43cc-40df-a9eb-a96fa8d05aea&sectionRank=1&jobId=jobstreet-id-job-4155589|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/626e62939ffee97fdd75cf76b1148134fb26d11f/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|SAMPOERNA KAYOE|Area Head Technical Support IT - Maluku|---|Maluku Utara|Responsibility : Installing and configuring computer hardware, software, systems, networks, printers, and scanners Installing and configuring computer...|Jumat, 23 Desember 2022|https://www.jobstreet.co.id/id/job/area-head-technical-support-it-maluku-4155589?token=0~4dbe4bb2-9e12-480a-b3b0-99c83fae39ba&sectionRank=1&jobId=jobstreet-id-job-4155589|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
