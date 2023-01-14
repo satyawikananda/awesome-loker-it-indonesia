@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Papua barat
 
-  ### Diperbarui pada tanggal Jumat, 13 Januari 2023
+  ### Diperbarui pada tanggal Sabtu, 14 Januari 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/ffbcd8309fe4010672e6779bce48c2652d16094e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Binayasa Karya Pratama|TEKNISI KOMPUTER|Rp. 3.000.000-Rp. 4.200.000|Bengkulu|Tanggung Jawab Pekerjaan: Melakukan pemantauan terhadap perangkat serta maintenance yang bersifat preventif seperti update patch Operating System dan...|Jumat, 23 Desember 2022|https://www.jobstreet.co.id/id/job/teknisi-komputer-4154664?token=0~55f439e2-0d9a-4ca8-8f76-ede0ee7afd5f&sectionRank=1&jobId=jobstreet-id-job-4154664|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/7683c13df98531e06c6746a4aaa4a41636e7bb3a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Binayasa Karya Pratama|TEKNISI KOMPUTER|Rp. 3.000.000-Rp. 4.200.000|Bengkulu|Tanggung Jawab Pekerjaan: Melakukan pemantauan terhadap perangkat serta maintenance yang bersifat preventif seperti update patch Operating System dan...|Jumat, 23 Desember 2022|https://www.jobstreet.co.id/id/job/teknisi-komputer-4154664?token=0~718ce81a-fd3a-4d79-ac38-9d1751584fc4&sectionRank=1&jobId=jobstreet-id-job-4154664|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
