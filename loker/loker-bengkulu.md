@@ -1,14 +1,13 @@
 
   # Lowongan kerja di Bengkulu
 
-  ### Diperbarui pada tanggal Senin, 23 Januari 2023
+  ### Diperbarui pada tanggal Selasa, 24 Januari 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Bengkulu
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/ffbcd8309fe4010672e6779bce48c2652d16094e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Binayasa Karya Pratama|TEKNISI KOMPUTER|Rp. 3.000.000-Rp. 4.200.000|Bengkulu|Tanggung Jawab Pekerjaan: Melakukan pemantauan terhadap perangkat serta maintenance yang bersifat preventif seperti update patch Operating System dan...|Jumat, 23 Desember 2022|https://www.jobstreet.co.id/id/job/teknisi-komputer-4154664?token=0~2765f0b4-75a2-4d07-a3b8-4d3e4fa4498a&sectionRank=1&jobId=jobstreet-id-job-4154664|
-
+  
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
   
