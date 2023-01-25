@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Sulawesi tenggara
 
-  ### Diperbarui pada tanggal Selasa, 24 Januari 2023
+  ### Diperbarui pada tanggal Rabu, 25 Januari 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi tenggara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/b7f7cd1fe24cb04b86fe1555d5d18f486cc0892d/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Datang Dssp Power Indonesia|IT Section Head|---|Sulawesi Tenggara|Job Description : Observe all operation activity IT devices on IPP Kendari-3 to operate efficient and smooth. Monitoring network service devices &amp;...|Jumat, 13 Januari 2023|https://www.jobstreet.co.id/id/job/it-section-head-4181429?token=0~154d0f7a-5696-4fcb-a71b-11021e92b97c&sectionRank=1&jobId=jobstreet-id-job-4181429|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/b7f7cd1fe24cb04b86fe1555d5d18f486cc0892d/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Datang Dssp Power Indonesia|IT Section Head|---|Sulawesi Tenggara|Job Description : Observe all operation activity IT devices on IPP Kendari-3 to operate efficient and smooth. Monitoring network service devices &amp;...|Jumat, 13 Januari 2023|https://www.jobstreet.co.id/id/job/it-section-head-4181429?token=0~688512dc-970a-4fd0-a56a-5d5f5c9680e0&sectionRank=1&jobId=jobstreet-id-job-4181429|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
