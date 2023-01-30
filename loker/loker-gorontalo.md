@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Gorontalo
 
-  ### Diperbarui pada tanggal Minggu, 29 Januari 2023
+  ### Diperbarui pada tanggal Senin, 30 Januari 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Gorontalo
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/5fd3417af2f9488964ef8f92c36fc78d54dd3999/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT PERMODALAN NASIONAL MADANI|Staf IT - Cabang Manado|Rp. 2.900.000-Rp. 3.500.000|Sulawesi Utara|Melaksanakan operasional dan infrastruktur Teknologi Informasi agar berjalan atau berfungsi dengan baik Mensupport kualitas layanan Teknologi...|Rabu, 18 Januari 2023|https://www.jobstreet.co.id/id/job/staf-it-cabang-manado-4188315?token=0~a25ee4b1-598e-4633-b035-aee760ef7c0f&sectionRank=1&jobId=jobstreet-id-job-4188315|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/5fd3417af2f9488964ef8f92c36fc78d54dd3999/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT PERMODALAN NASIONAL MADANI|Staf IT - Cabang Manado|Rp. 2.900.000-Rp. 3.500.000|Sulawesi Utara|Melaksanakan operasional dan infrastruktur Teknologi Informasi agar berjalan atau berfungsi dengan baik Mensupport kualitas layanan Teknologi...|Rabu, 18 Januari 2023|https://www.jobstreet.co.id/id/job/staf-it-cabang-manado-4188315?token=0~0ba52ab5-d77a-40fe-8f9f-3c28765e4450&sectionRank=1&jobId=jobstreet-id-job-4188315|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
