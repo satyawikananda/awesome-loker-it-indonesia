@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Sulawesi barat
 
-  ### Diperbarui pada tanggal Rabu, 01 Februari 2023
+  ### Diperbarui pada tanggal Kamis, 02 Februari 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/7683c13df98531e06c6746a4aaa4a41636e7bb3a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Binayasa Karya Pratama|TEKNISI KOMPUTER|Rp. 3.000.000-Rp. 4.200.000|Jayapura|Tanggung Jawab Pekerjaan: Melakukan pemantauan terhadap perangkat serta maintenance yang bersifat preventif seperti update patch Operating System dan...|Rabu, 25 Januari 2023|https://www.jobstreet.co.id/id/job/teknisi-komputer-4196638?token=0~59033cf4-7656-455d-99b2-144ae11f914e&sectionRank=1&jobId=jobstreet-id-job-4196638|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/ffbcd8309fe4010672e6779bce48c2652d16094e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Binayasa Karya Pratama|TEKNISI KOMPUTER|Rp. 3.000.000-Rp. 4.200.000|Jayapura|Tanggung Jawab Pekerjaan: Melakukan pemantauan terhadap perangkat serta maintenance yang bersifat preventif seperti update patch Operating System dan...|Rabu, 25 Januari 2023|https://www.jobstreet.co.id/id/job/teknisi-komputer-4196638?token=0~0efcfbb9-bfd2-49cd-9b97-dc3173b05a11&sectionRank=1&jobId=jobstreet-id-job-4196638|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
