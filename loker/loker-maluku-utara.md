@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku utara
 
-  ### Diperbarui pada tanggal Minggu, 05 Februari 2023
+  ### Diperbarui pada tanggal Senin, 06 Februari 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|PT Halmahera Persada Lygend|IT Infrastructure & Networking Staff (Site Pulau Obi, Maluku Utara)|---|Halmahera|Job Description : Provide technical support to the development of the infrastructure systems and services Define, order, and monitor installation and...|Kamis, 12 Januari 2023|https://www.jobstreet.co.id/id/job/it-infrastructure-networking-staff-site-pulau-obi-maluku-utara-4179528?token=0~5a68342c-e8f5-471b-9b45-c62af8869594&sectionRank=1&jobId=jobstreet-id-job-4179528|
+  |![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|PT Halmahera Persada Lygend|IT Infrastructure & Networking Staff (Site Pulau Obi, Maluku Utara)|---|Halmahera|Job Description : Provide technical support to the development of the infrastructure systems and services Define, order, and monitor installation and...|Kamis, 12 Januari 2023|https://www.jobstreet.co.id/id/job/it-infrastructure-networking-staff-site-pulau-obi-maluku-utara-4179528?token=0~e0dd6fe8-0fb6-4410-b02d-f9ad36e2825a&sectionRank=1&jobId=jobstreet-id-job-4179528|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
