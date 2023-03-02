@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Papua barat
 
-  ### Diperbarui pada tanggal Rabu, 01 Maret 2023
+  ### Diperbarui pada tanggal Kamis, 02 Maret 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/fdff135c9535554846950bef81008a79431b7eb7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Elang Strategi Adidaya (Tangerang)|Engineer On Site (EOS)/Public Relation|Rp. 3.500.000-Rp. 4.000.000|Kota Banda Aceh|Deskripsi :- Proactive dan Komunikatif- Melakukan aktivitas implementasi dan pengelolaan proyek untuk memberikan hasil yang optimal bagi customer dan...|Jumat, 03 Februari 2023|https://www.jobstreet.co.id/id/job/engineer-on-site-eos-public-relation-4209450?token=0~4dde1f4c-9617-47af-bb05-e92c4b8463bd&sectionRank=1&jobId=jobstreet-id-job-4209450|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/b0fb60f80b29d5dddd473e2b0c3a9131dc396240/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Elang Strategi Adidaya (Tangerang)|Engineer On Site (EOS)/Public Relation|Rp. 3.500.000-Rp. 4.000.000|Kota Banda Aceh|Deskripsi :- Proactive dan Komunikatif- Melakukan aktivitas implementasi dan pengelolaan proyek untuk memberikan hasil yang optimal bagi customer dan...|Jumat, 03 Februari 2023|https://www.jobstreet.co.id/id/job/engineer-on-site-eos-public-relation-4209450?token=0~0457f906-917a-4279-9651-d9a01de009fb&sectionRank=1&jobId=jobstreet-id-job-4209450|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
