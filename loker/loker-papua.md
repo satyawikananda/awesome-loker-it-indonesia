@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Papua
 
-  ### Diperbarui pada tanggal Minggu, 12 Maret 2023
+  ### Diperbarui pada tanggal Senin, 13 Maret 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/bb0f2c313297f2db3d497466b95d7da85644edc0/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Karya Solusi Prima Sejahtera|EOS ( JAYAPURA )|---|Papua|Pendidikan minimal D3 Telekomunikasi/Teknik Komputer Jaringan/Teknik Informatika dan sejenisnya; Memiliki pengalaman sebagai teknisi/engineer di...|Rabu, 08 Maret 2023|https://www.jobstreet.co.id/id/job/eos-jayapura-4253565?token=0~5ce3b291-d69a-4684-ba04-c4a680e640e0&sectionRank=1&jobId=jobstreet-id-job-4253565|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/bb0f2c313297f2db3d497466b95d7da85644edc0/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Karya Solusi Prima Sejahtera|EOS ( JAYAPURA )|---|Papua|Pendidikan minimal D3 Telekomunikasi/Teknik Komputer Jaringan/Teknik Informatika dan sejenisnya; Memiliki pengalaman sebagai teknisi/engineer di...|Rabu, 08 Maret 2023|https://www.jobstreet.co.id/id/job/eos-jayapura-4253565?token=0~6e486f55-832b-438a-a322-02510ea3fed7&sectionRank=1&jobId=jobstreet-id-job-4253565|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
