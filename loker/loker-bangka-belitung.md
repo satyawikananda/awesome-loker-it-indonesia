@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Bangka belitung
 
-  ### Diperbarui pada tanggal Sabtu, 18 Maret 2023
+  ### Diperbarui pada tanggal Minggu, 19 Maret 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Bangka belitung
 
