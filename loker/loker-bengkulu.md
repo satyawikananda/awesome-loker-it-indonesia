@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Bengkulu
 
-  ### Diperbarui pada tanggal Selasa, 21 Maret 2023
+  ### Diperbarui pada tanggal Rabu, 22 Maret 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Bengkulu
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/189bf52fde82636e38ad72262805fd31d41717ee/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Majoo Teknologi Indonesia|IT Field Staff (Bengkulu)|---|Bengkulu|Kualifikasi Minimal: D3/S1 Teknologi Informasi atau Sistem Informasi Pengalaman 1 tahun bekerja sebagai teknisi lapangan di bidang teknologi informasi...|Selasa, 21 Februari 2023|https://www.jobstreet.co.id/id/job/it-field-staff-bengkulu-4233507?token=0~ede4734b-f746-4c8d-a358-8a87b214ec06&sectionRank=1&jobId=jobstreet-id-job-4233507|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/189bf52fde82636e38ad72262805fd31d41717ee/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Majoo Teknologi Indonesia|IT Field Staff (Bengkulu)|---|Bengkulu|Kualifikasi Minimal: D3/S1 Teknologi Informasi atau Sistem Informasi Pengalaman 1 tahun bekerja sebagai teknisi lapangan di bidang teknologi informasi...|Selasa, 21 Februari 2023|https://www.jobstreet.co.id/id/job/it-field-staff-bengkulu-4233507?token=0~351cea5f-6550-4dc2-9b2f-e09408f0d361&sectionRank=1&jobId=jobstreet-id-job-4233507|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)

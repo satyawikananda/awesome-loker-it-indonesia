@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Kalimantan utara
 
-  ### Diperbarui pada tanggal Selasa, 21 Maret 2023
+  ### Diperbarui pada tanggal Rabu, 22 Maret 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/eeb66a83615e77e2f0658052312ccd3a7381bee7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Central Cipta Murdaya|IT Staff (Mining-Kalimantan Utara)|---|Kalimantan Utara|Requirement : Candidate must posses at least bachelor’s degree in Computer Science / Information Technology or equivalent with minimum GPA 3.00 of...|Senin, 20 Maret 2023|https://www.jobstreet.co.id/id/job/it-staff-mining-kalimantan-utara-4267896?token=0~0736fb7c-5787-4011-bda8-ddcd89fca033&sectionRank=1&jobId=jobstreet-id-job-4267896|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/eeb66a83615e77e2f0658052312ccd3a7381bee7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Central Cipta Murdaya|IT Staff (Mining-Kalimantan Utara)|---|Kalimantan Utara|Requirement : Candidate must posses at least bachelor’s degree in Computer Science / Information Technology or equivalent with minimum GPA 3.00 of...|Senin, 20 Maret 2023|https://www.jobstreet.co.id/id/job/it-staff-mining-kalimantan-utara-4267896?token=0~393881c7-eddb-41a4-9e23-312a41109da1&sectionRank=1&jobId=jobstreet-id-job-4267896|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
