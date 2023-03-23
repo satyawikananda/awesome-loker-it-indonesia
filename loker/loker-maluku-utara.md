@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku utara
 
-  ### Diperbarui pada tanggal Rabu, 22 Maret 2023
+  ### Diperbarui pada tanggal Kamis, 23 Maret 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|PT Halmahera Persada Lygend|IT Infrastructure & Networking Staff|---|Halmahera|Job Description : Provide technical support to the development of the infrastructure systems and services Define, order, and monitor installation and...|Selasa, 28 Februari 2023|https://www.jobstreet.co.id/id/job/it-infrastructure-networking-staff-4242233?token=0~60c58260-3385-4de3-8dab-74b41bd1ac44&sectionRank=1&jobId=jobstreet-id-job-4242233|
+  |![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|PT Halmahera Persada Lygend|IT Infrastructure & Networking Staff|---|Halmahera|Job Description : Provide technical support to the development of the infrastructure systems and services Define, order, and monitor installation and...|Selasa, 28 Februari 2023|https://www.jobstreet.co.id/id/job/it-infrastructure-networking-staff-4242233?token=0~cfa6ec61-dbb7-4757-a076-51fa2d17f256&sectionRank=1&jobId=jobstreet-id-job-4242233|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
