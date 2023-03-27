@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Kalimantan utara
 
-  ### Diperbarui pada tanggal Minggu, 26 Maret 2023
+  ### Diperbarui pada tanggal Senin, 27 Maret 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/758f6105bdfb7bbf3ebe05b4427cb70fd98ff0d0/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Pesona Khatulistiwa Nusantara|IT Tecnician Supervisor|---|Bulungan|Usia Maksimal. 35 tahun Pendidikan S1 (Teknik Informatika, Ilmu Komputer, Sistem Informasi) Pengalaman Minimal 2 tahun diposisi yang sama Memahami dan...|Sabtu, 25 Maret 2023|https://www.jobstreet.co.id/id/job/it-tecnician-supervisor-4274315?token=0~fc694259-7bb1-442d-856c-d3cde10ccb57&sectionRank=1&jobId=jobstreet-id-job-4274315|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/eeb66a83615e77e2f0658052312ccd3a7381bee7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Central Cipta Murdaya|IT Staff (Mining-Kalimantan Utara)|---|Kalimantan Utara|Requirement : Candidate must posses at least bachelor’s degree in Computer Science / Information Technology or equivalent with minimum GPA 3.00 of...|Senin, 20 Maret 2023|https://www.jobstreet.co.id/id/job/it-staff-mining-kalimantan-utara-4267896?token=0~fc694259-7bb1-442d-856c-d3cde10ccb57&sectionRank=2&jobId=jobstreet-id-job-4267896|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/758f6105bdfb7bbf3ebe05b4427cb70fd98ff0d0/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Pesona Khatulistiwa Nusantara|IT Tecnician Supervisor|---|Bulungan|Usia Maksimal. 35 tahun Pendidikan S1 (Teknik Informatika, Ilmu Komputer, Sistem Informasi) Pengalaman Minimal 2 tahun diposisi yang sama Memahami dan...|Sabtu, 25 Maret 2023|https://www.jobstreet.co.id/id/job/it-tecnician-supervisor-4274315?token=0~84299dd4-1d8a-4d22-b29f-0ddd3d00083e&sectionRank=1&jobId=jobstreet-id-job-4274315|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/eeb66a83615e77e2f0658052312ccd3a7381bee7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Central Cipta Murdaya|IT Staff (Mining-Kalimantan Utara)|---|Kalimantan Utara|Requirement : Candidate must posses at least bachelor’s degree in Computer Science / Information Technology or equivalent with minimum GPA 3.00 of...|Senin, 20 Maret 2023|https://www.jobstreet.co.id/id/job/it-staff-mining-kalimantan-utara-4267896?token=0~84299dd4-1d8a-4d22-b29f-0ddd3d00083e&sectionRank=2&jobId=jobstreet-id-job-4267896|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
