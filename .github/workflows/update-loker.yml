@@ -21,9 +21,9 @@ jobs:
           node-version: ${{ matrix.node_version }}
           cache: "npm"
       - name: Install dependencies
-        run: npm i -g pnpm && pnpm install --no-frozen-lockfile
+        run: npm i -g yarn && yarn install
       - name: Start update loker data
-        run: pnpm start
+        run: yarn start
       - name: Commit and push if it changed
         run: |-
           git config user.name "satyawikananda"
