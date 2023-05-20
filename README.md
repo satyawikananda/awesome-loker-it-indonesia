@@ -99,10 +99,8 @@ git clone https://github.com/satyawikananda/awesome-loker-it-indonesia.git
 
 2. Unduh `dependencies`
 
-Di kasus saya, saya menggunakan `pnpm` untuk `package manager`, Anda bisa menyesuaikan dengan `package manager` kesukaan Anda.
-
 ```
-pnpm install
+yarn install
 ```
 
 > Untuk mengeksekusi program saya, Anda bisa menggunakan perintah `ts-node ./src/index.ts` di dalam terminal.
