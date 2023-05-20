@@ -1,14 +1,15 @@
 
   # Lowongan kerja di Sumatera barat
 
-  ### Diperbarui pada tanggal Selasa, 28 Maret 2023
+  ### Diperbarui pada tanggal Sabtu, 20 Mei 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Sumatera barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/c8a6bb168a90c7b34315543d20233555c173e7ef/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|TB Bakti Jaya|Admin IT|---|Padang|Pengalaman di posisi yang sama dari 2 tahun; Pengetahuan tentang berbagai sistem pencarian, dan mampu untuk menggunakannya; Mampu berkomunikasi dengan...|Kamis, 23 Maret 2023|https://www.jobstreet.co.id/id/job/admin-it-1035028157?token=0~b7d89489-96a3-4a08-99b2-a0c1dc503588&sectionRank=1&jobId=jobstreet-id-job-1035028157|
-|![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|Rumah Sakit Tamar Medical Centre (RSTMC)|Programmer|---|Sumatera Barat|Kualifikasi : Pendidikan minimal S1 Sistem Informasi / Teknik informatika Pengalaman minimal 1 tahun di bidang yang relevan (Programming), lebih...|Jumat, 17 Maret 2023|https://www.jobstreet.co.id/id/job/programmer-4266828?token=0~b7d89489-96a3-4a08-99b2-a0c1dc503588&sectionRank=2&jobId=jobstreet-id-job-4266828|
+  |![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|Remoora|NOC JUNIOR|---|Padang|Mampu memahami konsep TCP IPMemahami cara kerja internetMampu mengkonfigurasi router mikrotik dan ciscoMemahami konsep layer 2 switchingMampu...|Jumat, 19 Mei 2023|https://www.jobstreet.co.id/id/job/noc-junior-1035809477?token=0~9c5558b4-9632-4060-955b-50fa2f82d5aa&sectionRank=1&jobId=jobstreet-id-job-1035809477|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/fa12dd378bd230f83b9ccd636b4121ebbb347455/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT XSIS MITRA UTAMA - Recruitment Center|Fresh Graduate Hiring IT .Net/Java Bootcamp|---|Jakarta Raya|What we offer you: Integrated Training Full Stack specialist in .Net/Java Soft Skills Training. Real &amp; varied experiences (IT Project...|Kamis, 11 Mei 2023|https://www.jobstreet.co.id/id/job/fresh-graduate-hiring-it-.net-java-bootcamp-4329799?token=0~9c5558b4-9632-4060-955b-50fa2f82d5aa&sectionRank=2&jobId=jobstreet-id-job-4329799|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/c768f0670f8f8212da7de609b6af9d0b2e5134cc/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Seluruh Indonesia Online|CHIEF TECHNOLOGY OFFICER CTO (MEDAN)|Rp. 18.000.000-Rp. 30.200.000|Aceh|Memiliki pengalaman leadership sebagai Manager sebelumnya.Back End Engineer1. Memiliki pengalaman dalam membangun RESTful APIs2. Menguasai bahasa...|Selasa, 02 Mei 2023|https://www.jobstreet.co.id/id/job/chief-technology-officer-cto-medan-4315001?token=0~9c5558b4-9632-4060-955b-50fa2f82d5aa&sectionRank=3&jobId=jobstreet-id-job-4315001|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)

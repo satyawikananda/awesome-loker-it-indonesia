@@ -2,29 +2,33 @@ name: Awesome loker CI
 
 on:
   push:
-    branches:
-      - main
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
   workflow_dispatch:
   schedule:
     - cron: "0 2 * * *"
 
 jobs:
-  start_build:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Check out this repo
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-    - name: Install dependencies
-      run : npm i -g pnpm && pnpm i
-    - name: Start update loker
-      run : pnpm start
-    - name: Commit and push if it changed
-      run: |-
-        git config user.name "satyawikananda"
-        git config user.email "${{ secrets.EMAIL }}"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "chore(loker): Update loker" || exit 0
-        git push
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node_version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node_version }}
+          cache: "npm"
+      - name: Install dependencies
+        run: npm i -g yarn && yarn install
+      - name: Start update loker data
+        run: yarn start
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "satyawikananda"
+          git config user.email "${{ secrets.EMAIL }}"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "chore(loker): Update loker" || exit 0
+          git push
