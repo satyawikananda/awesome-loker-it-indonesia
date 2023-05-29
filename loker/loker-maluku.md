@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Minggu, 28 Mei 2023
+  ### Diperbarui pada tanggal Senin, 29 Mei 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/ccc9351bdb2230a6a680c29475ae1d118c709938/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Nuansa Cerah Informasi|Implementor|---|Ambon|Deskripsi Pekerjaan· Pendidikan D3 / S1 Sistem Informasi/ Manajemen Informatika/ Teknik Komputer/ Teknik Informatika· Komunikatif, dapat bekerja...|Jumat, 19 Mei 2023|https://www.jobstreet.co.id/id/job/implementor-4318203?token=0~209c6dbc-9789-48b0-b485-55baac044753&sectionRank=1&jobId=jobstreet-id-job-4318203|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0c915a4e3a2479f8ac25eef66f61c7d8703d6c35/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Nuansa Cerah Informasi|Implementor|---|Ambon|Deskripsi Pekerjaan· Pendidikan D3 / S1 Sistem Informasi/ Manajemen Informatika/ Teknik Komputer/ Teknik Informatika· Komunikatif, dapat bekerja...|Jumat, 19 Mei 2023|https://www.jobstreet.co.id/id/job/implementor-4318203?token=0~e0ffed48-5f9d-4c44-be43-713ed3b88368&sectionRank=1&jobId=jobstreet-id-job-4318203|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
