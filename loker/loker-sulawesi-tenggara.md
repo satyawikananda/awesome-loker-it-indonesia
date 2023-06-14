@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Sulawesi tenggara
 
-  ### Diperbarui pada tanggal Selasa, 13 Juni 2023
+  ### Diperbarui pada tanggal Rabu, 14 Juni 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi tenggara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/cc2f404fdf9a9df2e68625c1c7fc72ec0fa94629/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT INDONESIA POMALAA INDUSTRY PARK|IT Supervisor Mandarin Speaker (SITE)|---|Sulawesi Tenggara|Bertanggung jawab untuk berhubungan dengan supplier internet. Bertanggung jawab atas pemecahan masalah di tempat untuk jaringan internet perusahaan,...|Selasa, 06 Juni 2023|https://www.jobstreet.co.id/id/job/it-supervisor-mandarin-speaker-site-4341310?token=0~f104e126-1ba3-4778-997b-63a8b4be25e0&sectionRank=1&jobId=jobstreet-id-job-4341310|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/b7f7cd1fe24cb04b86fe1555d5d18f486cc0892d/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Datang Dssp Power Indonesia|IT Section Head|---|Sulawesi Tenggara|Job Description : Observe all operation activity IT devices on IPP Kendari-3 to operate efficient and smooth. Monitoring network service devices &amp;...|Selasa, 16 Mei 2023|https://www.jobstreet.co.id/id/job/it-section-head-4335342?token=0~f104e126-1ba3-4778-997b-63a8b4be25e0&sectionRank=2&jobId=jobstreet-id-job-4335342|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/1d42ff302214789063faa6e652fa217fbc89e955/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT INDONESIA POMALAA INDUSTRY PARK|IT Supervisor Mandarin Speaker (SITE)|---|Sulawesi Tenggara|Bertanggung jawab untuk berhubungan dengan supplier internet. Bertanggung jawab atas pemecahan masalah di tempat untuk jaringan internet perusahaan,...|Selasa, 06 Juni 2023|https://www.jobstreet.co.id/id/job/it-supervisor-mandarin-speaker-site-4341310?token=0~aa08395d-4677-498e-9986-549cdf8486ee&sectionRank=1&jobId=jobstreet-id-job-4341310|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/2a67655de93f387076553000d5ec5a91cba901db/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Datang Dssp Power Indonesia|IT Section Head|---|Sulawesi Tenggara|Job Description : Observe all operation activity IT devices on IPP Kendari-3 to operate efficient and smooth. Monitoring network service devices &amp;...|Selasa, 16 Mei 2023|https://www.jobstreet.co.id/id/job/it-section-head-4335342?token=0~aa08395d-4677-498e-9986-549cdf8486ee&sectionRank=2&jobId=jobstreet-id-job-4335342|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
