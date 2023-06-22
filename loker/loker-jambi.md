@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Jambi
 
-  ### Diperbarui pada tanggal Rabu, 21 Juni 2023
+  ### Diperbarui pada tanggal Kamis, 22 Juni 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Jambi
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/8b564d893394269223b3fa8f4d4d00e062ab3e69/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Yayasan Pancaran Maitri|Teknisi SIPK/ Teknisi Komputer [PENEMPATAN DI KOTA BATAM]|---|Jakarta Raya|Mengerti dasar - dasar Programming Kemauan belajar yang tinggi  Kreatif, bertanggung jawab dan bekerja keras Bisa bekerja sendiri maupun kelompok...|Selasa, 06 Juni 2023|https://www.jobstreet.co.id/id/job/teknisi-sipk-teknisi-komputer-%5Bpenempatan-di-kota-batam%5D-4360563?token=0~08298de4-30ff-41e0-bb95-ba8fef01d493&sectionRank=1&jobId=jobstreet-id-job-4360563|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/298b304f0f9a751aa4b413ba5a08e4fe41acc446/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Yayasan Pancaran Maitri|Guru TIK/Multimedia + Prakarya (PENEMPATAN KOTA BATAM)|Rp. 4.000.000-Rp. 4.200.000|Jakarta Raya|Kualifikasi Umum-Lulusan S1 Pendidikan Ilmu Komputer/Teknik Informatika/ Sistem Informasi/ DKV/ Seni Fotografi-Diutamakan memiliki pengalaman...|Jumat, 02 Juni 2023|https://www.jobstreet.co.id/id/job/guru-tik-multimedia-prakarya-penempatan-kota-batam-4357261?token=0~08298de4-30ff-41e0-bb95-ba8fef01d493&sectionRank=2&jobId=jobstreet-id-job-4357261|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/8b564d893394269223b3fa8f4d4d00e062ab3e69/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Yayasan Pancaran Maitri|Teknisi SIPK/ Teknisi Komputer [PENEMPATAN DI KOTA BATAM]|---|Jakarta Raya|Mengerti dasar - dasar Programming Kemauan belajar yang tinggi  Kreatif, bertanggung jawab dan bekerja keras Bisa bekerja sendiri maupun kelompok...|Selasa, 06 Juni 2023|https://www.jobstreet.co.id/id/job/teknisi-sipk-teknisi-komputer-%5Bpenempatan-di-kota-batam%5D-4360563?token=0~fbbaa7be-14a9-46f6-9d06-2d2d6c16e3e2&sectionRank=1&jobId=jobstreet-id-job-4360563|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/8b564d893394269223b3fa8f4d4d00e062ab3e69/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Yayasan Pancaran Maitri|Guru TIK/Multimedia + Prakarya (PENEMPATAN KOTA BATAM)|Rp. 4.000.000-Rp. 4.200.000|Jakarta Raya|Kualifikasi Umum-Lulusan S1 Pendidikan Ilmu Komputer/Teknik Informatika/ Sistem Informasi/ DKV/ Seni Fotografi-Diutamakan memiliki pengalaman...|Jumat, 02 Juni 2023|https://www.jobstreet.co.id/id/job/guru-tik-multimedia-prakarya-penempatan-kota-batam-4357261?token=0~fbbaa7be-14a9-46f6-9d06-2d2d6c16e3e2&sectionRank=2&jobId=jobstreet-id-job-4357261|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
