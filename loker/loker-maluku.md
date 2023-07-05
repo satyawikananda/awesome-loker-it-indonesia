@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Selasa, 04 Juli 2023
+  ### Diperbarui pada tanggal Rabu, 05 Juli 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/98caf65382bb7cc8df3b083df6d8ba972aa848c3/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|MULTI MODERN GROUP|IT Manager (BANKING) Penempatan Ambon|---|Ambon|Rincian Pekerjaan: Memastikan dan bertanggung jawab terhadap instalasi, perawatan dan penyediaan dukungan harian baik untuk hardware &amp; software,...|Selasa, 27 Juni 2023|https://www.jobstreet.co.id/id/job/it-manager-banking-penempatan-ambon-4386286?token=0~f677dceb-e979-4970-a3f2-5aa10963d608&sectionRank=1&jobId=jobstreet-id-job-4386286|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/98caf65382bb7cc8df3b083df6d8ba972aa848c3/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|MULTI MODERN GROUP|IT Manager (BANKING) Penempatan Ambon|---|Ambon|Rincian Pekerjaan: Memastikan dan bertanggung jawab terhadap instalasi, perawatan dan penyediaan dukungan harian baik untuk hardware &amp; software,...|Selasa, 27 Juni 2023|https://www.jobstreet.co.id/id/job/it-manager-banking-penempatan-ambon-4386286?token=0~f2f2d394-e2cf-4d70-a5c5-1378413d66ff&sectionRank=1&jobId=jobstreet-id-job-4386286|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)

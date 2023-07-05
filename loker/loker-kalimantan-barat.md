@@ -1,14 +1,15 @@
 
   # Lowongan kerja di Kalimantan barat
 
-  ### Diperbarui pada tanggal Selasa, 04 Juli 2023
+  ### Diperbarui pada tanggal Rabu, 05 Juli 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/4cc5b4edd8a09fb41741a122f57ee79a81b9a89e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Lintas Media Danawa|TEKNISI JARINGAN PONTIANAK|---|Pontianak|Kualifikasi: Usia maksimum saat melamar adalah 28 tahun Minimal Pendidikan SMK Jurusan Teknik Komputer, Teknik Telekomunikasi dan sejenisnya Minimal...|Jumat, 30 Juni 2023|https://www.jobstreet.co.id/id/job/teknisi-jaringan-pontianak-4389078?token=0~0d867d79-e91c-4f24-9a3a-faf381c42ba8&sectionRank=1&jobId=jobstreet-id-job-4389078|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/94733078f2e236e07a983fdb57214f0a900efb2b/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Cargill Indonesia|CI Lead|---|Ketapang|Partner with super users, stakeholders and data technology teams to drive process stabilization and optimization initiatives and support technology to...|Selasa, 27 Juni 2023|https://www.jobstreet.co.id/id/job/ci-lead-1036281189?token=0~0d867d79-e91c-4f24-9a3a-faf381c42ba8&sectionRank=2&jobId=jobstreet-id-job-1036281189|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/4cc5b4edd8a09fb41741a122f57ee79a81b9a89e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Lintas Media Danawa|TEKNISI JARINGAN PONTIANAK|---|Pontianak|Kualifikasi: Usia maksimum saat melamar adalah 28 tahun Minimal Pendidikan SMK Jurusan Teknik Komputer, Teknik Telekomunikasi dan sejenisnya Minimal...|Jumat, 30 Juni 2023|https://www.jobstreet.co.id/id/job/teknisi-jaringan-pontianak-4389078?token=0~cf30ae50-cb2a-42c0-a9c7-d122e5c5f54a&sectionRank=1&jobId=jobstreet-id-job-4389078|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/5683be4817b674e99653d054bb367590069452e8/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Wilmar International Plantation Group|ASST LAB SUPERVISOR PALM OIL MILL (PABRIK KELAPA SAWIT)|---|Pontianak|Identify &amp; developed application base on predefined business requirements. Designs, custom develops, codes, and test complex programs. Responsible...|Senin, 03 Juli 2023|https://www.jobstreet.co.id/id/job/asst-lab-supervisor-palm-oil-mill-pabrik-kelapa-sawit-1036321865?token=0~cf30ae50-cb2a-42c0-a9c7-d122e5c5f54a&sectionRank=2&jobId=jobstreet-id-job-1036321865|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/94733078f2e236e07a983fdb57214f0a900efb2b/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Cargill Indonesia|CI Lead|---|Ketapang|Partner with super users, stakeholders and data technology teams to drive process stabilization and optimization initiatives and support technology to...|Selasa, 27 Juni 2023|https://www.jobstreet.co.id/id/job/ci-lead-1036281189?token=0~cf30ae50-cb2a-42c0-a9c7-d122e5c5f54a&sectionRank=3&jobId=jobstreet-id-job-1036281189|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
