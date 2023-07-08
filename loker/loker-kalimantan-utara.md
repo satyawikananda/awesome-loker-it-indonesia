@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Kalimantan utara
 
-  ### Diperbarui pada tanggal Jumat, 07 Juli 2023
+  ### Diperbarui pada tanggal Sabtu, 08 Juli 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan utara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/ae9f24f89d77895125c0286866e6721889bffaea/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Adaro Minerals|IT Officer|---|Kalimantan Utara|Job Responsibilities:Responsible for coordinating, planning, and leading IT-related activities during the project, including building IT system,...|Senin, 03 Juli 2023|https://www.jobstreet.co.id/id/job/it-officer-4391508?token=0~81f839af-3b1f-41f6-ac1b-81222952294d&sectionRank=1&jobId=jobstreet-id-job-4391508|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/ae9f24f89d77895125c0286866e6721889bffaea/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Adaro Minerals|IT Section Head|---|Kalimantan Utara|Job Responsibilities:Responsible for coordinating, planning, and leading IT-related activities during the project, including building IT system,...|Senin, 03 Juli 2023|https://www.jobstreet.co.id/id/job/it-section-head-4391502?token=0~81f839af-3b1f-41f6-ac1b-81222952294d&sectionRank=2&jobId=jobstreet-id-job-4391502|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/ae9f24f89d77895125c0286866e6721889bffaea/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Adaro Minerals|IT Officer|---|Kalimantan Utara|Job Responsibilities:Responsible for coordinating, planning, and leading IT-related activities during the project, including building IT system,...|Senin, 03 Juli 2023|https://www.jobstreet.co.id/id/job/it-officer-4391508?token=0~61287f78-cdfc-44dd-a6c2-61c35d11a5b3&sectionRank=1&jobId=jobstreet-id-job-4391508|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/ae9f24f89d77895125c0286866e6721889bffaea/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Adaro Minerals|IT Section Head|---|Kalimantan Utara|Job Responsibilities:Responsible for coordinating, planning, and leading IT-related activities during the project, including building IT system,...|Senin, 03 Juli 2023|https://www.jobstreet.co.id/id/job/it-section-head-4391502?token=0~61287f78-cdfc-44dd-a6c2-61c35d11a5b3&sectionRank=2&jobId=jobstreet-id-job-4391502|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
