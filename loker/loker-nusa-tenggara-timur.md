@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Nusa tenggara-timur
 
-  ### Diperbarui pada tanggal Rabu, 12 Juli 2023
+  ### Diperbarui pada tanggal Kamis, 13 Juli 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Nusa tenggara-timur
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/43afc6291c73f1c79f8b987f7b7c0b3fd5c09138/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Mega Advans Teknologi|IT Web Developer|---|Nusa Tenggara Timur|IT Web Developer / ProgrammerKualifikasi:1. Usia Maks. 30th2. Pendidikan min D3/S1 Jurusan IT (Wajib) / IPK min. 2,753. Fresh Graduate (welcome)4....|Kamis, 29 Juni 2023|https://www.jobstreet.co.id/id/job/it-web-developer-1036298166?token=0~9de1d5fd-4617-4f52-b865-bae108328a13&sectionRank=1&jobId=jobstreet-id-job-1036298166|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/43afc6291c73f1c79f8b987f7b7c0b3fd5c09138/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Mega Advans Teknologi|IT Web Developer|---|Nusa Tenggara Timur|IT Web Developer / ProgrammerKualifikasi:1. Usia Maks. 30th2. Pendidikan min D3/S1 Jurusan IT (Wajib) / IPK min. 2,753. Fresh Graduate (welcome)4....|Kamis, 29 Juni 2023|https://www.jobstreet.co.id/id/job/it-web-developer-1036298166?token=0~a6ed651d-c398-4e7a-88a3-6677a4d6d069&sectionRank=1&jobId=jobstreet-id-job-1036298166|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
