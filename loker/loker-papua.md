@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Papua
 
-  ### Diperbarui pada tanggal Minggu, 16 Juli 2023
+  ### Diperbarui pada tanggal Senin, 17 Juli 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/cf504cf0fd63cff79d8947c0ec301d1bfb683f57/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Agro Harapan Lestari|IT Assistant - Placement in PAPUA Site (Nabire)|---|Papua|Job Descriptions: Microsoft Windows Server (2003, 2008R2) administration, installation, disaster recovery planning, backups, performance analysis, and...|Rabu, 05 Juli 2023|https://www.jobstreet.co.id/id/job/it-assistant-placement-in-papua-site-nabire-4394615?token=0~19f6c9f4-f876-432e-a6aa-64b8411cee5c&sectionRank=1&jobId=jobstreet-id-job-4394615|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/85a09490ebbe067c30734682b49a363a4a1897be/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Sandvik Indonesia|Automation Technical Advisor|---|Timika|Sandvik Mining and Rock Technology is a leading supplier of equipment, tools, services, support and technical solutions for the mining and...|Selasa, 27 Juni 2023|https://www.jobstreet.co.id/id/job/automation-technical-advisor-1036281893?token=0~19f6c9f4-f876-432e-a6aa-64b8411cee5c&sectionRank=2&jobId=jobstreet-id-job-1036281893|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/7217c8e1f3f589755a6fccbc2aacb17c98a2e02d/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Agro Harapan Lestari|IT Assistant - Placement in PAPUA Site (Nabire)|---|Papua|Job Descriptions: Microsoft Windows Server (2003, 2008R2) administration, installation, disaster recovery planning, backups, performance analysis, and...|Rabu, 05 Juli 2023|https://www.jobstreet.co.id/id/job/it-assistant-placement-in-papua-site-nabire-4394615?token=0~7bfad77d-e105-423d-a2d1-6c4935d122d4&sectionRank=1&jobId=jobstreet-id-job-4394615|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/85a09490ebbe067c30734682b49a363a4a1897be/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Sandvik Indonesia|Automation Technical Advisor|---|Timika|Sandvik Mining and Rock Technology is a leading supplier of equipment, tools, services, support and technical solutions for the mining and...|Selasa, 27 Juni 2023|https://www.jobstreet.co.id/id/job/automation-technical-advisor-1036281893?token=0~7bfad77d-e105-423d-a2d1-6c4935d122d4&sectionRank=2&jobId=jobstreet-id-job-1036281893|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
