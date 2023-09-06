@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Aceh
 
-  ### Diperbarui pada tanggal Selasa, 05 September 2023
+  ### Diperbarui pada tanggal Rabu, 06 September 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Aceh
 
