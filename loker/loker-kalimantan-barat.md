@@ -1,15 +1,15 @@
 
   # Lowongan kerja di Kalimantan barat
 
-  ### Diperbarui pada tanggal Sabtu, 09 September 2023
+  ### Diperbarui pada tanggal Minggu, 10 September 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/f91f62b5a056b296e7b87b13f40847ef30c36db8/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Cahaya Putra Kreasi|IT Manager|Rp. 10.000.000-Rp. 13.000.000|Ketapang|Tugas dan Tanggung Jawab Umum : Melakukan pengembangan dan pemutakhiran teknologi informasi Melakukan fungsi manajerial, pengawasan, controlling dalam...|Selasa, 29 Agustus 2023|https://www.jobstreet.co.id/id/job/it-manager-4451134?token=0~47c041ab-10f2-4625-8866-f860a7420724&sectionRank=1&jobId=jobstreet-id-job-4451134|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/129c3031dd6f58d821e11911c1e7a73f86d773f8/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Dinamika Sejahtera Mandiri|IT Support & MCC Officer|---|Kalimantan Barat|Responsibilities: Recording production data mining Ensure daily production, unit status, and barging reports. Monitor actual production vs. plan from...|Jumat, 25 Agustus 2023|https://www.jobstreet.co.id/id/job/it-support-mcc-officer-4448649?token=0~47c041ab-10f2-4625-8866-f860a7420724&sectionRank=2&jobId=jobstreet-id-job-4448649|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/9ca27ff7887b9404566201150ddec4f1fc21be5f/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Parna Agro Mas|Data Center Officer|Rp. 3.500.000-Rp. 4.900.000|Kalimantan Barat|Persyaratan : Lulusan Sarjana (S1) Jurusan Statistik dengan IPK minimal 3,00 Usia maksimal 28 tahun kemampuan mengoperasikan Microsoft Office...|Selasa, 15 Agustus 2023|https://www.jobstreet.co.id/id/job/data-center-officer-4438468?token=0~47c041ab-10f2-4625-8866-f860a7420724&sectionRank=3&jobId=jobstreet-id-job-4438468|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/f91f62b5a056b296e7b87b13f40847ef30c36db8/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Cahaya Putra Kreasi|IT Manager|Rp. 10.000.000-Rp. 13.000.000|Ketapang|Tugas dan Tanggung Jawab Umum : Melakukan pengembangan dan pemutakhiran teknologi informasi Melakukan fungsi manajerial, pengawasan, controlling dalam...|Selasa, 29 Agustus 2023|https://www.jobstreet.co.id/id/job/it-manager-4451134?token=0~a84ac09d-3b48-4b3f-8adf-8f5923483789&sectionRank=1&jobId=jobstreet-id-job-4451134|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/129c3031dd6f58d821e11911c1e7a73f86d773f8/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Dinamika Sejahtera Mandiri|IT Support & MCC Officer|---|Kalimantan Barat|Responsibilities: Recording production data mining Ensure daily production, unit status, and barging reports. Monitor actual production vs. plan from...|Jumat, 25 Agustus 2023|https://www.jobstreet.co.id/id/job/it-support-mcc-officer-4448649?token=0~a84ac09d-3b48-4b3f-8adf-8f5923483789&sectionRank=2&jobId=jobstreet-id-job-4448649|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/9ca27ff7887b9404566201150ddec4f1fc21be5f/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Parna Agro Mas|Data Center Officer|Rp. 3.500.000-Rp. 4.900.000|Kalimantan Barat|Persyaratan : Lulusan Sarjana (S1) Jurusan Statistik dengan IPK minimal 3,00 Usia maksimal 28 tahun kemampuan mengoperasikan Microsoft Office...|Selasa, 15 Agustus 2023|https://www.jobstreet.co.id/id/job/data-center-officer-4438468?token=0~a84ac09d-3b48-4b3f-8adf-8f5923483789&sectionRank=3&jobId=jobstreet-id-job-4438468|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
