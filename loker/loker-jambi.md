@@ -1,15 +1,15 @@
 
   # Lowongan kerja di Jambi
 
-  ### Diperbarui pada tanggal Jumat, 15 September 2023
+  ### Diperbarui pada tanggal Sabtu, 16 September 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Jambi
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/4da4384406fabd2d801579470d36717aaa68d773/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Inti Harmoni Solusindo|Network Engineer|Rp. 6.000.000-Rp. 9.000.000|Aceh|Job Description :• Monitoring network performance and utilization on Site.• Perform Installation, configuration, and maintenance of network Devices on...|Rabu, 06 September 2023|https://www.jobstreet.co.id/id/job/network-engineer-4461310?token=0~7ae65589-7041-43b6-8b14-256f84ecd24f&sectionRank=1&jobId=jobstreet-id-job-4461310|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/c58ac4ddf63df9bf344f4f5b2f1e3c6e81763ec7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT ASIA SAWIT MAKMUR JAYA|IT Programmer|---|Jambi|IT ProgrammerSyarat &amp; Ketentuan :- Pendidikan Min. S1 Teknik Informatika / Sistem Informasi- Memahami dan Menguasai dasar Bahasa Pemrograman-...|Sabtu, 26 Agustus 2023|https://www.jobstreet.co.id/id/job/it-programmer-4449210?token=0~7ae65589-7041-43b6-8b14-256f84ecd24f&sectionRank=2&jobId=jobstreet-id-job-4449210|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/09afbbb4d42b7dca0e942244e0c5371c799fa925/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Sentosa Jaya Purnama|Data Center Supervisor (Mandarin Speakers)|---|Jambi|Kualifikasi: Minimal Pendidikan D3 jurusan IT/Komputer atau yang setara Pengalaman 1 tahun sebagai supervisor/koordinator/ pengawas project instalasi...|Jumat, 18 Agustus 2023|https://www.jobstreet.co.id/id/job/data-center-supervisor-mandarin-speakers-4441012?token=0~7ae65589-7041-43b6-8b14-256f84ecd24f&sectionRank=3&jobId=jobstreet-id-job-4441012|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/2eaf3b9985ff1a1f3681fce20f0b964b1d80f2a2/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Inti Harmoni Solusindo|Network Engineer|Rp. 6.000.000-Rp. 9.000.000|Aceh|Job Description :• Monitoring network performance and utilization on Site.• Perform Installation, configuration, and maintenance of network Devices on...|Rabu, 06 September 2023|https://www.jobstreet.co.id/id/job/network-engineer-4461310?token=0~2bcd456e-6fbb-486f-b496-826ccbafbf87&sectionRank=1&jobId=jobstreet-id-job-4461310|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/c58ac4ddf63df9bf344f4f5b2f1e3c6e81763ec7/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT ASIA SAWIT MAKMUR JAYA|IT Programmer|---|Jambi|IT ProgrammerSyarat &amp; Ketentuan :- Pendidikan Min. S1 Teknik Informatika / Sistem Informasi- Memahami dan Menguasai dasar Bahasa Pemrograman-...|Sabtu, 26 Agustus 2023|https://www.jobstreet.co.id/id/job/it-programmer-4449210?token=0~2bcd456e-6fbb-486f-b496-826ccbafbf87&sectionRank=2&jobId=jobstreet-id-job-4449210|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/09afbbb4d42b7dca0e942244e0c5371c799fa925/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Sentosa Jaya Purnama|Data Center Supervisor (Mandarin Speakers)|---|Jambi|Kualifikasi: Minimal Pendidikan D3 jurusan IT/Komputer atau yang setara Pengalaman 1 tahun sebagai supervisor/koordinator/ pengawas project instalasi...|Jumat, 18 Agustus 2023|https://www.jobstreet.co.id/id/job/data-center-supervisor-mandarin-speakers-4441012?token=0~2bcd456e-6fbb-486f-b496-826ccbafbf87&sectionRank=3&jobId=jobstreet-id-job-4441012|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
