@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Aceh
 
-  ### Diperbarui pada tanggal Selasa, 19 September 2023
+  ### Diperbarui pada tanggal Rabu, 20 September 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Aceh
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/cedff589ebe9d852a33989a35efb7fc721ea237a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Impact360 Solutions Sdn Bhd|Game Developer ( Mobile HTML5 / Web / Multiplayer / Programmer )|Rp. 4.000.000-Rp. 8.000.000|Aceh|We are hiring remote HTML5 game developers from all parts of Indonesia. If you have real experience building HTML5 games or applications, you're...|Selasa, 12 September 2023|https://www.jobstreet.co.id/id/job/game-developer-mobile-html5-web-multiplayer-programmer-5522263/origin/my?token=0~31623bf8-c083-4b37-900e-aaeec932bc36&sectionRank=1&jobId=jobstreet-my-job-5522263|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/2eaf3b9985ff1a1f3681fce20f0b964b1d80f2a2/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Inti Harmoni Solusindo|Network Engineer|Rp. 6.000.000-Rp. 9.000.000|Aceh|Job Description :• Monitoring network performance and utilization on Site.• Perform Installation, configuration, and maintenance of network Devices on...|Rabu, 06 September 2023|https://www.jobstreet.co.id/id/job/network-engineer-4461310?token=0~31623bf8-c083-4b37-900e-aaeec932bc36&sectionRank=2&jobId=jobstreet-id-job-4461310|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/35b00a50395e5c8ad6bf2130dfd2a19f9f4bbec5/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Impact360 Solutions Sdn Bhd|Game Developer ( Mobile HTML5 / Web / Multiplayer / Programmer )|Rp. 4.000.000-Rp. 8.000.000|Aceh|We are hiring remote HTML5 game developers from all parts of Indonesia. If you have real experience building HTML5 games or applications, you're...|Selasa, 12 September 2023|https://www.jobstreet.co.id/id/job/game-developer-mobile-html5-web-multiplayer-programmer-5522263/origin/my?token=0~172da2e2-5d0b-42b8-a307-ba17f13c7b68&sectionRank=1&jobId=jobstreet-my-job-5522263|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/4da4384406fabd2d801579470d36717aaa68d773/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Inti Harmoni Solusindo|Network Engineer|Rp. 6.000.000-Rp. 9.000.000|Aceh|Job Description :• Monitoring network performance and utilization on Site.• Perform Installation, configuration, and maintenance of network Devices on...|Rabu, 06 September 2023|https://www.jobstreet.co.id/id/job/network-engineer-4461310?token=0~172da2e2-5d0b-42b8-a307-ba17f13c7b68&sectionRank=2&jobId=jobstreet-id-job-4461310|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
