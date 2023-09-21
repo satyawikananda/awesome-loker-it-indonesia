@@ -1,15 +1,15 @@
 
   # Lowongan kerja di Jambi
 
-  ### Diperbarui pada tanggal Rabu, 20 September 2023
+  ### Diperbarui pada tanggal Kamis, 21 September 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Jambi
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/8c9ad8ac1a3555ef79e89c100defac119719c63a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT ASIA SAWIT MAKMUR JAYA|IT Programmer Staff (Basic in Accounting)|---|Jambi|IT Programmer Staff (Basic in Accounting)Job Description :- Provide Working Experience as a Financial Accountant- Familiarity with bookkeeping and...|Selasa, 19 September 2023|https://www.jobstreet.co.id/id/job/it-programmer-staff-basic-in-accounting-4474836?token=0~858713e2-f63b-4c45-989a-cf06eab978c0&sectionRank=1&jobId=jobstreet-id-job-4474836|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/4da4384406fabd2d801579470d36717aaa68d773/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Inti Harmoni Solusindo|Network Engineer|Rp. 6.000.000-Rp. 9.000.000|Aceh|Job Description :• Monitoring network performance and utilization on Site.• Perform Installation, configuration, and maintenance of network Devices on...|Rabu, 06 September 2023|https://www.jobstreet.co.id/id/job/network-engineer-4461310?token=0~858713e2-f63b-4c45-989a-cf06eab978c0&sectionRank=2&jobId=jobstreet-id-job-4461310|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/8c9ad8ac1a3555ef79e89c100defac119719c63a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT ASIA SAWIT MAKMUR JAYA|IT Programmer|---|Jambi|IT ProgrammerSyarat &amp; Ketentuan :- Pendidikan Min. S1 Teknik Informatika / Sistem Informasi- Memahami dan Menguasai dasar Bahasa Pemrograman-...|Sabtu, 26 Agustus 2023|https://www.jobstreet.co.id/id/job/it-programmer-4449210?token=0~858713e2-f63b-4c45-989a-cf06eab978c0&sectionRank=3&jobId=jobstreet-id-job-4449210|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/8c9ad8ac1a3555ef79e89c100defac119719c63a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT ASIA SAWIT MAKMUR JAYA|IT Programmer Staff (Basic in Accounting)|---|Jambi|IT Programmer Staff (Basic in Accounting)Job Description :- Provide Working Experience as a Financial Accountant- Familiarity with bookkeeping and...|Selasa, 19 September 2023|https://www.jobstreet.co.id/id/job/it-programmer-staff-basic-in-accounting-4474836?token=0~c619ba3f-3c3c-4723-ad74-9ce67f807933&sectionRank=1&jobId=jobstreet-id-job-4474836|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/4da4384406fabd2d801579470d36717aaa68d773/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Inti Harmoni Solusindo|Network Engineer|Rp. 6.000.000-Rp. 9.000.000|Aceh|Job Description :• Monitoring network performance and utilization on Site.• Perform Installation, configuration, and maintenance of network Devices on...|Rabu, 06 September 2023|https://www.jobstreet.co.id/id/job/network-engineer-4461310?token=0~c619ba3f-3c3c-4723-ad74-9ce67f807933&sectionRank=2&jobId=jobstreet-id-job-4461310|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/8c9ad8ac1a3555ef79e89c100defac119719c63a/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT ASIA SAWIT MAKMUR JAYA|IT Programmer|---|Jambi|IT ProgrammerSyarat &amp; Ketentuan :- Pendidikan Min. S1 Teknik Informatika / Sistem Informasi- Memahami dan Menguasai dasar Bahasa Pemrograman-...|Sabtu, 26 Agustus 2023|https://www.jobstreet.co.id/id/job/it-programmer-4449210?token=0~c619ba3f-3c3c-4723-ad74-9ce67f807933&sectionRank=3&jobId=jobstreet-id-job-4449210|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
