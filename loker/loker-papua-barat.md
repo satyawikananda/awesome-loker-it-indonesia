@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Papua barat
 
-  ### Diperbarui pada tanggal Jumat, 22 September 2023
+  ### Diperbarui pada tanggal Sabtu, 23 September 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua barat
 
