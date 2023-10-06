@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Sulawesi tenggara
 
-  ### Diperbarui pada tanggal Kamis, 05 Oktober 2023
+  ### Diperbarui pada tanggal Jumat, 06 Oktober 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi tenggara
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/24bc3d81d2d4c3ca5581f143da50de08da019d84/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. HUAYUE NICKEL COBALT|Pemeliharaan dan Pengoperasaian IT [ KONAWE BASED ]|---|Sulawesi Tenggara|Syarat Pekerjaan/职务要求:1. Memiliki dua tahun atau lebih pengalaman kerja dalam pengoperasian danpemeliharaan desktop TI, memahami instalasi, debugging,...|Senin, 11 September 2023|https://www.jobstreet.co.id/id/job/pemeliharaan-dan-pengoperasaian-it-%5B-konawe-based-%5D-4465842?token=0~890ad678-b7ee-4680-968e-84b48816bf14&sectionRank=1&jobId=jobstreet-id-job-4465842|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/84d23b3586ee4efd70ea62878095fcc6b1639e33/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Visionet Data Internasional|Teknisi ATM/EDC (Area : Sulawesi)|---|Sulawesi Selatan|*) Menangani kebutuhan pelanggan di lokasi pelanggan agar terpenuhi SLA yang telah ditentukan.*) Menganalisa problem/case dengan akurat untuk...|Rabu, 13 September 2023|https://www.jobstreet.co.id/id/job/teknisi-atm-edc-area-%3A-sulawesi-4468006?token=0~890ad678-b7ee-4680-968e-84b48816bf14&sectionRank=2&jobId=jobstreet-id-job-4468006|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/24bc3d81d2d4c3ca5581f143da50de08da019d84/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. HUAYUE NICKEL COBALT|Pemeliharaan dan Pengoperasaian IT [ KONAWE BASED ]|---|Sulawesi Tenggara|Syarat Pekerjaan/职务要求:1. Memiliki dua tahun atau lebih pengalaman kerja dalam pengoperasian danpemeliharaan desktop TI, memahami instalasi, debugging,...|Senin, 11 September 2023|https://www.jobstreet.co.id/id/job/pemeliharaan-dan-pengoperasaian-it-%5B-konawe-based-%5D-4465842?token=0~9abaaf28-798a-4f91-bc7c-9c70327260f6&sectionRank=1&jobId=jobstreet-id-job-4465842|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/84d23b3586ee4efd70ea62878095fcc6b1639e33/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Visionet Data Internasional|Teknisi ATM/EDC (Area : Sulawesi)|---|Sulawesi Selatan|*) Menangani kebutuhan pelanggan di lokasi pelanggan agar terpenuhi SLA yang telah ditentukan.*) Menganalisa problem/case dengan akurat untuk...|Rabu, 13 September 2023|https://www.jobstreet.co.id/id/job/teknisi-atm-edc-area-%3A-sulawesi-4468006?token=0~9abaaf28-798a-4f91-bc7c-9c70327260f6&sectionRank=2&jobId=jobstreet-id-job-4468006|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
