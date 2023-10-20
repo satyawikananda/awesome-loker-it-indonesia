@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Sulawesi tengah
 
-  ### Diperbarui pada tanggal Kamis, 19 Oktober 2023
+  ### Diperbarui pada tanggal Jumat, 20 Oktober 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi tengah
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/560a46e3bb72996020db61da1d4bb6c038064785/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Gunbuster Nickel Industry|IT Staff|---|Sulawesi Tengah|Qualifications : Minimun D3 Information Technology/ Information Systems / related field ; Minimum 2 years experience in mining industry or similar;...|Selasa, 03 Oktober 2023|https://www.jobstreet.co.id/id/job/it-staff-4486564?token=0~0e3fd906-b9e7-4f57-acf2-fb0ce91253b4&sectionRank=1&jobId=jobstreet-id-job-4486564|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/560a46e3bb72996020db61da1d4bb6c038064785/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Gunbuster Nickel Industry|IT Staff|---|Sulawesi Tengah|Qualifications : Minimun D3 Information Technology/ Information Systems / related field ; Minimum 2 years experience in mining industry or similar;...|Selasa, 03 Oktober 2023|https://www.jobstreet.co.id/id/job/it-staff-4486564?token=0~484bf3de-e091-4953-9958-f3a5cda28daa&sectionRank=1&jobId=jobstreet-id-job-4486564|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
