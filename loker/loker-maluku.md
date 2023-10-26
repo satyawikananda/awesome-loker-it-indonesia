@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Maluku
 
-  ### Diperbarui pada tanggal Rabu, 25 Oktober 2023
+  ### Diperbarui pada tanggal Kamis, 26 Oktober 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Maluku
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/84d23b3586ee4efd70ea62878095fcc6b1639e33/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Visionet Data Internasional|Teknisi ATM/EDC (Area : Ambon & Ternate)|---|Ambon|*) Menangani kebutuhan pelanggan di lokasi pelanggan agar terpenuhi SLA yang telah ditentukan.*) Menganalisa problem/case dengan akurat untuk...|Rabu, 18 Oktober 2023|https://www.jobstreet.co.id/id/job/teknisi-atm-edc-area-%3A-ambon-ternate-4502361?token=0~5e355520-6bee-470e-8a00-bbc6657090b4&sectionRank=1&jobId=jobstreet-id-job-4502361|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/84d23b3586ee4efd70ea62878095fcc6b1639e33/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Visionet Data Internasional|Teknisi ATM/EDC (Area : Ambon & Ternate)|---|Ambon|*) Menangani kebutuhan pelanggan di lokasi pelanggan agar terpenuhi SLA yang telah ditentukan.*) Menganalisa problem/case dengan akurat untuk...|Rabu, 18 Oktober 2023|https://www.jobstreet.co.id/id/job/teknisi-atm-edc-area-%3A-ambon-ternate-4502361?token=0~b484e374-0436-41a8-be72-497c572cfb68&sectionRank=1&jobId=jobstreet-id-job-4502361|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
