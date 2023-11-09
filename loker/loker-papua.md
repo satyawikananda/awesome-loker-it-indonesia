@@ -1,14 +1,13 @@
 
   # Lowongan kerja di Papua
 
-  ### Diperbarui pada tanggal Rabu, 08 November 2023
+  ### Diperbarui pada tanggal Kamis, 09 November 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/5f02a9d34ae0c6dc1bbf4113aa673e898f6eaabb/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|Koding Next|Programming Teacher - Jayapura|---|Jayapura|Requirements Bachelor Degree in Computer Science/Computer Engineering/Information Technology related field At least have 1 year teaching experience...|Kamis, 26 Oktober 2023|https://www.jobstreet.co.id/id/job/programming-teacher-jayapura-1037277487?token=0~0c05f48a-109c-48d3-bc12-c579ce0628d2&sectionRank=1&jobId=jobstreet-id-job-1037277487|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/926f6c6af85097e335a54aa03d4b0f50ee3b535e/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Aneka Tambang Tbk|Senior Data Management Engineer  Antam|---|Sorong|About this positionPosisi Yang Dibutuhkan: Senior Data Management EngineerTugas dan tanggung jawab big data engineer Mendesain dan melakukan...|Selasa, 17 Oktober 2023|https://www.jobstreet.co.id/id/job/senior-data-management-engineer-antam-1037213002?token=0~0c05f48a-109c-48d3-bc12-c579ce0628d2&sectionRank=2&jobId=jobstreet-id-job-1037213002|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0d75518309b56a3cff39daa569b0ba02cc7a22f2/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Metrodata Electronics, Tbk|IT Support (Ambon & Jayapura)|---|Jayapura|Job Description : Improve SLA achievement of the services provided Manage, maintain and repair all problems related to technology experienced by...|Rabu, 08 November 2023|https://www.jobstreet.co.id/id/job/it-support-ambon-jayapura-4522887?token=0~5810a74f-1c60-4eed-bd4c-ef31f1d0c344&sectionRank=1&jobId=jobstreet-id-job-4522887|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
