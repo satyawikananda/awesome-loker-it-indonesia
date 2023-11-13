@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Bengkulu
 
-  ### Diperbarui pada tanggal Minggu, 12 November 2023
+  ### Diperbarui pada tanggal Senin, 13 November 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Bengkulu
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/84d23b3586ee4efd70ea62878095fcc6b1639e33/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Visionet Data Internasional|IT Support (Area : Bengkulu & Lampung)|---|Bengkulu|Tanggung Jawab Utama : Monitoring system dan jaringan Melakukan troubleshooting jaringan, hardware dan software Maintain penyelesaian tiket sesuai...|Selasa, 31 Oktober 2023|https://www.jobstreet.co.id/id/job/it-support-area-%3A-bengkulu-lampung-4514868?token=0~1f6ae342-ea2b-4bad-95f1-3ba0d086b244&sectionRank=1&jobId=jobstreet-id-job-4514868|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/84d23b3586ee4efd70ea62878095fcc6b1639e33/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Visionet Data Internasional|IT Support (Area : Bengkulu & Lampung)|---|Bengkulu|Tanggung Jawab Utama : Monitoring system dan jaringan Melakukan troubleshooting jaringan, hardware dan software Maintain penyelesaian tiket sesuai...|Selasa, 31 Oktober 2023|https://www.jobstreet.co.id/id/job/it-support-area-%3A-bengkulu-lampung-4514868?token=0~9096d7c9-6071-4e68-ac21-667df92d5a60&sectionRank=1&jobId=jobstreet-id-job-4514868|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
