@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Lampung
 
-  ### Diperbarui pada tanggal Senin, 20 November 2023
+  ### Diperbarui pada tanggal Selasa, 21 November 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Lampung
 
