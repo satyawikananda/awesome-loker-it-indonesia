@@ -1,14 +1,14 @@
 
   # Lowongan kerja di Papua
 
-  ### Diperbarui pada tanggal Minggu, 26 November 2023
+  ### Diperbarui pada tanggal Senin, 27 November 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0f683dc67275bb803453d1e92fb7cd7b12b824b6/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|IT Technical Support|Rp. 3.500.000-Rp. 4.500.000|Jayapura|Keuntungan Lingkungan kerja yang nyaman Sertifikasi dan Training Pengembangan karir Deskripsi Pekerjaan Pendidikan minimum D3/S1 Jurusan IT IPK...|Kamis, 09 November 2023|https://www.jobstreet.co.id/id/job/it-technical-support-4524266?token=0~7ad47f70-cf39-4199-8fd5-fe6cb9bc72e9&sectionRank=1&jobId=jobstreet-id-job-4524266|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/0d75518309b56a3cff39daa569b0ba02cc7a22f2/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Metrodata Electronics, Tbk|IT Support (Ambon & Jayapura)|---|Jayapura|Job Description : Improve SLA achievement of the services provided Manage, maintain and repair all problems related to technology experienced by...|Rabu, 08 November 2023|https://www.jobstreet.co.id/id/job/it-support-ambon-jayapura-4522887?token=0~7ad47f70-cf39-4199-8fd5-fe6cb9bc72e9&sectionRank=2&jobId=jobstreet-id-job-4522887|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/0f683dc67275bb803453d1e92fb7cd7b12b824b6/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Swadharma Duta Data|IT Technical Support|Rp. 3.500.000-Rp. 4.500.000|Jayapura|Keuntungan Lingkungan kerja yang nyaman Sertifikasi dan Training Pengembangan karir Deskripsi Pekerjaan Pendidikan minimum D3/S1 Jurusan IT IPK...|Kamis, 09 November 2023|https://www.jobstreet.co.id/id/job/it-technical-support-4524266?token=0~567a3c9e-4e78-4ca2-b026-2850257a08a1&sectionRank=1&jobId=jobstreet-id-job-4524266|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/0d75518309b56a3cff39daa569b0ba02cc7a22f2/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Metrodata Electronics, Tbk|IT Support (Ambon & Jayapura)|---|Jayapura|Job Description : Improve SLA achievement of the services provided Manage, maintain and repair all problems related to technology experienced by...|Rabu, 08 November 2023|https://www.jobstreet.co.id/id/job/it-support-ambon-jayapura-4522887?token=0~567a3c9e-4e78-4ca2-b026-2850257a08a1&sectionRank=2&jobId=jobstreet-id-job-4522887|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
