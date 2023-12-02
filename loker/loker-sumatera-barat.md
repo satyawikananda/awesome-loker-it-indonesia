@@ -1,15 +1,15 @@
 
   # Lowongan kerja di Sumatera barat
 
-  ### Diperbarui pada tanggal Jumat, 01 Desember 2023
+  ### Diperbarui pada tanggal Sabtu, 02 Desember 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Sumatera barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|PT. Cyber Network Indonesia (CNI)|STAFF NOC/IP CORE|---|Padang|STAFF NOC/IP COREQUALIFICATION:• Pendidikan Minimal D1• Mengerti Dasar jaringan• Memahami configurasi Mikrotik, Cisco, Juniper• Memahami Server (OS...|Senin, 13 November 2023|https://www.jobstreet.co.id/id/job/staff-noc-ip-core-1037388873?token=0~44d79f04-1376-40a6-af2f-cc23c0938e2b&sectionRank=1&jobId=jobstreet-id-job-1037388873|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/eb339a84a2429d1c48258e03e078b5668854208f/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Jaya Kartha Solusindo|Technical Support|---|Padang|Jobdesk: Instalasi jaringan Konfigurasi jaringan Pemeliharaan jaringan Troubleshooting Keamanan jaringan Pemulihan bencana untuk jaringan Upgrade...|Selasa, 07 November 2023|https://www.jobstreet.co.id/id/job/technical-support-1037356113?token=0~44d79f04-1376-40a6-af2f-cc23c0938e2b&sectionRank=2&jobId=jobstreet-id-job-1037356113|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/295a790b1e507a7e7e1ece863a9cbc400be15412/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Jaya Kartha Solusindo|Technical Supervisor|---|Padang|jobdesk:• Memonitoring Pekerjaan tim Teknis• Membuat Jadwal Psb atau Penanangganan Gangguan Di pelanggan• Mengevaluasi Kinerja dan Troblrshoot yang...|Selasa, 07 November 2023|https://www.jobstreet.co.id/id/job/technical-supervisor-1037356109?token=0~44d79f04-1376-40a6-af2f-cc23c0938e2b&sectionRank=3&jobId=jobstreet-id-job-1037356109|
+  |![logo-perusahaan](https://i.ibb.co/sqvTCh9/112815900-stock-vector-no-image-available-icon-flat-vector.webp)|PT. Cyber Network Indonesia (CNI)|STAFF NOC/IP CORE|---|Padang|STAFF NOC/IP COREQUALIFICATION:• Pendidikan Minimal D1• Mengerti Dasar jaringan• Memahami configurasi Mikrotik, Cisco, Juniper• Memahami Server (OS...|Senin, 13 November 2023|https://www.jobstreet.co.id/id/job/staff-noc-ip-core-1037388873?token=0~3525fa50-1830-433c-8368-6eb7c840dd0d&sectionRank=1&jobId=jobstreet-id-job-1037388873|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/295a790b1e507a7e7e1ece863a9cbc400be15412/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Jaya Kartha Solusindo|Technical Support|---|Padang|Jobdesk: Instalasi jaringan Konfigurasi jaringan Pemeliharaan jaringan Troubleshooting Keamanan jaringan Pemulihan bencana untuk jaringan Upgrade...|Selasa, 07 November 2023|https://www.jobstreet.co.id/id/job/technical-support-1037356113?token=0~3525fa50-1830-433c-8368-6eb7c840dd0d&sectionRank=2&jobId=jobstreet-id-job-1037356113|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/eb339a84a2429d1c48258e03e078b5668854208f/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Jaya Kartha Solusindo|Technical Supervisor|---|Padang|jobdesk:• Memonitoring Pekerjaan tim Teknis• Membuat Jadwal Psb atau Penanangganan Gangguan Di pelanggan• Mengevaluasi Kinerja dan Troblrshoot yang...|Selasa, 07 November 2023|https://www.jobstreet.co.id/id/job/technical-supervisor-1037356109?token=0~3525fa50-1830-433c-8368-6eb7c840dd0d&sectionRank=3&jobId=jobstreet-id-job-1037356109|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
