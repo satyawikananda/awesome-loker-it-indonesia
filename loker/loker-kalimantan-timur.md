@@ -1,15 +1,15 @@
 
   # Lowongan kerja di Kalimantan timur
 
-  ### Diperbarui pada tanggal Jumat, 08 Desember 2023
+  ### Diperbarui pada tanggal Sabtu, 09 Desember 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan timur
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/2a4e6f1eb7914cbadb33198a56861a650f28a359/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Internasional Prima Coal (Samarinda)|IT Development & Infrastruktur|---|Samarinda|Kualifikasi : Usia maksimal 35 tahun; Min. Lulusan S1 Teknik Informatika atau sejenisnya; Pengalaman kerja min. 5 tahun di bidang IT; Menguasai...|Kamis, 16 November 2023|https://www.jobstreet.co.id/id/job/it-development-infrastruktur-4530773?token=0~5c1a7c0f-3a57-4311-b16a-7a794431b41f&sectionRank=1&jobId=jobstreet-id-job-4530773|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/eedca42140913d7f87e39e5e29f7bac15a209614/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Transcoal Pacific, Tbk|IT STAFF|---|Kalimantan Timur|Computer Network: Melakukan instalasi, konfigurasi, dan memelihara jaringan komputer / laptop di Perusahaan.Memastikan semua komputer terhubung pada...|Kamis, 09 November 2023|https://www.jobstreet.co.id/id/job/it-staff-4524573?token=0~5c1a7c0f-3a57-4311-b16a-7a794431b41f&sectionRank=2&jobId=jobstreet-id-job-4524573|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/cf504cf0fd63cff79d8947c0ec301d1bfb683f57/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Agro Harapan Lestari|IT Assistant - Placement in East Kalimantan Site (Sepaku)|---|Penajam Paser Utara|Job Descriptions: Microsoft Windows Server (2003, 2008R2) administration, installation, disaster recovery planning, backups, performance analysis, and...|Kamis, 09 November 2023|https://www.jobstreet.co.id/id/job/it-assistant-placement-in-east-kalimantan-site-sepaku-4524504?token=0~5c1a7c0f-3a57-4311-b16a-7a794431b41f&sectionRank=3&jobId=jobstreet-id-job-4524504|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/2a4e6f1eb7914cbadb33198a56861a650f28a359/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Internasional Prima Coal (Samarinda)|IT Development & Infrastruktur|---|Samarinda|Kualifikasi : Usia maksimal 35 tahun; Min. Lulusan S1 Teknik Informatika atau sejenisnya; Pengalaman kerja min. 5 tahun di bidang IT; Menguasai...|Kamis, 16 November 2023|https://www.jobstreet.co.id/id/job/it-development-infrastruktur-4530773?token=0~860b8d92-1ca2-4c20-9605-3a6a46df81fe&sectionRank=1&jobId=jobstreet-id-job-4530773|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/eedca42140913d7f87e39e5e29f7bac15a209614/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Transcoal Pacific, Tbk|IT STAFF|---|Kalimantan Timur|Computer Network: Melakukan instalasi, konfigurasi, dan memelihara jaringan komputer / laptop di Perusahaan.Memastikan semua komputer terhubung pada...|Kamis, 09 November 2023|https://www.jobstreet.co.id/id/job/it-staff-4524573?token=0~860b8d92-1ca2-4c20-9605-3a6a46df81fe&sectionRank=2&jobId=jobstreet-id-job-4524573|
+|![logo-perusahaan](https://image-service-cdn.seek.com.au/cf504cf0fd63cff79d8947c0ec301d1bfb683f57/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Agro Harapan Lestari|IT Assistant - Placement in East Kalimantan Site (Sepaku)|---|Penajam Paser Utara|Job Descriptions: Microsoft Windows Server (2003, 2008R2) administration, installation, disaster recovery planning, backups, performance analysis, and...|Kamis, 09 November 2023|https://www.jobstreet.co.id/id/job/it-assistant-placement-in-east-kalimantan-site-sepaku-4524504?token=0~860b8d92-1ca2-4c20-9605-3a6a46df81fe&sectionRank=3&jobId=jobstreet-id-job-4524504|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
