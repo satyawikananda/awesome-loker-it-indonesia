@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Nusa tenggara-timur
 
-  ### Diperbarui pada tanggal Senin, 11 Desember 2023
+  ### Diperbarui pada tanggal Selasa, 12 Desember 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Nusa tenggara-timur
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/5c07f6241f19f0664e51c3542e05aead1ea7cc15/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT NTT Data Indonesia|Cloud Solution Delivery Lead Consultant|---|Nusa Tenggara Timur|Apply nowDate: Nov 15, 2023Location: Any NTT location, KA, IN*************** { display: inline; }Company: NTT DATA ServicesReq ID: 242390 NTT DATA...|Rabu, 15 November 2023|https://www.jobstreet.co.id/id/job/cloud-solution-delivery-lead-consultant-1037407006?token=0~ae7ae3a6-f3fa-4374-a195-237b4248f3f5&sectionRank=1&jobId=jobstreet-id-job-1037407006|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/5c07f6241f19f0664e51c3542e05aead1ea7cc15/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT NTT Data Indonesia|Cloud Solution Delivery Lead Consultant|---|Nusa Tenggara Timur|Apply nowDate: Nov 15, 2023Location: Any NTT location, KA, IN*************** { display: inline; }Company: NTT DATA ServicesReq ID: 242390 NTT DATA...|Rabu, 15 November 2023|https://www.jobstreet.co.id/id/job/cloud-solution-delivery-lead-consultant-1037407006?token=0~dd0ac6e0-0dd8-4bad-b861-eb10a9391931&sectionRank=1&jobId=jobstreet-id-job-1037407006|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
