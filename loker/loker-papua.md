@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Papua
 
-  ### Diperbarui pada tanggal Rabu, 13 Desember 2023
+  ### Diperbarui pada tanggal Kamis, 14 Desember 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Papua
 

@@ -1,13 +1,13 @@
 
   # Lowongan kerja di Kalimantan tengah
 
-  ### Diperbarui pada tanggal Rabu, 13 Desember 2023
+  ### Diperbarui pada tanggal Kamis, 14 Desember 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan tengah
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/4da4384406fabd2d801579470d36717aaa68d773/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Inti Harmoni Solusindo|Technical Wireless & CCTV|Rp. 2.500.000-Rp. 4.000.000|Kalimantan Tengah|Technical Wireless &amp; CCTVPersyaratan : Minimal lulusan SMK TKJ / Transmisi / Sederajat.  Mengerti dan paham teknologi Wireless Access Point,...|Kamis, 16 November 2023|https://www.jobstreet.co.id/id/job/technical-wireless-cctv-4531402?token=0~a5ae0836-b288-48c5-945c-843b099496ea&sectionRank=1&jobId=jobstreet-id-job-4531402|
+  |![logo-perusahaan](https://image-service-cdn.seek.com.au/2eaf3b9985ff1a1f3681fce20f0b964b1d80f2a2/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT. Inti Harmoni Solusindo|Technical Wireless & CCTV|Rp. 2.500.000-Rp. 4.000.000|Kalimantan Tengah|Technical Wireless &amp; CCTVPersyaratan : Minimal lulusan SMK TKJ / Transmisi / Sederajat.  Mengerti dan paham teknologi Wireless Access Point,...|Kamis, 16 November 2023|https://www.jobstreet.co.id/id/job/technical-wireless-cctv-4531402?token=0~a2dec075-a446-4806-9a9f-3adc183916dc&sectionRank=1&jobId=jobstreet-id-job-4531402|
 
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
