@@ -1,20 +1,13 @@
 
   # Lowongan kerja di Jawa barat
 
-  ### Diperbarui pada tanggal Minggu, 17 Desember 2023
+  ### Diperbarui pada tanggal Senin, 18 Desember 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Jawa barat
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/d5868152525c083dcbedb1aa22a408e592bdf7d2/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|RGF HR Agent Indonesia|IT Assistant Manager - Manufacturing - Cikarang (A-100676)|Rp. 12.000.000-Rp. 16.000.000|Cikarang|About The Company: The working venue is in Cikarang. Our client is a Japanese Manufacturing company. Currently, they are looking for IT Assistant...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/it-assistant-manager-manufacturing-cikarang-a-100676-4532377?token=0~aa139022-3fa9-492d-bbdb-01875e6518a5&sectionRank=1&jobId=jobstreet-id-job-4532377|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/730114910afe0940ee0b730cf3324697ed664c04/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Persada Inti Utama (Jakarta)|System Analyst|---|Bekasi|Menganalisa aplikasi ( software ) yang digunakan oleh perusahaan ( Custom, ERP, HRIS, dll. ) Mengusulkan perbaikan dan atau improvement sesuai dengan...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/system-analyst-4532010?token=0~aa139022-3fa9-492d-bbdb-01875e6518a5&sectionRank=2&jobId=jobstreet-id-job-4532010|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/120423eada93c4f9aec7ec4a779d27319ae3d94d/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Cipta Usaha Kemitraan|Data Center Operation|Rp. 7.000.000-Rp. 10.000.000|Jawa Barat|DCO (Data Center Operation) Engineer, dengan tugas utama monitoring dan troubleshoot Layer 1 untuk Data Center (server, network, infrastruktur...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/data-center-operation-4532046?token=0~aa139022-3fa9-492d-bbdb-01875e6518a5&sectionRank=3&jobId=jobstreet-id-job-4532046|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/ffa8dbe26ae5048e09512f42ae87f20c653c5105/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Kuantum Solusi Teknologi|Junior Software Engineer|---|Bogor|Software EngineerRequirement Diploma/Bachelor of Computer Science/Information System Min. 1 years experience as a system analyst (min. 1 cycle project...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/junior-software-engineer-4532007?token=0~aa139022-3fa9-492d-bbdb-01875e6518a5&sectionRank=4&jobId=jobstreet-id-job-4532007|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/3f2f629f227e0cbdfaf674bbaf6f8e86464a66ba/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT SR12 Herbal Kosmetik|Quality Assurance|---|Bogor|Kualifikasi: Min Pendidikan D3 Memahami konsep-konsep dasar pengujian perangkat lunak, termasuk pengujian fungsional dan pengujian non-fungsional....|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/quality-assurance-4531548?token=0~aa139022-3fa9-492d-bbdb-01875e6518a5&sectionRank=5&jobId=jobstreet-id-job-4531548|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/4e07edad77b9af4c0e9627dfbcc6278a55f0dde2/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Digital Laskar Pelangi (Orderfaz)|Odoo Developer (Python Programmer)|---|Jawa Barat|Responsibility: Work with vendor / partner, stakeholders, and other engineers to develop and maintain project website. Design, develop, and testing,...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/odoo-developer-python-programmer-4531811?token=0~aa139022-3fa9-492d-bbdb-01875e6518a5&sectionRank=6&jobId=jobstreet-id-job-4531811|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/e68aac730da390a16ce750d09b06eaca69364b55/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Formulatrix Indonesia|RnD Senior Software Engineer - Machine Vision|Rp. 15.000.000-Rp. 30.000.000|Bandung|Headquartered in Dubai, United Arab Emirates, FORMULATRIX is a fast-growing robotic automation equipment manufacturer and software solutions provider...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/rnd-senior-software-engineer-machine-vision-4532127?token=0~aa139022-3fa9-492d-bbdb-01875e6518a5&sectionRank=7&jobId=jobstreet-id-job-4532127|
-
+  
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
   

@@ -1,19 +1,13 @@
 
   # Lowongan kerja di Banten
 
-  ### Diperbarui pada tanggal Minggu, 17 Desember 2023
+  ### Diperbarui pada tanggal Senin, 18 Desember 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Banten
 
   |Logo Perusahaan | Nama Perusahaan | Judul Pekerjaan | Gaji Pekerjaan | Lokasi | Deskripsi | Tanggal diunggah | Pranala |
   | -------------- | --------------- | --------------- | --------- | --------- | -------------- | ------- | ----------- |
-  |![logo-perusahaan](https://image-service-cdn.seek.com.au/38481d6f0abbc276b58de129ccf48ae97516e538/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Minova Infotech Solutions|IT Project Leader|---|Tangerang|We are a rapid-growing enterprise solutions Company, seeking the best candidates to join us in a challenging and out-of the box environment. As a...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/it-project-leader-4531642?token=0~b5e0083e-8253-4e6e-bc05-d245439433c9&sectionRank=1&jobId=jobstreet-id-job-4531642|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/d9e02068dc7e4efc2522e2c487a2372eee66525f/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|JJ PROMOTION|Teknisi Program Led/videotron (IT)|---|Tangerang|Kualifikasi -      Usia Maksimal 35 Tahun-      Pendidikan min Smk /D3 Jurusan Teknik informatika-      Mengerti dan menguasai bidang komputer...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/teknisi-program-led-videotron-it-4532396?token=0~b5e0083e-8253-4e6e-bc05-d245439433c9&sectionRank=2&jobId=jobstreet-id-job-4532396|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/0068b3c7d8c0b5b3270173daee50f759a8f3f8de/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Teknologi Inovasi Mandiri|IT Senior Programmer (Java Developer)|---|Tangerang|Have min. 5 years experiences with a backend framework such as Java (SpringBoot) Have experience in Java Development Broad knowledge of Java...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/it-senior-programmer-java-developer-4531671?token=0~b5e0083e-8253-4e6e-bc05-d245439433c9&sectionRank=3&jobId=jobstreet-id-job-4531671|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/0068b3c7d8c0b5b3270173daee50f759a8f3f8de/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Teknologi Inovasi Mandiri|IT Project Manager|---|Tangerang|Have minimum 3 years experience in project manager or a related fields Manages one or more cross-functional projects of medium to high complexity...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/it-project-manager-4531815?token=0~b5e0083e-8253-4e6e-bc05-d245439433c9&sectionRank=4&jobId=jobstreet-id-job-4531815|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/572360d3ca694a6d9bdc85e2e0ffcb91dbd20bfa/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT MAKO ANUGERAH KREASINDO|IT Application ERP Supervisor|---|Tangerang|Kualifikasi : Pengalaman minimal 2 tahun sebagai IT Application ERP Supervisor Pendidikan S1 semua jurusan Berpengalaman di system ERP/SAP/Modul MM...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/it-application-erp-supervisor-4532339?token=0~b5e0083e-8253-4e6e-bc05-d245439433c9&sectionRank=5&jobId=jobstreet-id-job-4532339|
-|![logo-perusahaan](https://image-service-cdn.seek.com.au/2e0b071a1e982b42f15f297eea603a06acc951f4/ee4dce1061f3f616224767ad58cb2fc751b8d2dc)|PT Dwidasa Samsara Indonesia|Project Manager - Tangerang (Alam Sutera)|Rp. 8.000.000-Rp. 10.000.000|Tangerang|Job Description: Plan the project Define the scope of the project in collaboration with senior management Create a detailed work plan which identifies...|Jumat, 17 November 2023|https://www.jobstreet.co.id/id/job/project-manager-tangerang-alam-sutera-4532392?token=0~b5e0083e-8253-4e6e-bc05-d245439433c9&sectionRank=6&jobId=jobstreet-id-job-4532392|
-
+  
 
   [Kembali ke daftar lowongan kerja 🔙](../README.md#daftar-lowongan-kerja)
   
