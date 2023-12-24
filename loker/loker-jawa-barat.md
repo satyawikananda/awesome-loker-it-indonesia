@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Jawa barat
 
-  ### Diperbarui pada tanggal Sabtu, 23 Desember 2023
+  ### Diperbarui pada tanggal Minggu, 24 Desember 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Jawa barat
 
