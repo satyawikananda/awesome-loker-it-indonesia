@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Sulawesi selatan
 
-  ### Diperbarui pada tanggal Senin, 25 Desember 2023
+  ### Diperbarui pada tanggal Selasa, 26 Desember 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Sulawesi selatan
 
