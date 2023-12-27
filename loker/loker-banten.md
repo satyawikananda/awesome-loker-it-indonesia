@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Banten
 
-  ### Diperbarui pada tanggal Selasa, 26 Desember 2023
+  ### Diperbarui pada tanggal Rabu, 27 Desember 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Banten
 
