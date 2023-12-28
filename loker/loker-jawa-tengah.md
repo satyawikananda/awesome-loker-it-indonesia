@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Jawa tengah
 
-  ### Diperbarui pada tanggal Rabu, 27 Desember 2023
+  ### Diperbarui pada tanggal Kamis, 28 Desember 2023
 
   Berikut merupakan daftar lowongan kerja yang ada di Jawa tengah
 
