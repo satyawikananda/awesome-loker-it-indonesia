@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Kalimantan selatan
 
-  ### Diperbarui pada tanggal Kamis, 04 Januari 2024
+  ### Diperbarui pada tanggal Jumat, 05 Januari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan selatan
 
