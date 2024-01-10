@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Sumatera utara
 
-  ### Diperbarui pada tanggal Selasa, 09 Januari 2024
+  ### Diperbarui pada tanggal Rabu, 10 Januari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Sumatera utara
 
