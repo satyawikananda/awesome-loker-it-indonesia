@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Nusa tenggara-barat
 
-  ### Diperbarui pada tanggal Kamis, 11 Januari 2024
+  ### Diperbarui pada tanggal Jumat, 12 Januari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Nusa tenggara-barat
 
