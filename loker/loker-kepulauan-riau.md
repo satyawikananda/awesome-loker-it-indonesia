@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Kepulauan riau
 
-  ### Diperbarui pada tanggal Sabtu, 13 Januari 2024
+  ### Diperbarui pada tanggal Minggu, 14 Januari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Kepulauan riau
 
