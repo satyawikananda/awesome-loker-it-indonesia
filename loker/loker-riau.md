@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Riau
 
-  ### Diperbarui pada tanggal Selasa, 16 Januari 2024
+  ### Diperbarui pada tanggal Rabu, 17 Januari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Riau
 
