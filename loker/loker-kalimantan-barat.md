@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Kalimantan barat
 
-  ### Diperbarui pada tanggal Rabu, 17 Januari 2024
+  ### Diperbarui pada tanggal Kamis, 18 Januari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan barat
 
