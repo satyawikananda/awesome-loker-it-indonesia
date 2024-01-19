@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Sumatera barat
 
-  ### Diperbarui pada tanggal Kamis, 18 Januari 2024
+  ### Diperbarui pada tanggal Jumat, 19 Januari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Sumatera barat
 
