@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Jawa timur
 
-  ### Diperbarui pada tanggal Minggu, 21 Januari 2024
+  ### Diperbarui pada tanggal Senin, 22 Januari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Jawa timur
 
