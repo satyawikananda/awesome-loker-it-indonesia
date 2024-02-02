@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Aceh
 
-  ### Diperbarui pada tanggal Kamis, 01 Februari 2024
+  ### Diperbarui pada tanggal Jumat, 02 Februari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Aceh
 
