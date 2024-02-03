@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Kalimantan tengah
 
-  ### Diperbarui pada tanggal Jumat, 02 Februari 2024
+  ### Diperbarui pada tanggal Sabtu, 03 Februari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan tengah
 
