@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Jambi
 
-  ### Diperbarui pada tanggal Jumat, 09 Februari 2024
+  ### Diperbarui pada tanggal Sabtu, 10 Februari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Jambi
 
