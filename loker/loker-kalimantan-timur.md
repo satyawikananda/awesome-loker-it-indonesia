@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Kalimantan timur
 
-  ### Diperbarui pada tanggal Senin, 12 Februari 2024
+  ### Diperbarui pada tanggal Selasa, 13 Februari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Kalimantan timur
 
