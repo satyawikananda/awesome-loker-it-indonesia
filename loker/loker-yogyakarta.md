@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Yogyakarta
 
-  ### Diperbarui pada tanggal Selasa, 13 Februari 2024
+  ### Diperbarui pada tanggal Rabu, 14 Februari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Yogyakarta
 
