@@ -1,7 +1,7 @@
 
   # Lowongan kerja di Jakarta
 
-  ### Diperbarui pada tanggal Rabu, 14 Februari 2024
+  ### Diperbarui pada tanggal Kamis, 15 Februari 2024
 
   Berikut merupakan daftar lowongan kerja yang ada di Jakarta
 
